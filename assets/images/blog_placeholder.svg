@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="236px" height="185px" viewBox="0 0 236 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>blog_placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="À-propos" transform="translate(-315.000000, -413.000000)">
+            <g id="blog_placeholder" transform="translate(315.000000, 413.000000)">
+                <rect id="Rectangle" fill="#F5F5F5" x="0" y="122" width="236" height="63" rx="20"></rect>
+                <rect id="Rectangle" fill="#F5F5F5" x="103" y="80" width="30" height="30" rx="15"></rect>
+                <rect id="Rectangle" fill="#F5F5F5" x="103" y="40" width="30" height="30" rx="15"></rect>
+                <rect id="Rectangle" fill="#F5F5F5" x="103" y="0" width="30" height="30" rx="15"></rect>
+                <text id="Bientôt…💡" font-family="Rubik-Medium, Rubik" font-size="20" font-weight="400" line-spacing="25" fill="#282828">
+                    <tspan x="68" y="160">Bientôt…</tspan>
+                    <tspan x="158.235" y="158" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">💡</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

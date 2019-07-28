@@ -1,0 +1,174 @@
+---
+---
+
+@import "minima";
+@import "minima/base";
+
+@font-face {
+  font-family: "Rubik Bold";
+  src: url("/assets/fonts/Rubik-Bold.ttf")
+}
+
+@font-face {
+  font-family: "Rubik Medium";
+  src: url("/assets/fonts/Rubik-Medium.ttf")
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url("/assets/fonts/Rubik-Regular.ttf")
+}
+
+@font-face {
+  font-family: "Rubik Black";
+  src: url("/assets/fonts/Rubik-Black.ttf")
+}
+
+body {
+  font-family: "Rubik";
+}
+
+.dark {
+  color: #FFFFFF;
+  background-color: #1E1E1E}
+
+.home {
+    font-family: "Rubik Medium";
+    color: #E0E0E0;
+    line-height: 28px;
+    font-size: 16px;
+}
+
+.site-header {
+  border: none;
+  font-family: "Rubik Bold";
+}
+
+.site-header-dark {
+  color: #FFFFFF;
+  background-color: #1E1E1E;
+}
+
+.site-title {
+  padding-top: 76px;
+  padding-bottom: 130px;
+  letter-spacing: 0px;
+}
+
+.site-nav {
+  margin-top: 76px;
+  margin-bottom: 150px;
+}
+
+.page-title {
+    padding-bottom: 45px;
+}
+
+.site-nav-dark .page-link {
+    color: #FFFFFF;
+}
+
+.site-nav .page-link {
+	font-size: 7pt;
+	text-transform: uppercase;}
+
+@media screen and (min-width: 600px) {
+        .site-nav .page-link:not(:last-child)  {
+          padding-right: 18px;
+          padding-left: 18px; 
+          margin-right: 5px;
+          margin-left: 5px;}
+         .site-nav .page-link:last-child  {
+          padding-right: 18px;
+          padding-left: 18px; 
+          margin-right: 5px;
+          margin-left: 5px;} }
+
+.highlight {
+  background-color: #4A90E2;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  margin-left: 5px;
+  color: #FFFFFF;
+  font-family: "Rubik Bold";
+}
+
+h3 {
+  font-family: "Rubik-Black";
+  font-size: 20px;
+  padding-bottom: 20px;
+  padding-top: 45px;
+  color: #1E1E1E;
+}
+
+h3 .dark {
+    color: #FFFFFF;
+}
+
+a {
+  color: #FFFFFF;
+  font-family: "Rubik-Bold";}
+  a:visited {
+  color: #FFFFFF; }
+
+.link:hover {
+        background-color: #F0F0F0;
+        border-radius: 5px;
+          padding-left: 7px;
+          padding-right: 7px;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          color: #1E1E1E;
+          text-decoration: none;
+          font-family: "Rubik-Medium"}
+
+.page-link {
+  margin-left: 0px;
+}
+
+@media screen and (min-width: 600px) {
+.site-nav .page-link:hover {
+        background-color: #F0F0F0;
+        border-radius: 5px;
+          padding-left: 18px;
+          padding-right: 18px;
+          padding-top: 7px;
+          padding-bottom: 7px;
+          color: #1E1E1E;
+          text-decoration: none;
+          font-family: "Rubik-Bold"}
+
+.site-nav .active  {
+        background-color: #F0F0F0;
+        border-radius: 5px;
+          padding-left: 18px;
+          padding-right: 18px;
+          padding-top: 7px;
+          padding-bottom: 7px;
+          color: #1E1E1E;
+          text-decoration: none;
+          font-family: "Rubik-Bold"}
+}
+
+.picture {
+  padding-top: 25px;
+  padding-bottom: 72px;
+}
+
+.post-content {
+  font-family: "Rubik";
+  color: #5B5B5B;
+  font-size: 16px;
+  line-height: 30px;
+  max-width: 600px;
+}
+
+.placeholder {
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
