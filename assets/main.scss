@@ -64,8 +64,19 @@ body {
     padding-bottom: 45px;
 }
 
+.site-nav {
+  border: none;
+}
+
+.site-nav-dark {
+    background-color: #1E1E1E;
+    color: #1E1E1E;
+    border: none;
+}
+
 .site-nav-dark .page-link {
     color: #FFFFFF;
+    background-color: #1E1E1E;
 }
 
 .site-nav .page-link {
