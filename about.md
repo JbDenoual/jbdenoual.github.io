@@ -23,7 +23,7 @@ Le Product Management est une discipline bien trop riche pour que je puisse un j
 
 ### BACK IN THE DAY ###
 
-Je fus diplômé d'un master en Informatique en 2013 et j'ai commencé une carrière de développeur spécialisé dans le mobile. Petit à petit, j’ai développé mon goût et mes compétences pour le design à travers les produits que j’ai créés et auxquels j'ai contribué.<br/><br/>
+J'ai été diplômé d'un master en Informatique en 2013 et j'ai commencé une carrière de développeur spécialisé dans le mobile. Petit à petit, j’ai développé mon goût et mes compétences pour le design à travers les produits que j’ai créés et auxquels j'ai contribué.<br/><br/>
 
 Passionné et expert du monde mobile, j'ai ensuite créé une Agence Mobile dans l'idée d'apporter mon aide à d'autres entreprises pour créer leurs produits, cumulant alors les casquettes de développeur, designer et Product Owner.<br/><br/>
 
