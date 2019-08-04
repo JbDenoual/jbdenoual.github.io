@@ -14,8 +14,8 @@ Je vis à Paris et je suis passionné par la conception de produits. <br />
 Mes maîtres mots sont Bienveillance, Recherche d’excellence et Action !<br />
 Pour en savoir plus sur moi  👉<a href="about" class="link">c’est par ici.</a>
 
-### <span class="dark">CONTACT</span> ###
 
+### <span class="dark">CONTACT</span> ###
 
 Vous pouvez me retrouver sur les réseaux :<br />
 〉<a href="https://twitter.com/JbDenoual" class="link">Twitter</a><br />
