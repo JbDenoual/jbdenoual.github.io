@@ -12,7 +12,7 @@ layout: home
 Mon nom est Jean-Baptiste Denoual et je suis <span class="highlight">Product Manager</span><br />
 Je vis à Paris et je suis passionné par la conception de produits. <br />
 Mes maîtres mots sont Bienveillance, Recherche d’excellence et Action !<br />
-Pour en savoir plus sur moi  👉<a href="about" class="link">c’est par ici.</a>
+Pour en savoir plus sur moi 👉<a href="about" class="link">c’est par ici.</a>
 
 
 ### <span class="dark">CONTACT</span> ###

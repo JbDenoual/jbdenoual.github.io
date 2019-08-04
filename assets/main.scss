@@ -83,7 +83,7 @@ body {
 	font-size: 7pt;
 	text-transform: uppercase;}
 
-@media screen {
+@media screen and (min-width: 600px) {
         .site-nav .page-link:not(:last-child)  {
           padding-right: 18px;
           padding-left: 18px; 
@@ -94,37 +94,6 @@ body {
           padding-left: 18px; 
           margin-right: 5px;
           margin-left: 5px;} }
-
-@media screen {
-.site-nav .page-link:hover {
-        background-color: #F0F0F0;
-        border-radius: 5px;
-          padding-left: 18px;
-          padding-right: 18px;
-          padding-top: 7px;
-          padding-bottom: 7px;
-          color: #1E1E1E;
-          text-decoration: none;
-          font-family: "Rubik Bold"}
-
-@media screen  {
-    .site-nav {
-      position: static;
-      float: right;
-      border: none;
-      background-color: inherit; }
-      .site-nav label[for="nav-trigger"] {
-        display: none; }
-      .site-nav .menu-icon {
-        display: none; }
-      .site-nav input ~ .trigger {
-        display: block; }
-      .site-nav .page-link {
-        display: inline;
-        padding: 0;
-        margin-left: auto; }
-        .site-nav .page-link:not(:last-child) {
-          margin-right: 20px; } }
 
 .highlight {
   background-color: #4A90E2;
@@ -141,7 +110,7 @@ body {
 h3 {
   font-family: "Rubik Bold";
   font-size: 20px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   padding-top: 45px;
   color: #1E1E1E;
 }
@@ -174,6 +143,18 @@ a {
 .page-link {
   margin-left: 0px;
 }
+
+@media screen and (min-width: 600px) {
+.site-nav .page-link:hover {
+        background-color: #F0F0F0;
+        border-radius: 5px;
+          padding-left: 18px;
+          padding-right: 18px;
+          padding-top: 7px;
+          padding-bottom: 7px;
+          color: #1E1E1E;
+          text-decoration: none;
+          font-family: "Rubik Bold"}
 
 .site-nav .active  {
         background-color: #F0F0F0;
