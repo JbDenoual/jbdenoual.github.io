@@ -28,7 +28,8 @@ theme: minima
 plugins:
   - jekyll-feed
 google_analytics: UA—145147491-1
-
+excerpt_separator: <!--more-->
+date_format: "%e %B, %Y"
 
 
 # Exclude from processing.

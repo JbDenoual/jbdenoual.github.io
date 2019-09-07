@@ -24,6 +24,22 @@
   src: url("/assets/fonts/Rubik-Black.ttf")
 }
 
+@font-face {
+  font-family: "Rubik Italic";
+  src: url("/assets/fonts/Rubik-Italic.ttf")
+}
+
+@font-face {
+  font-family: "Lora Bold";
+  src: url("/assets/fonts/Lora-Bold.ttf")
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("/assets/fonts/Lora-Regular.ttf")
+}
+
+
 body {
   font-family: "Rubik";
 }
@@ -107,9 +123,21 @@ body {
   font-family: "Rubik Medium";
 }
 
+p {
+  margin-top: 30px;
+}
+
 h3 {
   font-family: "Rubik Bold";
   font-size: 20px;
+  padding-bottom: 0px;
+  padding-top: 45px;
+  color: #1E1E1E;
+}
+
+h4 {
+  font-family: "Lora Bold";
+  font-size: 25px;
   padding-bottom: 0px;
   padding-top: 45px;
   color: #1E1E1E;
@@ -123,11 +151,63 @@ hr {
      background-color: #FFFFFF; 
 }
 
-a {
+a:hover {
+    text-decoration: none;
+}
+
+.dark-link {
   color: #FFFFFF;
   font-family: "Rubik Medium";}
-  a:visited {
+.dark-link:visited {
   color: #FFFFFF; }
+
+.light-link{
+  color: #1E1E1E;}
+.light-link:visited {
+  color: #1E1E1E; }
+
+.keywords-preview {
+  color: #BABABA;
+  font-family: "Rubik Medium";
+  font-size: 12pt;
+  text-transform: uppercase;
+  margin-top:25px;
+}
+
+.keywords {
+  color: #BABABA;
+  font-family: "Rubik Medium";
+  font-size: 15pt;
+  text-transform: uppercase;
+  margin-top:25px;
+}
+
+.article-title-preview {
+  color: #1E1E1E;
+  font-family: "Lora Bold";
+  font-size: 24pt;
+}
+
+.article-title {
+  color: #1E1E1E;
+  font-family: "Lora Bold";
+  font-size: 28pt;
+}
+
+.article-content {
+  color: #1E1E1E;
+  font-family: "Lora";
+  font-size: 16pt;
+  text-align:justify;
+  margin-top:30px;
+}
+
+.article-date {
+  color: #BABABA;
+  font-family: "Rubik Italic";
+  font-size: 14pt;
+    margin-top:30px;
+}
 
 .link:hover {
         background-color: #F0F0F0;
@@ -171,6 +251,10 @@ a {
 .picture {
   padding-top: 25px;
   padding-bottom: 72px;
+}
+
+.post-link {
+
 }
 
 .post-content {
