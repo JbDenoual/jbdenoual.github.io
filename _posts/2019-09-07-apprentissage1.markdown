@@ -6,7 +6,7 @@ categories: apprentissage
 keywords: "PRIORISATION, ORGANISATION, VEILLE"
 ---
 
-J'ai pris la casquette de Product Owner officiellement il y a un peu plus de 6 mois maintenant. J'ai beaucoup appris, énormément même. J'avais déjà, dans le passé, eu ce rôle au final, mais cette fois c'était différent. Cette fois c'était dans une grande entreprise, avec une grande équipe, et dans un contexte agile. Cette fois, c'était avec des personnes dans mon entourage qui, comme moi, recherchaient l'excellence.<!--more-->
+J'ai pris la casquette de Product Owner officiellement il y a un peu plus de 9 mois maintenant. J'ai beaucoup appris, énormément même. J'avais déjà, dans le passé, eu ce rôle au final, mais cette fois c'était différent. Cette fois c'était dans une grande entreprise, avec une grande équipe, et dans un contexte agile. Cette fois, c'était avec des personnes dans mon entourage qui, comme moi, recherchaient l'excellence.<!--more-->
 
 J'aime apprendre et ces 6 derniers mois, on peut dire que j'ai appris comme jaja (= comme _jamais_, pour les plus de 30 ans). Ça a été un travail quotidien de remise en question, d'écoute, de recherche, et de mise en pratique.
 
@@ -41,7 +41,7 @@ Par conséquent il est courant que je ne réponde à des questions par mails que
 *Bonus*: Au détour d'une autre conversation (j'ai beaucoup de conversation), j'en apprends plus sur GTD (Get Things Done) et sur la notion de Contexte autour d'une tâche et l'on me partage une idée très intéressante que je n'ai pas encore mis en place mais qui m'intrigue au plus au point -> la notion d'Energie comme contexte: Low Energy/High Energy. 
 
 On est tous face à nous-même régulièrement quand il s'agit de commencer une tâche qui nous demande plus d'énergie que nous n'en n'avons. 
-J'ai les hypothèses suivantes sur la mise en place de tâches _High_ et _Low Enerfy_.
+J'ai les hypothèses suivantes sur la mise en place de tâches _High_ et _Low Energy_.
 Peut-être qu'identifier ces tâches nous aideraient à mieux les prioriser par rapport aux ressources internes que l'on a en nous pour les réaliser, plutôt que seulement les prioriser par rapport aux contraintes extérieures que l'on utilise habituellement.
 Peut-être que le simple fait de marquer une tâche comme _High Energy_ peut nous donner ce coup de pouce, ce petit extra de courage nécessaire pour s'y atteler, comme un challenge qui nous permet d'exploiter notre potentiel.
 Ou peut-être encore que cela permettra de construire de petits frameworks personnels pour attaquer ces tâches: "Je fais deux tâches _Low Energy_ et après j'aurais l'énergie pour une _High_". 
@@ -86,7 +86,7 @@ Hormis Twitter, les talks sur Youtube et les articles de blogs, j'ai commencé �
 
 #### Les autres axes de mon apprentissage
 
-J'ai décrit ici ce que j'ai appris sur ma manière de travailler, des choses très concrètes. Il me reste encore beaucoup de choses à partager sur ces derniers mois, sur comment je vois désormais mon rôle et sur les leçons que j'ai apprises, des petites et des grandes. Il faut encore que j'arrive à trouver mon rythme pour poser tout cela, puis on verra ce que ça donne.
+Cet article-ci n'a pas vocation à vous transmettre, c'est plus un journal d'apprentissage à destination de mon moi du passé...et de mon moi du futur. Il me reste encore beaucoup de choses à partager sur ces derniers mois, sur comment je vois désormais mon rôle et sur les leçons que j'ai apprises, des petites et des grandes. Il faut encore que j'arrive à trouver mon rythme pour poser tout cela, puis on verra ce que ça donne. 
 
 N'hésitez pas à vous fendre d'un tweet/mail si vous avez aimé cet article ou si vous avez des feedbacks sur le fond ou la forme.
 
