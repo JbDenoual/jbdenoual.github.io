@@ -8,7 +8,7 @@ keywords: "PRIORISATION, ORGANISATION, VEILLE"
 
 J'ai pris la casquette de Product Owner officiellement il y a un peu plus de 9 mois maintenant. J'ai beaucoup appris, énormément même. J'avais déjà, dans le passé, eu ce rôle au final, mais cette fois c'était différent. Cette fois c'était dans une grande entreprise, avec une grande équipe, et dans un contexte agile. Cette fois, c'était avec des personnes dans mon entourage qui, comme moi, recherchaient l'excellence.<!--more-->
 
-J'aime apprendre et ces 6 derniers mois, on peut dire que j'ai appris comme jaja (= comme _jamais_, pour les plus de 30 ans). Ça a été un travail quotidien de remise en question, d'écoute, de recherche, et de mise en pratique.
+J'aime apprendre et ces 9 derniers mois, on peut dire que j'ai appris comme jaja (= comme _jamais_, pour les plus de 30 ans). Ça a été un travail quotidien de remise en question, d'écoute, de recherche, et de mise en pratique.
 
 J'ai envie de mettre par écrit ce que j'ai appris sur moi et sur mon métier, mais surtout, de le faire régulièrement, à la manière d'une coche sur un pan de mur pour mesurer l'enfant qui grandit, centimètre par centimètre.
 
