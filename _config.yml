@@ -27,12 +27,13 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    google_analytics          : "UA—145147491-1" # Replace this with your ID, or delete
-    anonymize_ip         : false
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA—145147491-1        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 
 excerpt_separator: <!--more-->
 date_format: "%e %B, %Y"
