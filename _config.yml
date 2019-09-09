@@ -31,8 +31,8 @@ plugins:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA—145147491-1" # Replace this with your ID, or delete
-    anonymize_ip         : true
+    google_analytics          : "UA—145147491-1" # Replace this with your ID, or delete
+    anonymize_ip         : false
 
 excerpt_separator: <!--more-->
 date_format: "%e %B, %Y"
