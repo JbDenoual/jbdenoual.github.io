@@ -31,7 +31,7 @@ Puis, c'est au détour d'une conversation très enrichissante que je découvre l
 
 Résumé: Un profil Perdant va réfléchir, planifier mais ne jamais mettre en oeuvre. Un profil Non-Gagnant va réfléchir, planifier et mettre en oeuvre. Et le profil Gagnant va réfléchir, planifier, mettre en oeuvre puis savourer.
 
-Une connexion se fait et je comprends que c'est ici mon problème, je ne savoure pas lorsque j'accomplis une tâche, je passe directement à la suivante, et le système de priorisation que j'ai mis en place accentue ce problème. Une fois la source du problème identifié, j'ai rapidement trouvé une solution, j'ai rajouté une colonne  Terminé _Aujourd'hui_ entre _En cours_ et _Terminé_. De cette manière, je visualise tous les jours ce que j'ai accomplis et je peux savourer le travail en me disant que j'ai fait une bonne journée.
+Une connexion se fait et je comprends que c'est peut-être ici mon problème, je ne savoure pas lorsque j'accomplis une tâche, je passe directement à la suivante, et le système de priorisation que j'ai mis en place accentue ce problème. Une fois la source du problème identifié, j'ai pu mettre en place une solution, j'ai rajouté une colonne  Terminé _Aujourd'hui_ entre _En cours_ et _Terminé_. De cette manière, je visualise tous les jours ce que j'ai accomplis et je peux savourer le travail en me disant que j'ai fait une bonne journée. Je ne suis pas sûr que ça soit une solution parfaite à mon problème, mais c'est au moins un début.
 
 L'autre point important de cette priorisation fut aussi d'accepter de ne pas tout faire. 
 
@@ -66,13 +66,13 @@ Avec l'expérience, je me rends compte cependant que ces moments sont durs à te
 
 Aussi, je suis plus rigoureux pour déléguer ce que je peux. 
 
-Que ça soit parce que ce n'est pas mon rôle (même si je peux avoir un avis mais que je décide de garder pour moi), soit parce que je n'apporte pas de valeur dans cette tâche: rediriger vers la personne avec une information plutôt que faire le passe-plat pour aller la chercher, prendre le temps d'expliquer comment générer un jeu de données plutôt que le faire moi-même pour faire gagner du temps aux développeurs. Soit simplement en demandant de l'aide.
+Que ça soit parce que ce n'est pas mon rôle de prendre une décision (même si je peux avoir un avis mais que je décide de garder pour moi), soit parce que je n'apporte pas de valeur dans cette tâche: rediriger vers la personne avec une information plutôt que faire le passe-plat pour aller la chercher, prendre le temps d'expliquer comment générer un jeu de données plutôt que le faire moi-même pour faire gagner du temps aux développeurs. Soit simplement en demandant de l'aide.
 
 Demander de l'aide. 
 
 D'abord difficile car on a besoin de, non pas forcément de prouver aux autres, mais se prouver à soi-même qu'on peut le faire, que l'on est à la hauteur du job. En tant que Product Owner je fais partie d'une équipe, c'est ce que je leur répète sans arrêt, à _mon équipe_, que la collaboration est importante et qu'il faut qu'ils communiquent plus entre eux pour s'entraider. Mais moi, est-ce que je ne fais pas la même chose qu'eux ? Est-ce que je m'inclue _vraiment_ dans cette équipe du coup ? Leurs rôles ne sont pas les mêmes que le mien et c'est une de mes responsabilités, notamment, de protéger les développeurs des interruptions _extérieures_. Mais parfois je n'ai pas le temps et d'autres peuvent le faire, alors pourquoi pas ?
 
-Le concept qui me vient à l'esprit est celui de _Staff Liquidity_ que j'ai découvert récemment dans le livre _Commitment_ de Chris Matts où il nous parle des _Real Options_. Le principe de ce concept est d'avoir une partie de l'équipe qui puisse bouger d'un rôle vers un autre, selon les besoins du système, et c'est bien là la clé: Faire ce qui a le plus de valeur pour le système.
+Le concept qui me vient à l'esprit est celui de _Staff Liquidity_ que j'ai découvert récemment dans le livre _Commitment_ de Chris Matts. Le principe de ce concept est d'avoir une partie de l'équipe qui puisse bouger d'un rôle vers un autre, selon les besoins du système, et c'est bien là la clé: Faire ce qui a le plus de valeur pour le système.
 
 Donc désormais, plutôt que de me surcharger de travail sans raison, j'essaye de demander de l'aide à _mon équipe_ et je sens que l'on forme une meilleure équipe ensemble grâce à ça.
 
