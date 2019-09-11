@@ -56,7 +56,7 @@ Ensuite, j'ai appris comment être moins interrompu, une des clés de la product
 
 À côté de cela, j'avais l'habitude de répondre "Je n'ai pas le temps" pour parler des choses importantes que je n'arrivais pas à faire, et les gens me répondaient souvent: "Le temps ça se prend". Une phrase toute faite vide de toute aide concrète selon moi, qui vise seulement à montrer qu'on est le seul responsable mais qui n'apporte rien. Puis un jour on m'a répondu "Le temps se trouve dans la contrainte" et là ça a fait tilt: il faut trouver comment se contraindre soi-même pour trouver ce fameux temps.
 
-J'ai commencé à me planifier des moments seuls pour avancer sur les sujets qui méritaient que je m'y consacre un certain temps sans être interrompu pour les faire avancer. Sans ça, ces moments se perdaient dans les limbes de "plus tard" (_Later is where good intentions go to die_ comme dit Jason Fried).
+J'ai commencé à me planifier des moments seuls à l'écart de l'équipe pour avancer sur les sujets qui méritaient que je m'y consacre un certain temps sans être interrompu pour les faire avancer. Sans ça, ces moments se perdaient dans les limbes de "plus tard" (_Later is where good intentions go to die_ comme dit Jason Fried).
 
 Parmi ces moments, j'en ai identifié 3 types simples: court terme, moyen terme et long terme. J'ai compris que plus le sujet est du long terme, plus il est important et est indispensable. Si on l'ignore, tout s'écroule petit à petit et on perd pied.
 
