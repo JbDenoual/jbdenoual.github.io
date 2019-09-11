@@ -10,13 +10,16 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-          <a href="{{ post.url | relative_url }}">
           <div class="keywords-preview"> {{ post.keywords | escape }} </div>
+          <a href="{{ post.url | relative_url }}">
           <div class="article-title-preview"> {{ post.title | escape }} </div>
+          </a>
          <div class="article-content">{{ post.excerpt }}</div>
+          <a href="{{ post.url | relative_url }}">
+          <div class="article-keep-reading"> CONTINUER À LIRE</div>
+          </a>
          <div class="article-date" post-meta">{% include date-fr.html date=post.date %}</div>
          {%- assign date_format = site.date_format -%}
-          </a>
       </li>
       {%- endfor -%}
     </ul>

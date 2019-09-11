@@ -30,6 +30,11 @@
 }
 
 @font-face {
+  font-family: "Rubik Medium Italic";
+  src: url("/assets/fonts/Rubik-MediumItalic.ttf")
+}
+
+@font-face {
   font-family: "Lora Bold";
   src: url("/assets/fonts/Lora-Bold.ttf")
 }
@@ -253,8 +258,19 @@ a:hover {
   padding-bottom: 72px;
 }
 
-.post-link {
+a:hover .article-title-preview {
+  color: #0075FF;
+}
 
+.article-keep-reading {
+  color: #1E1E1E;
+  font-family: "Rubik Medium Italic";
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+a:hover .article-keep-reading {
+  color: #0075FF;
 }
 
 .post-content {

@@ -28,12 +28,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    google_analytics          : "UA—145147491-1" # Replace this with your ID, or delete
-    anonymize_ip         : false
-
 excerpt_separator: <!--more-->
 date_format: "%e %B, %Y"
 
