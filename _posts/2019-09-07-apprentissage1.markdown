@@ -2,6 +2,7 @@
 layout: post
 title:  "Le (re)commencement"
 date:   2019-09-07 12:00:00 +0200
+date-suffix: ", à l'heure du goûter"
 categories: apprentissage
 keywords: "PRIORISATION, ORGANISATION, VEILLE"
 excerpt: "J'ai pris la casquette de Product Owner officiellement il y a un peu plus de 9 mois maintenant. J'ai beaucoup appris, énormément même. J'avais déjà, dans le passé, eu ce rôle au final, mais cette fois c'était différent. Cette fois c'était dans une grande entreprise, avec une grande équipe, et dans un contexte agile. Cette fois, c'était avec des personnes dans mon entourage qui, comme moi, recherchaient l'excellence..."

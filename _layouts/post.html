@@ -10,6 +10,7 @@ layout: default
       <time class="article-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% include date-fr.html date=page.date %}
         {%- assign date_format = site.date_format -%}
+        {{ page.date-suffix | escape }}
       </time>
   </header>
 

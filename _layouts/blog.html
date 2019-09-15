@@ -18,7 +18,7 @@ layout: default
           <a href="{{ post.url | relative_url }}">
           <div class="article-keep-reading"> CONTINUER À LIRE</div>
           </a>
-         <div class="article-date" post-meta">{% include date-fr.html date=post.date %}</div>
+         <div class="article-date" post-meta">{% include date-fr.html date=post.date %}{{ post.date-suffix | escape }}</div>
          {%- assign date_format = site.date_format -%}
       </li>
       {%- endfor -%}
