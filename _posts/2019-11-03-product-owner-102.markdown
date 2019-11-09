@@ -4,7 +4,7 @@ title:  "Product Owner 102"
 date:   2019-11-03 12:00:00 +0200
 date-suffix: ", à l'heure de l'apéro"
 categories: apprentissage
-keywords: "LEÇONS, ERREURS, RECUL"
+keywords: "LEÇONS, RECUL"
 excerpt: "Au cours de ces derniers mois, j'ai fait de nombreuses erreurs (normal), on peut donc dire que j'ai trouvé de nombreuses opportunités pour progresser.
 L'idée ici, n'est pas d'être dur avec moi-même mais simplement de tenter de résumer les leçons que j'ai apprises et, en les mettant par écrit, les formaliser et les ancrer, pour me permettre de continuer à grandir..."
 ---
