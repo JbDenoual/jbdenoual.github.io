@@ -11,7 +11,7 @@ D'un point de vue global sur la conf, je l'ai trouvé de la même qualité que..
 
 La semaine dernière j'ai assisté à la MindTheProduct, une des confs les plus connus sur le Product Management et j'ai envie de vous partager ce que j'en ai retenu ;)  
 
-D'un point de vue global sur la conf, je l'ai trouvé de la même qualité que celle de 2019 où j'avais assisté (en physique 😭RIP la vie). Là encore, et comme dans toutes les confs, tous les talks ne m'ont pas parlé, c'est donc une vision totalement biaisé de votre serviteur dont vous allez profiter ! Servez-vous un café/chocolat chaud/thé/larmes de licornes et prenez le temps :)  
+D'un point de vue global sur la conf, je l'ai trouvé de la même qualité que celle de 2019 où j'avais assisté (en physique 😭RIP la vie). Là encore, et comme dans toutes les confs, tous les talks ne m'ont pas parlé, c'est donc une vision totalement biaisé de votre serviteur dont vous allez profiter ! Servez-vous un café/chocolat chaud/thé/larmes de chefs de projet et prenez le temps :)  
 
 *J'espère que vous prendrez autant de plaisir que moi à découvrir tous ces points de vues différents et nouveaux. Comme je sais que votre temps est précieux, j'ai divisé ce retour en 2 parties pour faciliter votre lecture et vous laisser un peu plus de temps de digérer. Enjoy !*  
 
