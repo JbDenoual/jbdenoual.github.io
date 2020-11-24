@@ -3,7 +3,7 @@ layout: post
 title:  "Mind The Product 2020 - Recap Partie 1"
 date:   2020-11-24 12:00:00 +0200
 date-suffix: ", à 23h en faisant la cuisine et HHAAA mes gnoccis sont en train de cramer"
-categories: conférence
+categories: conference
 keywords: "CONFERENCE, MIND THE PRODUCT"
 excerpt: "La semaine dernière j'ai assisté à la MindTheProduct, une des confs les plus connus sur le Product Management et j'ai envie de vous partager ce que j'en ai retenu ;)
 D'un point de vue global sur la conf, je l'ai trouvé de la même qualité que..."
