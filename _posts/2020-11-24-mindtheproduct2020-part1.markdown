@@ -73,7 +73,7 @@ En vrac, ce qui est ressorti de ce moment:
 
 Keynote de la 1ère demi-journée. Excellent talk de Mary Poppendieck qui est plus ou moins (avec son mari Tom) la daronne du Lean dans le monde du développement logiciel. Et oui ça se pose là.  
 
-Mary nous a parlé de ses années chez 3M (qui nous apportent à tous une joie immense au quotidien avec les post-its et leur panoplie de couleurs flashy que l'on peut mettre sur nos murs ~~d'ailleurs si vous n'avez plus de post-it, avec le code JAYBE60 vous pouvez avoir des réduct...~~) dans les années 80-90. Elle nous parle notamment du rôle de...Product Champion !  
+Mary nous a parlé de ses années chez 3M (qui nous apporte à tous une joie immense au quotidien avec les post-its et leur panoplie de couleurs flashy que l'on peut mettre sur nos murs ~~d'ailleurs si vous n'avez plus de post-it, avec le code JAYBE60 vous pouvez avoir des réduct...~~) dans les années 80-90. Elle nous parle notamment du rôle de...Product Champion !  
 
 On parle parfois de Product Leader dans le Product Management pour essayer de donner plus de sens au métier de PM mais c'est la 1ère fois que j'entendais parler de ce rôle et c'est très intéressant.  
 
