@@ -9,11 +9,11 @@ excerpt: "La semaine dernière j'ai assisté à la MindTheProduct, une des confs
 La deuxième journée fut aussi riche que la première et je vous en parle...tout de suite..."
 ---
 
-La semaine dernière j'ai assisté à la MindTheProduct, une des confs les plus connus sur le Product Management et j'ai envie de vous partager ce que j'en ai retenu ;)  
+*La semaine dernière j'ai assisté à la MindTheProduct, une des confs les plus connus sur le Product Management et j'ai envie de vous partager ce que j'en ai retenu ;)*  
 
 La deuxième journée fut aussi riche que la première et je vous en parle...tout de suite.  
 
-### Keynote - Cennydd Bowles - All These Worlds Are Yours  
+#### Keynote - Cennydd Bowles - All These Worlds Are Yours  
 
 Si vous avez aimé le fameux documentaire Netflix "Derrière nos écrans de fumée" alors vous aimerez le sujet de cette keynote: Cennydd nous a parlé d'éthique et des dérives de nos conceptions.  
 
@@ -30,7 +30,7 @@ L'angle mort concerne donc les non-utilisateurs, mais aussi les biens communs, l
 
 Cennydd finit en nous donnant la consigne suivante: Notre loyauté se doit d'être au monde et non aux entreprises. Nous sommes des êtres humains et pas seulement des employés.  
 
-### Amy Zima - Demystifying Product Strategy  
+#### Amy Zima - Demystifying Product Strategy  
 
 Amy est Product Manager chez Spotify et elle nous a parlé de Product Strategy. Pour ça, elle a pris l'exemple d'un nouvel usage de Spotify dont vous avez tous entendu parlé: les Podcasts.  
 
@@ -41,23 +41,23 @@ En l'occurrence, la vision de Spotify est: "Devenir la plateforme audio dominant
 Le Podcast prenant une ampleur de plus en plus conséquente ces dernières années, ils devaient donc trouver comment inclure ce nouveau type de contenu à leur offre.  
 
 Pour les aider à construire leur stratégie, ils ont utilisé les questions suivantes, qu'elle présente comme des outils:
-•   Quel problème sont-ils en train de résoudre ? Data et Insights
-•   Qu'est-ce qui doit être vrai pour atteindre leur vision ?
-•   Pour qui construisent-ils cette solution ?
-•   Comment se différencient-ils ? Pourquoi eux ?
-•   Comment sauront-ils qu'ils ont atteint leur but ?
-•   Qu'est-ce qui pourrait mal se passer ?  
+- Quel problème sont-ils en train de résoudre ? Data et Insights
+- Qu'est-ce qui doit être vrai pour atteindre leur vision ?
+- Pour qui construisent-ils cette solution ?
+- Comment se différencient-ils ? Pourquoi eux ?
+- Comment sauront-ils qu'ils ont atteint leur but ?
+- Qu'est-ce qui pourrait mal se passer ?  
 
 Pour l'intégration des Podcasts dans leur offre, ils ont identifié 3 choix possibles:
-•   A. Faire une nouvelle app séparé pour proposer ces contenus
-•   B. Proposer des podcasts à l'intérieur d'un nouvel onglet
-•   C. Intégrer les podcasts dans l'expérience actuelle et mixer les 2  
+- A. Faire une nouvelle app séparé pour proposer ces contenus
+- B. Proposer des podcasts à l'intérieur d'un nouvel onglet
+- C. Intégrer les podcasts dans l'expérience actuelle et mixer les 2  
 
 Et ensuite pour chaque choix possible, ils ont identifié les pour et les contre, en rapport avec les questions posées plus haut. Comme vous le savez peut-être, ils ont au final choisi l'option C.  
 
 Amy a ensuite répondue à des questions, notamment sur le framework OKR. Elle a rappelé que c'est un framework pour fixer des objectifs et non pas un framework pour créer une stratégie et qu'un objectif n'est pas la même chose qu'une stratégie.  
 
-### Keynote - Marty Cagan - Product Leadership is Hard  
+#### Keynote - Marty Cagan - Product Leadership is Hard  
 
 Dernière conférence ! Marty Cagan, l'auteur d'Inspired et du blog SVPG ❤️, nous raconte à quel point le Product Leadership peut être difficile. Attention, ça dénonce et c'est très riche.  
 
@@ -87,22 +87,22 @@ Enfin, pour finir sur le leadership, Marty nous exhorte de diriger par le contex
 La base, à nouveau. Une vision doit inspirer, animer et transformer un objectif (purpose) en action. D'ailleurs pour ça selon lui, les canvas sont nuls car personne n'a jamais été inspiré en regardant un canvas.  
 
 Si on résume ce qu'est une vision et ce qu'elle permet, elle :
-•   Est orientée client
-•   Peut servir de North Star
-•   Inspire et donne du sens à ce que l'on fait
-•   Reflète les valeurs de l'entreprise
-•   Est le meilleur outil pour recruter
-•   Nous indique comment construire notre architecture
-•   Nous indique comment structurer nos équipes, ce qu'il appelle Team Topology et qu'il nous détaille juste après.  
+- Est orientée client
+- Peut servir de North Star
+- Inspire et donne du sens à ce que l'on fait
+- Reflète les valeurs de l'entreprise
+- Est le meilleur outil pour recruter
+- Nous indique comment construire notre architecture
+- Nous indique comment structurer nos équipes, ce qu'il appelle Team Topology et qu'il nous détaille juste après.  
 
 **Team Topology**  
 
 Lorsqu'on a une équipe de 10 ingénieurs, on n'a pas cette problématique de structuration, mais dès qu'on a 20, 200, 2000 ingénieurs, il est indispensable de découper le travail. Et la manière dont on va découper ce travail aura un impact énorme sur ce que l'on arrivera à accomplir.  
 
 Il y a 3 choses à maximiser lorsqu'on découpe en équipes:
-•   L'ownership
-•   L'autonomie
-•   L'alignement avec les clients et avec le business  
+- L'ownership
+- L'autonomie
+- L'alignement avec les clients et avec le business  
 
 Définir la structure des équipes est un travail commun entre les Head of product et le Head of technology, il n'y a pas une bonne manière de le faire, mais il y a clairement de mauvaises manières de le faire.  
 
@@ -117,10 +117,10 @@ Une Product Strategy est la manière de tirer parti au mieux des personnes, de v
 Marty nous met en garde contre les matrices ou les cases toutes faites à remplir pour créer une stratégie, selon lui ça ne fonctionne jamais et c'est bien plus compliqué que ça.  
 
 Cependant, une stratégie requiert 4 éléments:
-•   Focus: Choisir 2 ou 3 choses qui feront la différence
-•   Insight: Aller creuser la data qu'on a, les apprentissages qualitatifs récupérés des clients, la technologie à notre disposition, là où est le marché
-•   Action: Transformer cet insight en action, c'est là qu'entre en œuvre les Team Objectives (qu'on décrit juste en dessous).
-•   Management: Ne pas faire de micro-management, diriger avec le contexte et pas avec le contrôle. Et être dans le servant-leadership.  
+- Focus: Choisir 2 ou 3 choses qui feront la différence
+- Insight: Aller creuser la data qu'on a, les apprentissages qualitatifs récupérés des clients, la technologie à notre disposition, là où est le marché
+- Action: Transformer cet insight en action, c'est là qu'entre en œuvre les Team Objectives (qu'on décrit juste en dessous).
+- Management: Ne pas faire de micro-management, diriger avec le contexte et pas avec le contrôle. Et être dans le servant-leadership.  
 
 De nombreux CEO pensent qu'ils doivent réduire à 20-30 le nombre de choses sur lesquelles ils vont travailler mais c'est très, très, loin de la vérité. Steve Jobs l'a très bien dit "Les gens pensent qu'être focus signifie dire oui à ce sur quoi vous voulez travailler. Mais ce n'est pas du tout ça. C'est dire non à la centaine des autres bonnes idées".  
 
@@ -133,11 +133,11 @@ D'ailleurs, de son expérience, c'est seulement en s'immergeant dans cette conna
 D'une bonne stratégie ressort les problèmes à résoudre et assigner ces problèmes, ce travail, aux équipes est le principe des Team Objectives.  
 
 On fournit à l'équipe les éléments suivants:
-•   L'empouvoirement (oui j'assume): C'est des problèmes à résoudre et non des roadmaps qu'on donne à l'équipe. Ici encore, le principe de diriger avec le contexte et non avec le contrôle prend tout son sens !
-•   L'ambition derrière les objectifs: Est-ce qu'on y va en la jouant sage ou est-ce qu'on prend des risques pour tout rafler ?
-•   Engagements: Est-ce qu'il y a des choses que l'on doit absolument faire ?
-•   Collaboration: Les équipes qui cherchent à atteindre des objectifs communs doivent en avoir conscience
-•   Responsabilité et Management: Les leaders doivent aider les équipes à atteindre leurs objectifs  
+- L'empouvoirement (oui j'assume): C'est des problèmes à résoudre et non des roadmaps qu'on donne à l'équipe. Ici encore, le principe de diriger avec le contexte et non avec le contrôle prend tout son sens !
+- L'ambition derrière les objectifs: Est-ce qu'on y va en la jouant sage ou est-ce qu'on prend des risques pour tout rafler ?
+- Engagements: Est-ce qu'il y a des choses que l'on doit absolument faire ?
+- Collaboration: Les équipes qui cherchent à atteindre des objectifs communs doivent en avoir conscience
+- Responsabilité et Management: Les leaders doivent aider les équipes à atteindre leurs objectifs  
 
 **En résumé**  
 
@@ -158,18 +158,18 @@ J'espère que cela vous donnera de la matière à réfléchir, vous donnera envi
 Je vous laisse avec une dernière partie pour ceux qui souhaitent creuser certains sujets...  
 
   
-Recommandations**  
+**Recommandations**  
 
 Les conférenciers ont recommandés différents livres au cours de la conférence. Deux reviennent comme LES références du Product Management, j'en ai déjà très (très) souvent entendu parlé et peut être que vous aussi: Inspired de Marty Cagan, et Escaping the build trap de Melissa Perri. Si vous cherchiez des idées de cadeaux de noël pour vous, c'est maintenant trouvé. ~~Vous pouvez les commander sur Amazon avec le code promo JAYBE30 et ainsi me faire gagner un max de moula.~~  
 
 Dans les autres recommandations, on trouve:
-•   The Undoing Project, qui est l'histoire derrière System 1 Système 2 (ou Thinking Fast and Slow)
-•   Creative Selection, qui parle du Product Management à Apple
-•   The Jobs To Be Done Playbook de Rosenfeld Media pour tout ce qui touche au JTBD
-•   Ethical Explorer Toolkit (https://ethicalexplorer.org/) pour naviguer l'impact future des technologies d'aujourd'hui
-•   Good strategy Bad Strategy de Richard Rumelt pour aller plus loin sur la théorie, conseillé par Amy Zima et Marty Cagan !
-•   Strategize de Roman Pichler pour pratiquer la stratégie avec des outils
-•   Empowerement, le nouveau livre de Marty Cagan qui sort la semaine prochaine  
+- The Undoing Project, qui est l'histoire derrière System 1 Système 2 (ou Thinking Fast and Slow)
+- Creative Selection, qui parle du Product Management à Apple
+- The Jobs To Be Done Playbook de Rosenfeld Media pour tout ce qui touche au JTBD
+- Ethical Explorer Toolkit (https://ethicalexplorer.org/) pour naviguer l'impact future des technologies d'aujourd'hui
+- Good strategy Bad Strategy de Richard Rumelt pour aller plus loin sur la théorie, conseillé par Amy Zima et Marty Cagan !
+- Strategize de Roman Pichler pour pratiquer la stratégie avec des outils
+- Empowerement, le nouveau livre de Marty Cagan qui sort la semaine prochaine  
 
 **Fin de la 2ème partie**
 
