@@ -158,7 +158,7 @@ J'espère que cela vous donnera de la matière à réfléchir, vous donnera envi
 Je vous laisse avec une dernière partie pour ceux qui souhaitent creuser certains sujets...  
 
   
-**Recommandations**  
+#### Recommandations
 
 Les conférenciers ont recommandés différents livres au cours de la conférence. Deux reviennent comme LES références du Product Management, j'en ai déjà très (très) souvent entendu parlé et peut être que vous aussi: **Inspired** de Marty Cagan, et **Escaping the build** trap de Melissa Perri. Si vous cherchiez des idées de cadeaux de noël pour vous, c'est maintenant trouvé. ~~Vous pouvez les commander sur Amazon avec le code promo JAYBE30 et ainsi me faire gagner un max de moula.~~  
 
