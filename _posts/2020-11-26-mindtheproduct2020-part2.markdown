@@ -160,16 +160,16 @@ Je vous laisse avec une dernière partie pour ceux qui souhaitent creuser certai
   
 **Recommandations**  
 
-Les conférenciers ont recommandés différents livres au cours de la conférence. Deux reviennent comme LES références du Product Management, j'en ai déjà très (très) souvent entendu parlé et peut être que vous aussi: Inspired de Marty Cagan, et Escaping the build trap de Melissa Perri. Si vous cherchiez des idées de cadeaux de noël pour vous, c'est maintenant trouvé. ~~Vous pouvez les commander sur Amazon avec le code promo JAYBE30 et ainsi me faire gagner un max de moula.~~  
+Les conférenciers ont recommandés différents livres au cours de la conférence. Deux reviennent comme LES références du Product Management, j'en ai déjà très (très) souvent entendu parlé et peut être que vous aussi: **Inspired** de Marty Cagan, et **Escaping the build** trap de Melissa Perri. Si vous cherchiez des idées de cadeaux de noël pour vous, c'est maintenant trouvé. ~~Vous pouvez les commander sur Amazon avec le code promo JAYBE30 et ainsi me faire gagner un max de moula.~~  
 
 Dans les autres recommandations, on trouve:
-- The Undoing Project, qui est l'histoire derrière System 1 Système 2 (ou Thinking Fast and Slow)
-- Creative Selection, qui parle du Product Management à Apple
-- The Jobs To Be Done Playbook de Rosenfeld Media pour tout ce qui touche au JTBD
-- Ethical Explorer Toolkit (https://ethicalexplorer.org/) pour naviguer l'impact future des technologies d'aujourd'hui
-- Good strategy Bad Strategy de Richard Rumelt pour aller plus loin sur la théorie, conseillé par Amy Zima et Marty Cagan !
-- Strategize de Roman Pichler pour pratiquer la stratégie avec des outils
-- Empowerement, le nouveau livre de Marty Cagan qui sort la semaine prochaine  
+- **The Undoing Project**, qui est l'histoire derrière System 1 Système 2 (ou Thinking Fast and Slow)
+- **Creative Selection**, qui parle du Product Management à Apple
+- **The Jobs To Be Done Playbook** de Rosenfeld Media pour tout ce qui touche au JTBD
+- **Ethical Explorer Toolkit** (https://ethicalexplorer.org/) pour naviguer l'impact future des technologies d'aujourd'hui
+- **Good strategy Bad Strategy** de Richard Rumelt pour aller plus loin sur la théorie, conseillé par Amy Zima et Marty Cagan !
+- **Strategize** de Roman Pichler pour pratiquer la stratégie avec des outils
+- **Empowerement**, le nouveau livre de Marty Cagan qui sort la semaine prochaine  
 
 **Fin de la 2ème partie**
 
