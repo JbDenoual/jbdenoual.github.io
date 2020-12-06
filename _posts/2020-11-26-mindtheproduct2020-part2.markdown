@@ -66,7 +66,7 @@ Dernière conférence ! Marty Cagan, l'auteur d'Inspired et du blog SVPG ❤️,
 **Product team**  
 
 Tout d'abord, la base, Marty nous rappelle ce qu'est une Product Team:
-"Une Product team sers les clients, tout en satisfaisant les besoins du business de l'entreprise. Elle résout des problèmes clients ou des problèmes business, est "empowered" à découvrir (discover) et délivrer (deliver) une solution à ces problèmes. Et elle est tenue responsable de ces résultats."  
+"Une Product team sert les clients, tout en satisfaisant les besoins du business de l'entreprise. Elle résout des problèmes clients ou des problèmes business, est "empowered" à découvrir (discover) et délivrer (deliver) une solution à ces problèmes. Et elle est tenue responsable de ces résultats."  
 
 Selon lui, c'est très clair: Les Features teams ne sont là que pour satisfaire les besoins du business. Je vous invite à lire son article sur ce sujet: https://svpg.com/product-vs-feature-teams/ pour aller plus loin (mais après ce recap parce que c'est costaud).  
 
@@ -107,7 +107,8 @@ Il y a 3 choses à maximiser lorsqu'on découpe en équipes:
 Définir la structure des équipes est un travail commun entre les Head of product et le Head of technology, il n'y a pas une bonne manière de le faire, mais il y a clairement de mauvaises manières de le faire.  
 
 Pour reconnaitre si vous avez un problème de Team Topologie, un bon indicateur est d'écouter si les personnes se plaignent que ça leur prend un temps fou pour réaliser un changement simple ou faire une fonctionnalité.
-Product Strategy  
+
+**Product Strategy**  
 
 Une fois que la vision est claire et que la structure des équipes est optimisée, on peut réfléchir à ce que l'on va leur donner à faire, c'est la Product Strategy.  
 
