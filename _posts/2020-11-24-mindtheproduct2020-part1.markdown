@@ -111,7 +111,6 @@ On parle parfois de Product Leader dans le Product Management pour essayer de do
 
 Et le mot de la fin de Mary: "Development is learning"
 
-C'est fini pour aujourd'hui, la suite demain ;)
+C'est fini pour cette première journée ;)
 
-**Fin de la 1ère partie**  
-
+Pour lire la suite, 👉 <a href="/conference/mindtheproduct2020-part2/" class="link light-link">**c’est par ici.**</a>

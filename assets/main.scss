@@ -171,6 +171,13 @@ a:hover {
 .light-link:visited {
   color: #1E1E1E; }
 
+.light-link-article{
+  color: #1E1E1E;
+font-family: "Rubik Medium";}
+.light-link:visited {
+  color: #1E1E1E; 
+font-family: "Rubik Medium";}
+
 .keywords-preview {
   color: #BABABA;
   font-family: "Rubik Medium";
@@ -223,8 +230,7 @@ a:hover {
           padding-top: 5px;
           padding-bottom: 5px;
           color: #1E1E1E;
-          text-decoration: none;
-          font-family: "Rubik Medium"}
+          text-decoration: none;}
 
 .page-link {
   margin-left: 0px;
