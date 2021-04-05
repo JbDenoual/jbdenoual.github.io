@@ -19,6 +19,7 @@ _**Chacun ses vanity metrics personnelles, voici une des miennes**_ 😉
 
 * <a href="https://www.amazon.fr/Escaping-Build-Trap-Effective-Management/dp/149197379X" class="reading-link">_Escaping the build trap_, de Melissa Perri</a><br />
 * <a href="https://www.amazon.fr/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959" class="reading-link">_The mythical man month_, de Frederick Brooks</a><br />
+* <a href="https://www.amazon.fr/Impact-Mapping-Software-Products-Projects/dp/0955683645" class="reading-link">Impact Mapping, de Gojko Adzic</a>
 * <a href="https://www.amazon.fr/davoir-toujours-raison-Arthur-Schopenhauer/dp/284205301X" class="reading-link">_L'art d'avoir toujours raison_, de Arthur Schopenhauer</a><br />
 * <a href="https://www.amazon.fr/m%C3%A9thode-Running-Lean-Transformer-succ%C3%A8s/dp/2354561237" class="reading-link">_La méthode Running Lean_, de Ash Maurya</a><br />
 * <a href="https://www.amazon.fr/quatre-accords-tolt%C3%A8ques-libert%C3%A9-personnelle/dp/2889116549" class="reading-link">_Les 4 accords toltèques_, de Miguel Ruiz</a><br />
