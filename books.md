@@ -8,7 +8,7 @@ permalink: /books/
   <img src="{{ '/assets/images/books_title.svg' | relative_url }}"> 
 </div>
 
-_**Chacun ses vanity metrics personnelles, voici une des miennes 😉**_
+_**Chacun ses vanity metrics personnelles, voici une des miennes**_ 😉
 
 ### 2021 ###
 
