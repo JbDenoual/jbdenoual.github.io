@@ -8,6 +8,8 @@ permalink: /books/
   <img src="{{ '/assets/images/books_title.svg' | relative_url }}"> 
 </div>
 
+_**Chacun ses vanity metrics personnelles, voici une des miennes 😉**_
+
 ### 2021 ###
 
 * <a href="https://www.amazon.fr/Comment-faire-amis-Dale-Carnegie/dp/2253009105" class="reading-link">_Comment se faire des amis_, de Dale Carnegie</a><br />
