@@ -8,10 +8,10 @@ permalink: /books/
   <img src="{{ '/assets/images/books_title.svg' | relative_url }}"> 
 </div>
 
-_**Chacun ses vanity metrics personnelles, voici une des miennes**_ 😉
 
 ### 2021 ###
 
+* <a href="https://www.amazon.fr/mots-sont-fen%C3%AAtres-bien-murs/dp/2707188794" class="reading-link">_Les mots sont des fenêtres (ou bien ce sont des murs)_, de Marshall Rosenberg</a><br />
 * <a href="https://www.amazon.fr/Comment-faire-amis-Dale-Carnegie/dp/2253009105" class="reading-link">_Comment se faire des amis_, de Dale Carnegie</a><br />
 * <a href="https://www.amazon.fr/Renversez-vapeur-L-David-Marquet/dp/2892259924" class="reading-link">_Turn the ship around_, de L. David Marquet</a><br />
 
