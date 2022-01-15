@@ -9,8 +9,13 @@ permalink: /books/
 </div>
 
 
+### 2022 ###
+
+* <a href="http://www.whencoffeeandkalecompete.com/" class="reading-link">_When Coffee and Kale Compete_, d'Alan Klement</a><br />
+
 ### 2021 ###
 
+* <a href="https://www.amazon.fr/Good-Strategy-Bad-Difference-Matters/dp/0307886239" class="reading-link">_Good Strategy Bad Strategy_, de Richard Rumelt</a><br />
 * <a href="https://www.amazon.fr/Inspired-Create-Tech-Products-Customers/dp/1119387507" class="reading-link">_Inspired_, de Marty Cagan</a><br />
 * <a href="https://www.amazon.fr/mots-sont-fen%C3%AAtres-bien-murs/dp/2707188794" class="reading-link">_Les mots sont des fenêtres (ou bien ce sont des murs)_, de Marshall Rosenberg</a><br />
 * <a href="https://www.amazon.fr/Comment-faire-amis-Dale-Carnegie/dp/2253009105" class="reading-link">_Comment se faire des amis_, de Dale Carnegie</a><br />
@@ -18,6 +23,8 @@ permalink: /books/
 
 ### 2020 ###
 
+* <a href="https://www.amazon.fr/Lentreprise-lib%C3%A9r%C3%A9e-petit-patron-paresseux/dp/2749164583" class="reading-link">_L'entreprise libérée par le petit patron naïf et paresseux_, de Jean-François Zobrist
+</a><br />
 * <a href="https://www.amazon.fr/Escaping-Build-Trap-Effective-Management/dp/149197379X" class="reading-link">_Escaping the build trap_, de Melissa Perri</a><br />
 * <a href="https://www.amazon.fr/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959" class="reading-link">_The mythical man month_, de Frederick Brooks</a><br />
 * <a href="https://www.amazon.fr/Impact-Mapping-Software-Products-Projects/dp/0955683645" class="reading-link">Impact Mapping, de Gojko Adzic</a>
