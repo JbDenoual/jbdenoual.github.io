@@ -32,7 +32,7 @@ permalink: /books/
 * <a href="https://www.amazon.fr/m%C3%A9thode-Running-Lean-Transformer-succ%C3%A8s/dp/2354561237" class="reading-link">_La méthode Running Lean_, de Ash Maurya</a><br />
 * <a href="https://www.amazon.fr/quatre-accords-tolt%C3%A8ques-libert%C3%A9-personnelle/dp/2889116549" class="reading-link">_Les 4 accords toltèques_, de Miguel Ruiz</a><br />
 * <a href="https://www.amazon.fr/Jouer-peau-Asym%C3%A9tries-cach%C3%A9es-quotidienne/dp/2251447598" class="reading-link">_Skin in the game_, de Nassim Nicholas Taleb</a><br />
-* <a href="https://www.amazon.fr/Changements-Paradoxes-psychoth%C3%A9rapie-Paul-Watzlawick/dp/2757841890" class="reading-link">_Changements: paradoxes et psychothérapie_, de Paul Watzlawick</a><br />
+* <a href="https://www.amazon.fr/Changements-Paradoxes-psychoth%C3%A9rapie-Paul-Watzlawick/dp/2757841890" class="reading-link">_Changements: paradoxes et psychothérapie_, de Paul Watzlawick, John H. Weakland et Richard Fisch</a><br />
 
 ### 2019 ###
 
