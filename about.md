@@ -9,7 +9,7 @@ permalink: /about/
 </div>
 
 <div class="picture">
-	<img src="{{ '/assets/images/picture_of_myself_2.jpg' | relative_url }}"> 
+	<img src="{{ '/assets/images/picture_of_myself.jpg' | relative_url }}"> 
 </div>
 
 J'aime les produits faits avec amour, rigueur et ambition et je m'évertue à appliquer ces principes dans les produits que j'aide à construire. Je crois au potentiel des individus et en la force d'une équipe motivée par un idéal. <br/><br/>

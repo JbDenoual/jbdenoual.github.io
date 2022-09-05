@@ -12,8 +12,7 @@ permalink: /books/
 ### 2022 ###
 
 * <a href="https://www.amazon.fr/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250258405/" class="reading-link">_Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_, de Kim Scott</a><br />
-* <a href="https://www.amazon.fr/v%C3%A9rit%C3%A9-sur-qui-nous-motive/dp/208137952X" class="reading-link">_La vérité sur ce qui nous motive
-_, de Daniel Pink</a><br />
+* <a href="https://www.amazon.fr/v%C3%A9rit%C3%A9-sur-qui-nous-motive/dp/208137952X" class="reading-link">_La vérité sur ce qui nous motive_, de Daniel Pink</a><br />
 * <a href="http://www.whencoffeeandkalecompete.com/" class="reading-link">_When Coffee and Kale Compete_, d'Alan Klement</a><br />
 
 ### 2021 ###
