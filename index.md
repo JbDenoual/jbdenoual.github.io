@@ -6,12 +6,12 @@ layout: home
 ---
 
 <div class="page-title">
-  <img src="{{ '/assets/images/home_title.svg' | relative_url }}"> 
+  <img src="{{ '/assets/images/home_title.svg' | relative_url }}">
 </div>
 
-Mon nom est Jean-Baptiste Denoual et je suis <span class="highlight">Product Manager</span><br />
-J'aime me poser des questions et concevoir des produits. <br />
-Mes maîtres mots sont Curiosité, Collaboration et Recherche d'excellence !<br />
+Mon nom est Jean-Baptiste Denoual et je suis <span class="highlight">Product Leader</span> et <span class="highlight">Product & Agile Coach</span><br />
+Je développe depuis +10 ans une maitrise du Produit où j’utilise l’état de
+l’art de plusieurs domaines pour amener les entreprises et les individus au next level. 
 Pour en savoir plus sur moi 👉 <a href="about" class="link dark-link">c’est par ici.</a>
 
 
