@@ -1,0 +1,155 @@
+I":,<p>La semaine dernière j’ai assisté à la MindTheProduct, une des confs les plus connues sur le Product Management et j’ai envie de vous partager ce que j’en ai retenu ;)</p>
+
+<p>D’un point de vue global sur la conf, je l’ai trouvé de la même qualité que celle de 2019 à laquelle j’avais assisté (en physique 😭RIP la vie). Là encore, et comme dans toutes les confs, tous les talks ne m’ont pas parlé, c’est donc une vision totalement biaisée de votre serviteur dont vous allez profiter ! Servez-vous un café/chocolat chaud/thé/larmes de chefs de projet et prenez le temps :)</p>
+
+<p><em>J’espère que vous prendrez autant de plaisir que moi à découvrir tous ces points de vue différents et nouveaux. Comme je sais que votre temps est précieux, j’ai divisé ce retour en 2 parties pour faciliter votre lecture et vous laisser un peu plus de temps pour digérer. Enjoy !</em></p>
+
+<h4 id="shaun-russel---how-successful-product-people-develop">Shaun Russel - How Successful Product People Develop</h4>
+
+<p>Dans ce talk, Shaun Russel nous a parlé d’un concept qu’il appelle Produktgëfuhl et comment le développer. Pour ceux qui ont fait 0 année d’allemand (ou 7 comme moi mais qui ont seulement retenu comment dire “Pouvez-vous répéter ?”, “Je ne sais pas” et l’indétrônable “Salade de pommes de terre”), on pourrait traduire ça en “Product feel”, ou ce qui fait qu’on développe “l’intuition” pour faire du produit.</p>
+
+<p>Shaun est coach produit et nous partage donc les compétences qu’il a vu chez des PM qui progressent plus vite que d’autres.</p>
+
+<p>Il résume cela en plusieurs points (ça enfonce un peu des portes ouvertes, attention):</p>
+
+<ul>
+  <li>Apprendre en faisant
+    <ul>
+      <li>Il avance l’importance de s’attaquer à des <strong>challenges</strong> de plus en plus grands pour progresser. Être PM d’un produit avec une petite équipe → Être PM d’un produit avec des attentes fortes → Être PM d’un produit avec une portée internationale et plus impactant → Etc</li>
+      <li>Une phrase qu’il a entendu, et que j’aime beaucoup car elle capture une de nos valeurs chez BENEXT, l’Humilité : “Pourquoi s’embêter à avoir l’air intelligent, lorsqu’on peut devenir plus intelligent ?”</li>
+    </ul>
+  </li>
+  <li>Apprendre des autres
+    <ul>
+      <li>Il souligne l’importance des feedbacks pour grandir. Demandez à vos collègues, vos supérieurs, votre équipe, on découvre toujours de nouveaux axes d’amélioration qui nous redonnent la pêche</li>
+      <li>Et trouver des mentors en interne pour progresser.</li>
+    </ul>
+  </li>
+  <li>Apprendre de son environnement
+    <ul>
+      <li>Pour progresser, il faut y aller par étape. D’abord observer et apprendre de son équipe, ensuite élargir son environnement (ou sa zone d’influence ?), faire évoluer sa pensée, pour apprendre de la stratégie de l’entreprise, et enfin de la politique de celle-ci.</li>
+      <li>Shaun rappelle l’importance de trouver le juste milieu au fond de nous entre l’idéaliste et le nihiliste. C’est-à-dire entre celui qui souhaite tout changer et qui veut vivre un idéal, et celui qui ne croit pas pouvoir changer les choses. (Note: “Ne vous comportez pas en Héro)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>En résumé, il rajoute quelques conseils pour progresser plus vite:</p>
+
+<ul>
+  <li>Comprendre l’organigramme de son entreprise</li>
+  <li>S’approprier le business model de l’entreprise en remplissant, par exemple, le Business Model Canvas pour vraiment le comprendre</li>
+  <li>Mettre la main sur le budget et les prévisions de l’entreprise, cela peut donner beaucoup d’informations</li>
+  <li>Identifier la réunion la plus importante de l’entreprise et essayer d’y assister. Au mieux y participer. Si ce n’est pas possible, essayer d’y assister en observateur, et enfin si ce n’est vraiment pas possible, essayer de découvrir ce qui s’y dit par d’autres moyens</li>
+</ul>
+
+<h4 id="anthony-rindone---stay-humble-or-be-humbled">Anthony Rindone - Stay Humble or Be Humbled</h4>
+
+<p>Anthony nous a partagé ses réflexions sur comment prendre de meilleures décisions.</p>
+
+<p>J’en ai retenu un piège data: Lors de l’analyse de performances d’une fonctionnalité sur différents segments utilisateurs, il faut faire attention au “Simpson’s Paradox” qui met en lumière un paradoxe, où dans certains cas, on peut trouver des résultats complètement opposés lors de 2 analyses différentes, qui sont (et c’est là le paradoxe) toutes les 2 justes. Je vous laisse creuser si ça vous intrigue ;)</p>
+
+<h4 id="ibrahim-bashir---bootstrapping-a-product-team">Ibrahim Bashir - Bootstrapping a Product Team</h4>
+
+<p>Ibrahim nous a parlé création d’une Product Team et comment choisir le bon type de profil de PM selon l’avancement de son produit.<br />
+J’ai particulièrement aimé la division en 3 parties qu’il fait de la vie d’un produit.</p>
+
+<ul>
+  <li>Il y a le Starter. Un PM qui n’a pas d’anxiété à propos du fait d’être le 1er PM, il va comprendre les besoins des pré-customers et travailler sur le Product Market Fit</li>
+  <li>Ensuite vient le Scaler. Un PM qui va rapidement capturer des parts de marché, capturer de l’engagement. Il va être drivé par une ou plusieurs métriques.</li>
+  <li>Enfin vient le Sustainer. Qui va maintenir le produit et va principalement interagir avec les clients</li>
+</ul>
+
+<p>Bien sûr, selon lui, il est totalement possible de faire la transition entre ces différents profils, même si on trouvera certains PM plus à l’aise dans certains rôles que dans d’autres.</p>
+
+<h4 id="cassidy-fein---roundtable-discovery--research">Cassidy Fein - Roundtable: Discovery &amp; Research</h4>
+
+<p>Cassidy a  une table ronde autour du Discovery et de la Research.</p>
+
+<p>Voici, ce qui est ressorti de ce moment:</p>
+
+<ul>
+  <li>À 2 reprises le framework Jobs To Be Done est ressorti (JTBD pour les intimes, rien à voir avec JBD qui sont mes initiales malheureusement) comme méthode pour aider au Discovery</li>
+  <li>La mention d’un très bon article de Teresa Torres sur le Discovery en temps de COVID (malheureusement je n’ai pas réussi à le retrouver, si quelqu’un a un indice, qu’il n’hésite pas)
+    <ul>
+      <li>Avec notamment l’importance d’être extra-emphatique avec ses utilisateurs</li>
+      <li>Le temps de nos utilisateurs est encore plus précieux aujourd’hui qu’avant</li>
+    </ul>
+  </li>
+  <li>L’importance de diviser les rôles qui font du Design (au sens large) de ceux qui font de la Research</li>
+</ul>
+
+<h4 id="mary-poppendieck---lessons-from-a-product-champion">Mary Poppendieck - Lessons from a Product Champion</h4>
+
+<p>Keynote de la 1ère demi-journée. Excellent talk de Mary Poppendieck qui est plus ou moins (avec son mari Tom) la daronne du Lean dans le monde du développement logiciel. Et oui ça se pose là.</p>
+
+<p>Mary nous a parlé de ses années chez 3M (qui nous apporte à tous une joie immense au quotidien avec les post-its de couleurs flashy) dans les années 80-90. Elle nous a notamment parlé du rôle de…Product Champion !</p>
+
+<p>On parle parfois de Product Leader dans le Product Management pour essayer de donner plus de sens au métier de PM mais c’est la 1ère fois que j’entendais parler de ce rôle et c’est très intéressant.</p>
+
+<ul>
+  <li>No Champion → No Product
+    <ul>
+      <li>Sans champion, à 3M, ils considéraient qu’un produit ne pouvait pas marcher</li>
+      <li>Un champion, c’est quelqu’un pour qui le produit est son bébé</li>
+      <li>Quelqu’un qui fera tout ce qui est possible pour amener le produit <strong>sur le marché</strong></li>
+    </ul>
+  </li>
+  <li>Un champion est un entrepreneur
+    <ul>
+      <li>Il est responsable du succès marketing du produit</li>
+      <li>Les champions qui arrivent à faire marcher un produit sont souvent ceux qui finissent par en gérer le business une fois que celui-ci a pris de l’ampleur</li>
+      <li>Un champion est self-selected. Il se porte volontaire pour ce rôle</li>
+    </ul>
+  </li>
+  <li>Le champion doit trouver/attirer/composer une “leadership team” au sein de son équipe
+    <ul>
+      <li>Un Product Champion ne peut pas réussir seul</li>
+      <li>Il a besoin de former une équipe composée d’une personne Design, d’une personne tech, d’une personne Marketing-Vente et d’une personne Finance
+        <ul>
+          <li>On parle ici d’une équipe au sein de l’équipe de développement produit</li>
+        </ul>
+      </li>
+      <li>Le Product Champion n’est pas un expert dans un de ces domaines</li>
+    </ul>
+  </li>
+  <li>Il doit profondément comprendre le problème que le produit veut résoudre</li>
+  <li>Il établit un but commun à toute l’équipe, pour que tout le monde soit aligné sur l’objectif final</li>
+  <li>Il va chercher les conflits (Note: Difficile à traduire “provide for conflicts)
+    <ul>
+      <li>Mary avance que les excellents compromis font les excellents produits. C’est à la base une citation de Toyota “Great conflicts makes great cars”</li>
+      <li>Il est impératif d’avoir des débats “fair”, qui reposent toujours sur 3 piliers pour arriver à une réponse: tech, design et produit par exemple. Il est extrêmement important que le débat ne soit pas gagné parce que c’est le boss a tranché dans son propre sens</li>
+    </ul>
+  </li>
+  <li>Il évite les décisions (Note: mon préféré)
+    <ul>
+      <li>Un champion ne décide pas, et il ne priorise pas
+        <ul>
+          <li>Lorsque 2 personnes ne sont pas d’accord, il souligne les arguments valides des 2 parties et les oblige à trouver une solution ensemble</li>
+          <li>Il compare cette situation au fait d’avoir des enfants: Si tu décides, alors tu as perdu</li>
+          <li>(Note: On retrouve le même schéma chez les leaders de l’excellent livre <em>Tribal Leadership</em>)</li>
+        </ul>
+      </li>
+      <li>Toujours reporter la décision au dernier moment
+        <ul>
+          <li>De cette manière, vous continuerez d’apprendre jusqu’au dernier moment où vous serez obligé de prendre la décision -&gt; “Be lazy, don’t decide”</li>
+          <li>(Note: Si ce principe vous intéresse, je vous conseille les <em>Real Options</em> de Chris Matts et sa bd <em>Commitment</em> (oui oui une bd, c’est top))</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Apprendre en avançant
+    <ul>
+      <li>Il ne devrait pas y avoir de proxy entre l’équipe et le résultat de son travail. Même le champion ne devrait pas faire proxy avec les utilisateurs</li>
+      <li>C’est le travail du Champion de mettre son équipe en contact avec les clients</li>
+    </ul>
+  </li>
+  <li>Utiliser la data pour prendre la bonne décision</li>
+  <li>L’équipe devrait prendre des décisions de manière collective</li>
+</ul>
+
+<p>Et le mot de la fin de Mary: “Development is learning”</p>
+
+<p>C’est fini pour cette première journée ;)</p>
+
+<p>Pour lire la suite, 👉 <a href="/conference/mindtheproduct2020-part2/" class="link light-link"><strong>c’est par ici.</strong></a></p>
+:ET

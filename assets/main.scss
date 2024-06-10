@@ -107,12 +107,12 @@ body {
 @media screen and (min-width: 600px) {
         .site-nav .page-link:not(:last-child)  {
           padding-right: 18px;
-          padding-left: 18px; 
+          padding-left: 18px;
           margin-right: 5px;
           margin-left: 5px;}
          .site-nav .page-link:last-child  {
           padding-right: 18px;
-          padding-left: 18px; 
+          padding-left: 18px;
           margin-right: 5px;
           margin-left: 5px;} }
 
@@ -153,7 +153,7 @@ h3 .dark {
 }
 
 hr {
-     background-color: #FFFFFF; 
+     background-color: #FFFFFF;
 }
 
 a:hover {
@@ -175,7 +175,7 @@ a:hover {
   color: #1E1E1E;
 font-family: "Rubik Medium";}
 .light-link:visited {
-  color: #1E1E1E; 
+  color: #1E1E1E;
 font-family: "Rubik Medium";}
 
 
@@ -183,7 +183,7 @@ font-family: "Rubik Medium";}
   color: #5B5B5B;
   ;}
 .reading-link:visited {
-  color: #5B5B5B; 
+  color: #5B5B5B;
   ;}
 
 .reading-link:hover {
@@ -319,7 +319,7 @@ a:hover .article-keep-reading {
   padding-left: 15px; }
   @media screen and (min-width: 700px) {
     .content-wrapper {
-      max-width: -webkit-calc(700px - (30px * 2));
-      max-width: calc(700px - (30px * 2));
+      max-width: -webkit-calc(850px - (30px * 2));
+      max-width: calc(850px - (30px * 2));
       padding-right: 30px;
       padding-left: 30px; } }
