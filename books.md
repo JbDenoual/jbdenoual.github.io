@@ -1,30 +1,21 @@
 ---
 layout: page
-title: Lectures 
+title: Lectures
 permalink: /books/
 ---
 
 <div class="page-title">
-  <img src="{{ '/assets/images/books_title.svg' | relative_url }}"> 
+  <img src="{{ '/assets/images/books_title.svg' | relative_url }}">
 </div>
-
-
-### 2022 ###
 
 * <a href="https://www.amazon.fr/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250258405/" class="reading-link">_Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_, de Kim Scott</a><br />
 * <a href="https://www.amazon.fr/v%C3%A9rit%C3%A9-sur-qui-nous-motive/dp/208137952X" class="reading-link">_La vérité sur ce qui nous motive_, de Daniel Pink</a><br />
 * <a href="http://www.whencoffeeandkalecompete.com/" class="reading-link">_When Coffee and Kale Compete_, d'Alan Klement</a><br />
-
-### 2021 ###
-
 * <a href="https://www.amazon.fr/Good-Strategy-Bad-Difference-Matters/dp/0307886239" class="reading-link">_Good Strategy Bad Strategy_, de Richard Rumelt</a><br />
 * <a href="https://www.amazon.fr/Inspired-Create-Tech-Products-Customers/dp/1119387507" class="reading-link">_Inspired_, de Marty Cagan</a><br />
 * <a href="https://www.amazon.fr/mots-sont-fen%C3%AAtres-bien-murs/dp/2707188794" class="reading-link">_Les mots sont des fenêtres (ou bien ce sont des murs)_, de Marshall Rosenberg</a><br />
 * <a href="https://www.amazon.fr/Comment-faire-amis-Dale-Carnegie/dp/2253009105" class="reading-link">_Comment se faire des amis_, de Dale Carnegie</a><br />
 * <a href="https://www.amazon.fr/Renversez-vapeur-L-David-Marquet/dp/2892259924" class="reading-link">_Turn the ship around_, de L. David Marquet</a><br />
-
-### 2020 ###
-
 * <a href="https://www.amazon.fr/Lentreprise-lib%C3%A9r%C3%A9e-petit-patron-paresseux/dp/2749164583" class="reading-link">_L'entreprise libérée par le petit patron naïf et paresseux_, de Jean-François Zobrist
 </a><br />
 * <a href="https://www.amazon.fr/Escaping-Build-Trap-Effective-Management/dp/149197379X" class="reading-link">_Escaping the build trap_, de Melissa Perri</a><br />
@@ -35,9 +26,6 @@ permalink: /books/
 * <a href="https://www.amazon.fr/quatre-accords-tolt%C3%A8ques-libert%C3%A9-personnelle/dp/2889116549" class="reading-link">_Les 4 accords toltèques_, de Miguel Ruiz</a><br />
 * <a href="https://www.amazon.fr/Jouer-peau-Asym%C3%A9tries-cach%C3%A9es-quotidienne/dp/2251447598" class="reading-link">_Skin in the game_, de Nassim Nicholas Taleb</a><br />
 * <a href="https://www.amazon.fr/Changements-Paradoxes-psychoth%C3%A9rapie-Paul-Watzlawick/dp/2757841890" class="reading-link">_Changements: paradoxes et psychothérapie_, de Paul Watzlawick, John H. Weakland et Richard Fisch</a><br />
-
-### 2019 ###
-
 * <a href="https://www.amazon.fr/LANALYSE-TRANSACTIONNELLE-Ren%C3%A9-Lassus/dp/2501027647" class="reading-link">_L'analyse transactionnelle_, de René de Lassus</a><br />
 * <a href="https://www.amazon.fr/Doesnt-Have-Be-Crazy-Work/dp/0062874780" class="reading-link">_It doesn't have to be crazy at work_, de David Heinemeier Hansson et Frid Jason</a><br />
 * <a href="https://www.amazon.fr/Commitment-Novel-about-Managing-Project/dp/9082056909/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=" class="reading-link">_Commitment_, de Olav Maassen and Chris Matts</a><br />
