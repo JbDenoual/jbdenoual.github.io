@@ -16,16 +16,18 @@ permalink: /books/
 * <a href="https://www.amazon.fr/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959" class="reading-link">_The mythical man month_, de Frederick Brooks</a><br />
 * <a href="https://www.amazon.fr/Impact-Mapping-Software-Products-Projects/dp/0955683645" class="reading-link">_Impact Mapping_, de Gojko Adzic</a>
 * <a href="https://www.amazon.fr/Doesnt-Have-Be-Crazy-Work/dp/0062874780" class="reading-link">_It doesn't have to be crazy at work_, de Basecamp</a><br />
-* <a href="https://www.amazon.fr/Commitment-Novel-about-Managing-Project/dp/9082056909/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=" class="reading-link">_Commitment_, de Olav Maassen and Chris Matts</a><br />
 * <a href="https://www.amazon.fr/Outcomes-Over-Output-customer-behavior/dp/1091173265" class="reading-link">_Outcomes Over Output_, de Joshua Seiden</a><br />
 * <a href="https://www.amazon.fr/Rework-r%C3%A9ussir-autrement-2e-%C3%A9d/dp/284001713X" class="reading-link">_Rework_, de Basecamp</a><br />
 * <a href="https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0091954673" class="reading-link">_Remote_, de Basecamp</a><br />
 * <a href="https://www.amazon.fr/Getting-Real-Smarter-Successful-Application/dp/0578012812" class="reading-link">_Getting Real_, de Basecamp</a><br />
 
-<h4>Agilité</h4>
+<h4>Agilité & Lean</h4>
+* <a href="https://www.amazon.fr/Learning-Scale-%C3%A9prouv%C3%A9-croissance-soutenue/dp/2957107414" class="reading-link">_Learning to Scale_, de Régis Medina</a><br />
 * <a href="https://www.amazon.fr/m%C3%A9thode-Running-Lean-Transformer-succ%C3%A8s/dp/2354561237" class="reading-link">_La méthode Running Lean_, de Ash Maurya</a><br />
 * <a href="https://www.amazon.fr/M%C3%A9thodes-design-fondamentales-concevoir-interactifs/dp/2212673981" class="reading-link">_Méthodes de design UX_, de Carine Lallemand</a><br />
 * <a href="https://www.amazon.fr/Scrum-guide-pratique-m%C3%A9thode-populaire/dp/2100738747" class="reading-link">_Scrum_, de Claude Aubry</a><br />
+* <a href="https://www.amazon.fr/Commitment-Novel-about-Managing-Project/dp/9082056909/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=" class="reading-link">_Commitment_, de Olav Maassen and Chris Matts</a><br />
+
 
 <h4>Coaching</h4>
 * <a href="https://www.amazon.fr/v%C3%A9rit%C3%A9-sur-qui-nous-motive/dp/208137952X" class="reading-link">_La vérité sur ce qui nous motive_, de Daniel Pink</a><br />
