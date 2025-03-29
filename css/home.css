@@ -1,0 +1,800 @@
+/* screen - home */
+
+.home {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.home .global {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.home .home_section_1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--midnight-blue);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.home .header {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.home .header-1 {
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 470px;
+  justify-content: space-between;
+  padding: 42px;
+}
+
+.home .logo {
+  position: relative;
+  width: 63.13px;
+}
+
+.home .menu {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+  margin-left: -3.05e-05px;
+  min-height: 62px;
+  position: relative;
+}
+
+.home .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .home_section_1_details {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.home .home_section_1_details_1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 100px 100px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  padding: 0px 42px 42px 0px;
+  position: relative;
+}
+
+.home .me {
+  height: 371px;
+  position: relative;
+  width: 371px;
+}
+
+.home .home_section_1_text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  max-width: 600px;
+  position: relative;
+  width: 600px;
+}
+
+.home .caroussel_2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 600px;
+}
+
+.home .caroussel {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.home .home_section_1_text_1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  min-width: 400px;
+  position: relative;
+}
+
+.home .librez-le-potentiel {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-inferi-regular);
+  font-size: 45px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.home .je-prends-en-charge {
+  align-self: stretch;
+  letter-spacing: -0.24px;
+  line-height: 33px;
+  position: relative;
+}
+
+.home .page-indicator {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 38px;
+}
+
+.home .ellipse-3 {
+  background-color: var(--hippie-blue);
+}
+
+.home .ellipse-4 {
+  background-color: var(--link-water);
+}
+
+.home .home_section_1_buttons {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.home .home_button_1 {
+  cursor: pointer;
+  height: 72px;
+  position: relative;
+  width: 253px;
+}
+
+.home .overlap-group-3 {
+  height: 72px;
+  position: relative;
+  width: 251px;
+}
+
+.home .rectangle-10-1 {
+  background-color: var(--macaroni-and-cheese);
+  height: 64px;
+  left: 4px;
+  position: absolute;
+  top: 8px;
+  width: 247px;
+}
+
+.home .rectangle-9-1 {
+  background-color: var(--negroni);
+  height: 65px;
+  width: 247px;
+}
+
+.home .product-manager {
+  width: 242px;
+}
+
+.home .home_button_2 {
+  cursor: pointer;
+  height: 72px;
+  position: relative;
+  width: 210px;
+}
+
+.home .overlap-group1 {
+  height: 72px;
+  position: relative;
+  width: 208px;
+}
+
+.home .rectangle-10-2 {
+  background-color: var(--hippie-blue-2);
+  height: 64px;
+  left: 3px;
+  position: absolute;
+  top: 8px;
+  width: 205px;
+}
+
+.home .rectangle-9-2 {
+  background-color: var(--link-water-2);
+  height: 65px;
+  width: 205px;
+}
+
+.home .product-ops {
+  width: 201px;
+}
+
+.home .home_section_2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 53px 53px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.home .home_section_2_1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 53px 53px;
+  justify-content: center;
+  position: relative;
+}
+
+.home .home_2_left {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  justify-content: center;
+  max-width: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.home .une-approche-centre {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.home .si-jai-pu-voir-pl {
+  align-self: stretch;
+  color: var(--midnight-blue);
+  font-family: var(--font-family-inferi-regular);
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: -0.49px;
+  line-height: 39px;
+  position: relative;
+}
+
+.home .home_2_right {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.home .indispensables-pour {
+  color: #1e1e1e;
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  letter-spacing: -0.21px;
+  line-height: 28.5px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 500px;
+}
+
+.home .home_section_3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 90px;
+  position: relative;
+  width: 100%;
+}
+
+.home .je-suis-la-recherche-dun {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.home .home_3_offers {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.home .home_3_offers_1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 91px 91px;
+  justify-content: center;
+  position: relative;
+}
+
+.home .home_offer {
+  height: 508px;
+  position: relative;
+  width: 501px;
+}
+
+.home .overlap-group1-1 {
+  height: 471px;
+  position: relative;
+  width: 505px;
+}
+
+.home .overlap-group {
+  height: 444px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 501px;
+}
+
+.home .rectangle-10-3 {
+  background-color: var(--red-damask);
+  height: 431px;
+  left: 10px;
+  position: absolute;
+  top: 13px;
+  width: 491px;
+}
+
+.home .rectangle-9-3 {
+  background-color: var(--negroni);
+  height: 433px;
+  width: 492px;
+}
+
+.home .product-manager-1 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 343px;
+}
+
+.home .pour-des-missions-lo {
+  color: #000000cc;
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxl);
+  font-weight: 300;
+  left: 47px;
+  letter-spacing: -0.42px;
+  line-height: 33px;
+  position: absolute;
+  top: 133px;
+  width: 430px;
+}
+
+.home .home_offer_1_1 {
+  align-items: flex-end;
+  background-color: var(--red-damask);
+  border-radius: 100px;
+  cursor: pointer;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 39px;
+  min-width: 170px;
+  padding: 18.5px 60.2px;
+  position: absolute;
+  top: 407px;
+}
+
+.home .overlap-group2 {
+  height: 469px;
+  position: relative;
+  width: 505px;
+}
+
+.home .rectangle-10-4 {
+  background-color: var(--hippie-blue);
+  height: 424px;
+  left: 9px;
+  position: absolute;
+  top: 20px;
+  width: 492px;
+}
+
+.home .rectangle-9-4 {
+  background-color: var(--link-water);
+  height: 433px;
+  width: 491px;
+}
+
+.home .product-ops-1 {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-rubik);
+  font-size: 35px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 373px;
+}
+
+.home .pour-des-mission-de {
+  color: #000000cc;
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  left: 46px;
+  letter-spacing: -0.22px;
+  line-height: 30px;
+  position: absolute;
+  top: 133px;
+  width: 430px;
+}
+
+.home .home_offer_2_1 {
+  align-items: flex-end;
+  background-color: var(--hippie-blue);
+  border-radius: 100px;
+  cursor: pointer;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 46px;
+  min-width: 170px;
+  padding: 18.5px 60.2px;
+  position: absolute;
+  top: 405px;
+}
+
+.home .home_section_4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 50px 50px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.home .about {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+}
+
+.home .propos-de-moi {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 358px;
+}
+
+.home .mes-clients-me-dcri {
+  color: var(--shark);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: relative;
+  width: 653px;
+}
+
+.home ._button {
+  cursor: pointer;
+  height: 72px;
+  position: relative;
+  width: 312px;
+}
+
+.home .overlap-group-1 {
+  height: 72px;
+  position: relative;
+  width: 310px;
+}
+
+.home .rectangle-10 {
+  background-color: var(--hippie-blue-2);
+  height: 64px;
+  left: 5px;
+  position: absolute;
+  top: 8px;
+  width: 305px;
+}
+
+.home .rectangle-9 {
+  background-color: var(--link-water-2);
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.home .consulter-mes-experiences {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 299px;
+}
+
+.home .about_picture {
+  height: 577.91px;
+  position: relative;
+  width: 390px;
+}
+
+.home .overlap-group1-2 {
+  height: 578px;
+  position: relative;
+}
+
+.home .x2024-06-14_113758_x-t2_9053-2 {
+  background-color: var(--hippie-blue);
+  height: 563px;
+  left: 14px;
+  position: absolute;
+  top: 15px;
+  width: 376px;
+}
+
+.home .me2 {
+  height: 563px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 376px;
+}
+
+.home .home_section_5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 75px;
+  position: relative;
+  width: 100%;
+}
+
+.home .les-principes-qui-gu {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.home .home_principles {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.home .principle {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.home .principle-1 {
+  height: 355.13px;
+  position: relative;
+  width: 357.13px;
+}
+
+.home .overlap-group-2 {
+  height: 355px;
+  position: relative;
+  width: 355px;
+}
+
+.home .rectangle-30 {
+  background-color: var(--negroni);
+  height: 251px;
+  left: 52px;
+  position: absolute;
+  top: 52px;
+  transform: rotate(-45deg);
+  width: 251px;
+}
+
+.home .la-collaboration-est {
+  left: 53px;
+  letter-spacing: -0.22px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 140px;
+  width: 249px;
+}
+
+.home .surname {
+  left: 53px;
+  letter-spacing: -0.22px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  width: 249px;
+}
+
+.home .lamelioration-conti {
+  left: 50px;
+  letter-spacing: -0.22px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  width: 249px;
+}
+
+.home .bien-comprendre-le-p {
+  left: 53px;
+  letter-spacing: -0.22px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  width: 249px;
+}
+
+.home .prendre-les-bonnes-d {
+  left: 53px;
+  letter-spacing: -0.22px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 133px;
+  width: 249px;
+}
+
+.home .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--midnight-blue);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  padding: 50px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.home .footer_contact {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  max-width: 1100px;
+  position: relative;
+  width: 100%;
+}
+
+.home .plutt-que-dadmirer {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.home .ellipse {
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.home .product {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-rubik);
+  font-size: 18px;
+  font-weight: 300;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.home .x-2 {
+  height: 27px;
+  width: 45px;
+}

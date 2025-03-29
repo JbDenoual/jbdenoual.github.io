@@ -1,0 +1,601 @@
+/* screen - experiences */
+
+.experiences {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.experiences .global {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .xp_section_1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--red-damask);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .header {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.experiences .header-1 {
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 470px;
+  justify-content: space-between;
+  padding: 42px;
+}
+
+.experiences .logo {
+  cursor: pointer;
+  position: relative;
+  width: 63.13px;
+}
+
+.experiences .menu {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-height: 62px;
+  position: relative;
+}
+
+.experiences .expriences {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.experiences .expriences-1 {
+  align-self: stretch;
+  margin-top: -1.00px;
+}
+
+.experiences .riche-de-10-ans-de {
+  letter-spacing: -0.24px;
+  line-height: 33px;
+  position: relative;
+  text-align: center;
+}
+
+.experiences .overlap-group {
+  width: 481px;
+}
+
+.experiences .rectangle-10 {
+  background-color: var(--macaroni-and-cheese);
+  height: 64px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 473px;
+}
+
+.experiences .rectangle-9 {
+  background-color: var(--negroni);
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 473px;
+}
+
+.experiences .discutons-le-temps-dun-cafe {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 464px;
+}
+
+.experiences .section-2 {
+  gap: 90px;
+}
+
+.experiences .left {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .mon-profil-en-quelques-mots {
+  color: var(--shark);
+  flex: 1;
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.experiences .frame-25 {
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  max-width: 1000px;
+  padding: 0px 20px;
+}
+
+.experiences .frame-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+  padding: 50px 40px;
+}
+
+.experiences .group-25 {
+  align-self: stretch;
+  height: 504px;
+  margin-right: -10.00px;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .overlap-group-1 {
+  height: 504px;
+  position: relative;
+  width: 880px;
+}
+
+.experiences .rectangle-31 {
+  background-color: var(--hippie-blue);
+  height: 492px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 871px;
+}
+
+.experiences .rectangle-30 {
+  background-color: var(--link-water);
+  height: 491px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 872px;
+}
+
+.experiences .ancien-directeur-d {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 131px;
+  width: 739px;
+}
+
+.experiences .radio-france-oui {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 214px;
+  width: 760px;
+}
+
+.experiences .crateur-dapps-de {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 300px;
+  white-space: nowrap;
+  width: 798px;
+}
+
+.experiences .anglais-courant {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 391px;
+  width: 760px;
+}
+
+.experiences .x10-ans-d-xp-sur-d {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 739px;
+}
+
+.experiences .button-1 {
+  cursor: pointer;
+  height: 72px;
+  position: relative;
+  width: 529.41px;
+}
+
+.experiences .overlap-group1 {
+  width: 527px;
+}
+
+.experiences .rectangle-10-1 {
+  background-color: var(--macaroni-and-cheese);
+  left: 8px;
+  width: 519px;
+}
+
+.experiences .rectangle-9-1 {
+  background-color: var(--negroni);
+  width: 519px;
+}
+
+.experiences .voir-mes-experiences {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 509px;
+}
+
+.experiences .section-3 {
+  gap: 63px;
+}
+
+.experiences .tlcharger-mon-cv-detaill {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.experiences .frame-26 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 700px;
+  padding: 0px 20px;
+}
+
+.experiences .group-9 {
+  align-self: stretch;
+  height: 938.74px;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .overlap-group-2 {
+  height: 939px;
+  position: relative;
+  width: 660px;
+}
+
+.experiences .rectangle-31-1 {
+  background-color: var(--hippie-blue);
+  height: 933px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 660px;
+}
+
+.experiences .cv_screenshot {
+  height: 925px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 652px;
+}
+
+.experiences .section-4 {
+  gap: 77px;
+}
+
+.experiences .ce-quils-disent-de-moi {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.experiences .frame-20 {
+  align-items: center;
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: center;
+  padding: 0px 20px;
+}
+
+.experiences .group-17 {
+  height: 503px;
+  position: relative;
+  width: 492px;
+}
+
+.experiences .overlap-group-3 {
+  height: 503px;
+  position: relative;
+  width: 490px;
+}
+
+.experiences .rectangle-31-2 {
+  background-color: var(--macaroni-and-cheese);
+  height: 492px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 481px;
+}
+
+.experiences .rectangle-30-1 {
+  height: 491px;
+}
+
+.experiences .jai-eu-l {
+  color: var(--shark);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  left: 50px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 50px;
+  width: 385px;
+}
+
+.experiences .group-19 {
+  align-items: center;
+  display: flex;
+  gap: 29px;
+  height: 78px;
+  left: 45px;
+  min-width: 301px;
+  position: absolute;
+  top: 391px;
+}
+
+.experiences .kevin {
+  height: 78px;
+  width: 78px;
+}
+
+.experiences .group-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.0px;
+  min-height: 63px;
+  width: 198px;
+}
+
+.experiences .name {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: -0.57px;
+  line-height: 39px;
+  white-space: nowrap;
+}
+
+.experiences .designer-ui-et-developpeur {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.experiences .group-18-1 {
+  height: 640px;
+  position: relative;
+  width: 492px;
+}
+
+.experiences .overlap-group1-1 {
+  height: 640px;
+  position: relative;
+  width: 490px;
+}
+
+.experiences .rectangle-31-3 {
+  background-color: var(--macaroni-and-cheese);
+  height: 629px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 481px;
+}
+
+.experiences .rectangle-30-2 {
+  height: 628px;
+}
+
+.experiences .group-19-1 {
+  align-items: center;
+  display: flex;
+  gap: 29px;
+  height: 78px;
+  left: 45px;
+  min-width: 271px;
+  position: absolute;
+  top: 518px;
+}
+
+.experiences .matthieu {
+  height: 78px;
+  width: 78px;
+}
+
+.experiences .group-18-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.0px;
+  min-height: 63px;
+  width: 168px;
+}
+
+.experiences .matthieu-oger {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: -0.57px;
+  line-height: 39px;
+  white-space: nowrap;
+}
+
+.experiences .dsi-adjoint {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.experiences .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--midnight-blue);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  padding: 50px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .footer_contact {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  max-width: 1100px;
+  padding: 0px 42px;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .crer-un-produit-est {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.experiences .overlap-group-4 {
+  height: 72px;
+  position: relative;
+  width: 310px;
+}
+
+.experiences .rectangle-10-2 {
+  background-color: var(--hippie-blue-2);
+  left: 5px;
+  width: 305px;
+}
+
+.experiences .rectangle-9-2 {
+  background-color: var(--link-water-2);
+  width: 305px;
+}
+
+.experiences .expriences-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.experiences .frame {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.experiences .overlap {
+  height: 72px;
+  position: relative;
+}
+
+.experiences .rectangle-10-3 {
+  height: 64px;
+  position: absolute;
+  top: 8px;
+}
+
+.experiences .rectangle-30-3 {
+  background-color: var(--negroni);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 483px;
+}
+
+.experiences .rectangle-9-3 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.experiences .section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
