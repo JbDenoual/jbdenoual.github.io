@@ -210,6 +210,12 @@
   position: relative;
 }
 
+.contact .header-2 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
 .contact .place-2 {
   letter-spacing: 0;
   line-height: normal;

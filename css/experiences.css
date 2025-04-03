@@ -77,7 +77,7 @@
   margin-top: -1.00px;
 }
 
-.experiences .riche-de-10-ans-de {
+.experiences .fort-de-plus-de-10-a {
   letter-spacing: -0.24px;
   line-height: 33px;
   position: relative;
@@ -211,13 +211,12 @@
   width: 760px;
 }
 
-.experiences .crateur-dapps-de {
-  left: 43px;
+.experiences .crateur-dapplica {
+  left: 44px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   top: 300px;
-  white-space: nowrap;
   width: 798px;
 }
 
@@ -230,7 +229,7 @@
   width: 760px;
 }
 
-.experiences .x10-ans-d-xp-sur-d {
+.experiences .x10-ans-dexprien {
   left: 43px;
   letter-spacing: 0;
   line-height: normal;
@@ -275,7 +274,7 @@
   gap: 63px;
 }
 
-.experiences .tlcharger-mon-cv-detaill {
+.experiences .tlcharger-mon-cv-dtaill {
   align-self: stretch;
   letter-spacing: 0;
   line-height: normal;
@@ -286,6 +285,7 @@
 
 .experiences .frame-26 {
   align-items: flex-start;
+  cursor: pointer;
   flex-direction: column;
   gap: 10px;
   max-width: 700px;
@@ -562,6 +562,12 @@
   flex: 0 0 auto;
   position: relative;
   width: 100%;
+}
+
+.experiences .header-2 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
 }
 
 .experiences .overlap {

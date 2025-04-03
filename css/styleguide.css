@@ -1,5 +1,6 @@
 :root { 
   --black: #000000;
+  --black-2: #000000cc;
   --hippie-blue: #558eb0;
   --hippie-blue-2: #558db0;
   --link-water: #dcecf6;
@@ -49,42 +50,10 @@
   font-weight: 400;
 }
 
-.inferi-regular-normal-midnight-blue-47px {
-  color: var(--midnight-blue);
-  font-family: var(--font-family-inferi-regular);
-  font-size: var(--font-size-xxxxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .rubik-light-shark-24px {
   color: var(--shark);
   font-family: var(--font-family-rubik);
   font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 300;
-}
-
-.rubik-light-shark-32px {
-  color: var(--shark);
-  font-family: var(--font-family-rubik);
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 300;
-}
-
-.inferi-regular-normal-white-47px {
-  color: var(--white);
-  font-family: var(--font-family-inferi-regular);
-  font-size: var(--font-size-xxxxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.rubik-light-shark-28px {
-  color: var(--shark);
-  font-family: var(--font-family-rubik);
-  font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 300;
 }
@@ -97,18 +66,10 @@
   font-weight: 400;
 }
 
-.rubik-light-white-22px {
-  color: var(--white);
-  font-family: var(--font-family-rubik);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 300;
-}
-
-.rubik-normal-red-damask-35px {
-  color: var(--red-damask);
-  font-family: var(--font-family-rubik);
-  font-size: 35px;
+.inferi-regular-normal-midnight-blue-47px {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-inferi-regular);
+  font-size: var(--font-size-xxxxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -121,20 +82,20 @@
   font-weight: 400;
 }
 
-.inferi-trial-regular-normal-white-47px {
+.inferi-regular-normal-white-47px {
   color: var(--white);
-  font-family: var(--font-family-inferi-trial-regular);
+  font-family: var(--font-family-inferi-regular);
   font-size: var(--font-size-xxxxxl);
   font-style: normal;
   font-weight: 400;
 }
 
-.inferi-regular-normal-shark-40px {
-  color: var(--shark);
-  font-family: var(--font-family-inferi-regular);
-  font-size: 40px;
+.rubik-light-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxl);
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .rubik-light-red-damask-16px {
@@ -149,6 +110,70 @@
   color: var(--red-damask);
   font-family: var(--font-family-rubik);
   font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubik-normal-red-damask-35px {
+  color: var(--red-damask);
+  font-family: var(--font-family-rubik);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubik-light-shark-28px {
+  color: var(--shark);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.rubik-light-shark-32px {
+  color: var(--shark);
+  font-family: var(--font-family-rubik);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inferi-trial-regular-normal-white-47px {
+  color: var(--white);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubik-light-midnight-blue-18px {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-rubik);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inferi-trial-regular-normal-shark-32px {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inferi-regular-normal-shark-40px {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-regular);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inferi-trial-regular-normal-midnight-blue-47px {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-xxxxxl);
   font-style: normal;
   font-weight: 400;
 }
