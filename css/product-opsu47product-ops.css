@@ -157,6 +157,20 @@
   position: relative;
 }
 
+.product-opsu47product-ops .votre-equipe-produit {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.product-opsu47product-ops .vous-tes-face-des {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
 .product-opsu47product-ops .product-ops-1 {
   align-self: stretch;
   letter-spacing: 0;
@@ -199,6 +213,14 @@
   width: 237px;
 }
 
+.product-opsu47product-ops .jutilise-mon-expri {
+  align-self: stretch;
+  letter-spacing: -0.70px;
+  line-height: 48px;
+  position: relative;
+  text-align: center;
+}
+
 .product-opsu47product-ops .rectangle-31-1 {
   background-color: var(--hippie-blue);
   height: 226px;
@@ -215,6 +237,44 @@
   position: absolute;
   top: 0;
   width: 284px;
+}
+
+.product-opsu47product-ops .developper-les-pilie {
+  top: 59px;
+}
+
+.product-opsu47product-ops .apprendre-a-prioriser-selon-la-valeur {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 241px;
+}
+
+.product-opsu47product-ops .developper-les-techn {
+  top: 83px;
+}
+
+.product-opsu47product-ops .definir-une-strategi {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 241px;
+}
+
+.product-opsu47product-ops .adapter-ma-posture-a-chaque-situation {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 241px;
 }
 
 .product-opsu47product-ops .rectangle-10-1 {
@@ -270,6 +330,15 @@
 .product-opsu47product-ops .rectangle-9-2 {
   background-color: var(--link-water-2);
   width: 305px;
+}
+
+.product-opsu47product-ops .developper-les {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  width: 241px;
 }
 
 .product-opsu47product-ops .frame {

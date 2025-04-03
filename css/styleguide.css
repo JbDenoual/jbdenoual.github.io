@@ -154,14 +154,6 @@
   font-weight: 300;
 }
 
-.inferi-trial-regular-normal-shark-32px {
-  color: var(--shark);
-  font-family: var(--font-family-inferi-trial-regular);
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .inferi-regular-normal-shark-40px {
   color: var(--shark);
   font-family: var(--font-family-inferi-regular);
@@ -174,6 +166,14 @@
   color: var(--midnight-blue);
   font-family: var(--font-family-inferi-trial-regular);
   font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inferi-trial-regular-normal-shark-32px {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 32px;
   font-style: normal;
   font-weight: 400;
 }

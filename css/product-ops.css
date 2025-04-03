@@ -153,6 +153,21 @@
   position: relative;
 }
 
+.product-ops .votre-quipe-produit {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.product-ops .vous-tes-confront {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
 .product-ops .product-ops-2 {
   align-self: stretch;
   margin-top: -1.00px;
@@ -191,6 +206,18 @@
   width: 237px;
 }
 
+.product-ops .jutilise-mon-expri {
+  align-self: stretch;
+  color: var(--shark);
+  font-family: var(--font-family-inferi-regular);
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: -0.70px;
+  line-height: 48px;
+  position: relative;
+  text-align: center;
+}
+
 .product-ops .rectangle-31-1 {
   background-color: var(--hippie-blue);
   height: 226px;
@@ -207,6 +234,56 @@
   position: absolute;
   top: 0;
   width: 284px;
+}
+
+.product-ops .developper-les-pilie {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 241px;
+}
+
+.product-ops .apprendre-prioriser-selon-la-valeur {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 241px;
+}
+
+.product-ops .dvelopper-les-techn {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 241px;
+}
+
+.product-ops .definir-une-stratgi {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 241px;
+}
+
+.product-ops .adapter-votre-postur {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 241px;
 }
 
 .product-ops .rectangle-10-1 {

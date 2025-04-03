@@ -167,13 +167,6 @@
   width: 50px;
 }
 
-.votre-equipe-produit {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
 .votre-quotidien-ne-v {
   flex: 1;
   letter-spacing: 0;
@@ -210,13 +203,6 @@
   letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-}
-
-.vous-tes-face-des {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: normal;
   position: relative;
 }
 
@@ -335,14 +321,6 @@
   text-align: center;
 }
 
-.jutilise-mon-expri {
-  align-self: stretch;
-  letter-spacing: -0.70px;
-  line-height: 48px;
-  position: relative;
-  text-align: center;
-}
-
 .frame-10 {
   align-items: center;
   align-self: stretch;
@@ -375,10 +353,6 @@
   width: 241px;
 }
 
-.developper-les-pilie {
-  top: 59px;
-}
-
 .coacher-et-accompagn {
   left: 26px;
   letter-spacing: -0.18px;
@@ -389,20 +363,6 @@
   width: 241px;
 }
 
-.apprendre-a-prioriser-selon-la-valeur {
-  left: 26px;
-  letter-spacing: -0.18px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: 95px;
-  width: 241px;
-}
-
-.developper-les-techn {
-  top: 83px;
-}
-
 .identifier-les-probl {
   left: 26px;
   letter-spacing: -0.18px;
@@ -410,26 +370,6 @@
   position: absolute;
   text-align: center;
   top: 71px;
-  width: 241px;
-}
-
-.definir-une-strategi {
-  left: 26px;
-  letter-spacing: -0.18px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: 83px;
-  width: 241px;
-}
-
-.adapter-ma-posture-a-chaque-situation {
-  left: 26px;
-  letter-spacing: -0.18px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  top: 95px;
   width: 241px;
 }
 
@@ -475,15 +415,6 @@
   cursor: pointer;
   height: 72px;
   position: relative;
-}
-
-.developper-les {
-  left: 26px;
-  letter-spacing: -0.18px;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  width: 241px;
 }
 
 .line-3 {
