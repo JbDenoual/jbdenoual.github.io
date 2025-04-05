@@ -4,9 +4,9 @@
       <div class="section_1">
         <div class="header">
           <div class="header-1">
-            <router-link to="/home"><img class="logo" :src="logo" alt="Logo" /></router-link>
+            <router-link to="/index"><img class="logo" :src="logo" alt="Logo" /></router-link>
             <div class="menu">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
                 <div class="link rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
@@ -52,9 +52,9 @@
       <footer class="footer">
         <div class="footer_links">
           <div class="footer_links_1">
-            <router-link to="/home"><img class="logo" :src="logo_2" alt="logo_2" /></router-link>
+            <router-link to="/index"><img class="logo" :src="logo_2" alt="logo_2" /></router-link>
             <div class="menu">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
                 <div class="link rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link

@@ -1,8 +1,8 @@
 <template>
   <div :class="[`group-2-1`, className || ``]">
-    <div class="overlap-group-46">
-      <div class="rectangle-31-14"></div>
-      <div class="rectangle-30-45"></div>
+    <div class="overlap-group-33">
+      <div class="rectangle-31-11"></div>
+      <div class="rectangle-30-22"></div>
       <p class="passer-dun-mindset">{{ passerDunMindset }}</p>
     </div>
   </div>
@@ -22,13 +22,13 @@ export default {
   width: 294.35px;
 }
 
-.overlap-group-46 {
+.overlap-group-33 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-14 {
+.rectangle-31-11 {
   background-color: var(--hippie-blue);
   height: 226px;
   left: 8px;
@@ -37,7 +37,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-45 {
+.rectangle-30-22 {
   background-color: var(--link-water);
   height: 226px;
   left: 0;

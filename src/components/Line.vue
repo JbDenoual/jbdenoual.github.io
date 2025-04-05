@@ -1,16 +1,16 @@
 <template>
   <div :class="[`line`, className || ``]">
-    <checkbox2 />
+    <checkbox22 />
     <p class="votre-quipe-produit rubik-light-shark-24px">{{ votreQuipeProduit }}</p>
   </div>
 </template>
 
 <script>
-import Checkbox2 from "./Checkbox2";
+import Checkbox22 from "./Checkbox22";
 export default {
   name: "Line",
   components: {
-    Checkbox2,
+    Checkbox22,
   },
   props: ["votreQuipeProduit", "className"],
 };
@@ -34,8 +34,7 @@ export default {
   position: relative;
 }
 
-.line.line-1,
-.line.line-3 {
+.line.line-1 {
   gap: 32px;
 }
 </style>

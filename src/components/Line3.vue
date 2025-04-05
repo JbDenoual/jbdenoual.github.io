@@ -1,24 +1,23 @@
 <template>
-  <div class="line-6">
-    <checkbox2 />
+  <div class="line-4">
+    <checkbox22 />
     <p class="vous rubik-light-shark-24px">{{ vousAvezDesObject }}</p>
   </div>
 </template>
 
 <script>
-import Checkbox2 from "./Checkbox2";
+import Checkbox22 from "./Checkbox22";
 export default {
   name: "Line3",
   components: {
-    Checkbox2,
+    Checkbox22,
   },
   props: ["vousAvezDesObject"],
 };
 </script>
 
 <style>
-.line-6,
-.line-8 {
+.line-4 {
   align-items: flex-end;
   align-self: stretch;
   display: flex;
@@ -28,8 +27,7 @@ export default {
   width: 100%;
 }
 
-.vous,
-.vous-avez-des-object {
+.vous {
   flex: 1;
   letter-spacing: 0;
   line-height: normal;

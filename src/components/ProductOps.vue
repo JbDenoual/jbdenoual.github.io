@@ -4,9 +4,9 @@
       <div class="section_1-1">
         <div class="header-10">
           <div class="header-11">
-            <router-link to="/home"><img class="logo-16" :src="logo" alt="Logo" /></router-link>
+            <router-link to="/index"><img class="logo-9" :src="logo" alt="Logo" /></router-link>
             <div class="menu-5">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link-5 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
                 <div class="link-5 rubik-normal-white-16px">{{ productManagement1 }}</div>
@@ -27,7 +27,7 @@
           <p class="les-meilleures-quip rubik-light-white-22px">{{ lesMeilleuresQuip }}</p>
           <router-link to="/contact">
             <div class="button-1-1">
-              <div class="overlap-group-38">
+              <div class="overlap-group-29">
                 <div class="rectangle-10-18"></div>
                 <div class="rectangle-9-18"></div>
                 <p class="je-fais-grandir-mon-equipe rubik-normal-midnight-blue-18px">{{ jeFaisGrandirMonEquipe }}</p>
@@ -47,7 +47,7 @@
             <line3 :vousAvezDesObject="line31Props.vousAvezDesObject" />
             <line3 :vousAvezDesObject="line32Props.vousAvezDesObject" />
           </div>
-          <p class="si-vous-lisez-ces-li inferi-regular-normal-shark-28px" v-html="siVousLisezCesLi"></p>
+          <p class="si-vous-lisez-ces-li" v-html="siVousLisezCesLi"></p>
         </div>
       </div>
       <section3
@@ -61,7 +61,29 @@
           <p class="jutilise-mon-expri">{{ jutiliseMonExpri }}</p>
         </div>
         <div class="frame-10">
-          <frame9 v-bind="frame9Props" />
+          <div class="frame-9 inter-medium-midnight-blue-16px">
+            <group92 :passerDunMindset="group921Props.passerDunMindset" />
+            <div class="group-1">
+              <div class="overlap-group-28">
+                <div class="rectangle-31-8"></div>
+                <div class="rectangle-30-19"></div>
+                <p class="developper-les-pilie" v-html="developperLesPilie"></p>
+              </div>
+            </div>
+            <group92 :passerDunMindset="group922Props.passerDunMindset" />
+            <group11 :apprendrePrioriserSelonLaValeur="group111Props.apprendrePrioriserSelonLaValeur" />
+            <group92 :passerDunMindset="group923Props.passerDunMindset" :className="group923Props.className" />
+            <div class="group-1">
+              <div class="overlap-group-28">
+                <div class="rectangle-31-8"></div>
+                <div class="rectangle-30-19"></div>
+                <p class="identifier-les-probl">{{ identifierLesProbl }}</p>
+              </div>
+            </div>
+            <group92 :passerDunMindset="group924Props.passerDunMindset" :className="group924Props.className" />
+            <group11 :apprendrePrioriserSelonLaValeur="group112Props.apprendrePrioriserSelonLaValeur" />
+            <group11 :apprendrePrioriserSelonLaValeur="group113Props.apprendrePrioriserSelonLaValeur" />
+          </div>
           <router-link to="/contact">
             <div class="button-3">
               <div class="overlap-group9">
@@ -77,8 +99,8 @@
         <div class="footer_contact-4">
           <p class="ne-vous-contentez-pa inferi-regular-normal-white-47px">{{ neVousContentezPa }}</p>
           <router-link to="/contact">
-            <div class="footer_button-2">
-              <div class="overlap-group-39">
+            <div class="footer_button-3">
+              <div class="overlap-group-30">
                 <div class="rectangle-10-20"></div>
                 <div class="rectangle-9-20"></div>
                 <div class="allons-y-ensemble-4 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
@@ -88,9 +110,9 @@
         </div>
         <div class="footer_links-5">
           <div class="footer_links_1-5">
-            <router-link to="/home"><img class="logo-16" :src="logo_2" alt="logo_2" /></router-link>
+            <router-link to="/index"><img class="logo-9" :src="logo_2" alt="logo_2" /></router-link>
             <div class="menu-5">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link-5 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
                 <div class="link-5 rubik-normal-white-16px">{{ productManagement2 }}</div>
@@ -115,7 +137,8 @@ import Line from "./Line";
 import Line2 from "./Line2";
 import Line3 from "./Line3";
 import Section3 from "./Section3";
-import Frame9 from "./Frame9";
+import Group92 from "./Group92";
+import Group11 from "./Group11";
 export default {
   name: "ProductOps",
   components: {
@@ -124,7 +147,8 @@ export default {
     Line2,
     Line3,
     Section3,
-    Frame9,
+    Group92,
+    Group11,
   },
   props: [
     "logo",
@@ -139,6 +163,8 @@ export default {
     "siVousLisezCesLi",
     "coachingEtFormation",
     "jutiliseMonExpri",
+    "developperLesPilie",
+    "identifierLesProbl",
     "enSavoirPlus",
     "neVousContentezPa",
     "allonsYEnsemble",
@@ -155,7 +181,13 @@ export default {
     "line31Props",
     "line32Props",
     "section3Props",
-    "frame9Props",
+    "group921Props",
+    "group922Props",
+    "group111Props",
+    "group923Props",
+    "group924Props",
+    "group112Props",
+    "group113Props",
   ],
 };
 </script>
@@ -216,7 +248,7 @@ export default {
   position: relative;
 }
 
-.logo-16 {
+.logo-9 {
   cursor: pointer;
   position: relative;
   width: 63.13px;
@@ -290,7 +322,7 @@ export default {
   width: 483px;
 }
 
-.overlap-group-38 {
+.overlap-group-29 {
   height: 72px;
   position: relative;
   width: 481px;
@@ -359,6 +391,10 @@ export default {
 
 .si-vous-lisez-ces-li {
   align-self: stretch;
+  color: var(--shark);
+  font-family: var(--font-family-inferi-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
   position: relative;
@@ -417,6 +453,68 @@ export default {
   padding: 0px 18.32px;
   position: relative;
   width: 100%;
+}
+
+.frame-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 90.44px 89.65px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.group-1 {
+  height: 237.56px;
+  position: relative;
+  width: 294.35px;
+}
+
+.overlap-group-28 {
+  height: 238px;
+  position: relative;
+  width: 292px;
+}
+
+.rectangle-31-8 {
+  background-color: var(--hippie-blue);
+  height: 226px;
+  left: 8px;
+  position: absolute;
+  top: 12px;
+  width: 284px;
+}
+
+.rectangle-30-19 {
+  background-color: var(--link-water);
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 284px;
+}
+
+.developper-les-pilie {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 241px;
+}
+
+.identifier-les-probl {
+  left: 26px;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 241px;
 }
 
 .button-3 {
@@ -495,14 +593,14 @@ export default {
   text-align: center;
 }
 
-.footer_button-2 {
+.footer_button-3 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 312px;
 }
 
-.overlap-group-39 {
+.overlap-group-30 {
   height: 72px;
   position: relative;
   width: 310px;

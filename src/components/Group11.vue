@@ -1,8 +1,8 @@
 <template>
-  <div class="group-1-3">
-    <div class="overlap-group-48">
-      <div class="rectangle-31-16"></div>
-      <div class="rectangle-30-47"></div>
+  <div class="group-1-1">
+    <div class="overlap-group-34">
+      <div class="rectangle-31-12"></div>
+      <div class="rectangle-30-23"></div>
       <p class="apprendre-prioriser-selon-la-valeur">{{ apprendrePrioriserSelonLaValeur }}</p>
     </div>
   </div>
@@ -16,22 +16,19 @@ export default {
 </script>
 
 <style>
-.group-1-3,
-.group-1-4 {
+.group-1-1 {
   height: 237.56px;
   position: relative;
   width: 294.35px;
 }
 
-.overlap-group-48,
-.overlap-group-49 {
+.overlap-group-34 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-16,
-.rectangle-31-17 {
+.rectangle-31-12 {
   background-color: var(--hippie-blue);
   height: 226px;
   left: 8px;
@@ -40,8 +37,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-47,
-.rectangle-30-48 {
+.rectangle-30-23 {
   background-color: var(--link-water);
   height: 226px;
   left: 0;
@@ -52,10 +48,7 @@ export default {
 
 .apprendre-prioriser-selon-la-valeur,
 .adapter-votre-postur,
-.booster-les-soft-skills-du-pm,
-.apprendre-a-prioriser-selon-la-valeur,
-.adapter-ma-posture-a-chaque-situation,
-.booster-les-soft-skills-du-pm-1 {
+.booster-les-soft-skills-du-pm {
   left: 26px;
   letter-spacing: -0.18px;
   line-height: 24px;

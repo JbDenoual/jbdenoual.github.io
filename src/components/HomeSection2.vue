@@ -1,7 +1,7 @@
 <template>
-  <div class="home_section_2-4">
-    <div class="home_section_2_1-4">
-      <home2-left :className="home2LeftProps.className" />
+  <div class="home_section_2-1">
+    <div class="home_section_2_1-1">
+      <home2-left />
       <home2-right />
     </div>
   </div>
@@ -16,14 +16,11 @@ export default {
     Home2Left,
     Home2Right,
   },
-  props: ["home2LeftProps"],
 };
 </script>
 
 <style>
-.home_section_2-4,
-.home_section_2-5,
-.home_section_2-6 {
+.home_section_2-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -35,9 +32,7 @@ export default {
   width: 100%;
 }
 
-.home_section_2_1-4,
-.home_section_2_1-5,
-.home_section_2_1-6 {
+.home_section_2_1-1 {
   align-items: center;
   display: flex;
   flex: 1;

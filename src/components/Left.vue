@@ -1,5 +1,5 @@
 <template>
-  <div class="left-1"><h1 class="title inferi-trial-regular-normal-red-damask-64px">Laissez moi deviner...</h1></div>
+  <div class="left-1"><h1 class="title">Laissez moi deviner...</h1></div>
 </template>
 
 <script>
@@ -9,8 +9,7 @@ export default {
 </script>
 
 <style>
-.left-1,
-.left-2 {
+.left-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -20,8 +19,11 @@ export default {
   width: 100%;
 }
 
-.title,
-.title-1 {
+.title {
+  color: var(--red-damask);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 64px;
+  font-weight: 400;
   letter-spacing: -1.41px;
   line-height: 96px;
   margin-top: -1px;

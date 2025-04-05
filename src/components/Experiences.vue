@@ -4,9 +4,9 @@
       <div class="xp_section_1">
         <div class="header-4">
           <div class="header-5">
-            <router-link to="/home"><img class="logo-13" :src="logo" alt="Logo" /></router-link>
+            <router-link to="/index"><img class="logo-6" :src="logo" alt="Logo" /></router-link>
             <div class="menu-2">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link-2 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
                 <div class="link-2 rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
@@ -25,7 +25,7 @@
           <p class="fort-de-plus-de-10-a rubik-light-white-22px">{{ fortDePlusDe10A }}</p>
           <router-link to="/contact">
             <div class="pm_section_1_button">
-              <div class="overlap-group-20">
+              <div class="overlap-group-10">
                 <div class="rectangle-10-5"></div>
                 <div class="rectangle-9-5"></div>
                 <p class="discutons-le-temps-dun-cafe rubik-normal-midnight-blue-18px">{{ discutonsLeTempsDunCafe }}</p>
@@ -43,9 +43,9 @@
         <div class="frame-25">
           <div class="frame-14">
             <div class="group-25">
-              <div class="overlap-group-21 rubik-light-shark-28px">
+              <div class="overlap-group-11 rubik-light-shark-28px">
                 <div class="rectangle-31"></div>
-                <div class="rectangle-30-32"></div>
+                <div class="rectangle-30-12"></div>
                 <p class="ancien-directeur-d">{{ ancienDirecteurD }}</p>
                 <p class="radio-france-oui">{{ radioFranceOui }}</p>
                 <p class="crateur-dapplica">{{ crateurDapplica }}</p>
@@ -56,7 +56,7 @@
           </div>
           <a href="https://www.linkedin.com/in/jean-baptiste-denoual-3a4b4232/" target="_blank">
             <div class="button-1">
-              <div class="overlap-group1-18">
+              <div class="overlap-group1-8">
                 <div class="rectangle-10-6"></div>
                 <div class="rectangle-9-6"></div>
                 <p class="voir-mes-experiences rubik-normal-midnight-blue-18px">{{ voirMesExperiences }}</p>
@@ -70,7 +70,7 @@
         <a href="files/CV Compétences Jean-Baptiste Denoual 2025.pdf" target="_blank">
           <div class="frame-26">
             <div class="group-9">
-              <div class="overlap-group-22">
+              <div class="overlap-group-12">
                 <div class="rectangle-31-1"></div>
                 <img class="cv_screenshot" :src="cv_Screenshot" alt="cv_screenshot" />
               </div>
@@ -81,9 +81,9 @@
         <p class="ce-quils-disent-de-moi inferi-regular-normal-shark-47px">{{ ceQuilsDisentDeMoi }}</p>
         <div class="frame-20">
           <div class="group-17">
-            <div class="overlap-group-23">
+            <div class="overlap-group-13">
               <div class="rectangle-31-2"></div>
-              <div class="rectangle-30-33"></div>
+              <div class="rectangle-30-13"></div>
               <p class="jai-eu-l rubik-light-shark-16px" v-html="jAiEuLePlaisirD"></p>
               <div class="group-19">
                 <img class="kevin" :src="kevin" alt="kevin" />
@@ -97,9 +97,9 @@
             </div>
           </div>
           <div class="group-18-1">
-            <div class="overlap-group1-19">
+            <div class="overlap-group1-9">
               <div class="rectangle-31-3"></div>
-              <div class="rectangle-30-34"></div>
+              <div class="rectangle-30-14"></div>
               <p class="jai-eu-l rubik-light-shark-16px" v-html="jAiEuLOccasionD"></p>
               <div class="group-19-1">
                 <img class="matthieu" :src="matthieu" alt="matthieu" />
@@ -116,8 +116,8 @@
         <div class="footer_contact-1">
           <p class="crer-un-produit-est inferi-regular-normal-white-47px">{{ crerUnProduitEst }}</p>
           <router-link to="/contact">
-            <div class="footer_button">
-              <div class="overlap-group-24">
+            <div class="footer_button-1">
+              <div class="overlap-group-14">
                 <div class="rectangle-10-7"></div>
                 <div class="rectangle-9-7"></div>
                 <div class="allons-y-ensemble-1 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
@@ -127,9 +127,9 @@
         </div>
         <div class="footer_links-2">
           <div class="footer_links_1-2">
-            <router-link to="/home"><img class="logo-13" :src="logo_2" alt="logo_2" /></router-link>
+            <router-link to="/index"><img class="logo-6" :src="logo_2" alt="logo_2" /></router-link>
             <div class="menu-2">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link-2 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
                 <div class="link-2 rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
@@ -247,7 +247,7 @@ export default {
   position: relative;
 }
 
-.logo-13 {
+.logo-6 {
   cursor: pointer;
   position: relative;
   width: 63.13px;
@@ -322,7 +322,7 @@ export default {
   width: 483px;
 }
 
-.overlap-group-20 {
+.overlap-group-10 {
   height: 72px;
   position: relative;
   width: 481px;
@@ -420,7 +420,7 @@ export default {
   width: 100%;
 }
 
-.overlap-group-21 {
+.overlap-group-11 {
   height: 504px;
   position: relative;
   width: 880px;
@@ -435,7 +435,7 @@ export default {
   width: 871px;
 }
 
-.rectangle-30-32 {
+.rectangle-30-12 {
   background-color: var(--link-water);
   height: 491px;
   left: 0;
@@ -496,7 +496,7 @@ export default {
   width: 529.41px;
 }
 
-.overlap-group1-18 {
+.overlap-group1-8 {
   height: 72px;
   position: relative;
   width: 527px;
@@ -561,7 +561,7 @@ export default {
   width: 100%;
 }
 
-.overlap-group-22 {
+.overlap-group-12 {
   height: 939px;
   position: relative;
   width: 660px;
@@ -615,7 +615,7 @@ export default {
   width: 492px;
 }
 
-.overlap-group-23 {
+.overlap-group-13 {
   height: 503px;
   position: relative;
   width: 490px;
@@ -630,7 +630,7 @@ export default {
   width: 481px;
 }
 
-.rectangle-30-33 {
+.rectangle-30-13 {
   background-color: var(--negroni);
   height: 491px;
   left: 0;
@@ -649,14 +649,13 @@ export default {
 }
 
 .group-19 {
-  align-items: center;
   display: flex;
   gap: 29px;
   height: 78px;
   left: 45px;
-  min-width: 301px;
   position: absolute;
   top: 391px;
+  width: 301px;
 }
 
 .kevin,
@@ -666,26 +665,27 @@ export default {
 }
 
 .group-18 {
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-top: 1px;
-  min-height: 63px;
+  height: 63px;
+  margin-top: 8px;
   width: 198px;
 }
 
-.name,
-.matthieu-oger {
+.name {
+  height: 39px;
   letter-spacing: -0.57px;
   line-height: 39px;
   white-space: nowrap;
+  width: 142px;
 }
 
-.designer-ui-et-developpeur,
-.dsi-adjoint {
+.designer-ui-et-developpeur {
+  height: 24px;
   letter-spacing: -0.3px;
   line-height: 24px;
   white-space: nowrap;
+  width: 194px;
 }
 
 .group-18-1 {
@@ -694,7 +694,7 @@ export default {
   width: 492px;
 }
 
-.overlap-group1-19 {
+.overlap-group1-9 {
   height: 640px;
   position: relative;
   width: 490px;
@@ -709,7 +709,7 @@ export default {
   width: 481px;
 }
 
-.rectangle-30-34 {
+.rectangle-30-14 {
   background-color: var(--negroni);
   height: 628px;
   left: 0;
@@ -719,23 +719,37 @@ export default {
 }
 
 .group-19-1 {
-  align-items: center;
   display: flex;
   gap: 29px;
   height: 78px;
   left: 45px;
-  min-width: 271px;
   position: absolute;
   top: 518px;
+  width: 271px;
 }
 
 .group-18-2 {
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-top: 1px;
-  min-height: 63px;
+  height: 63px;
+  margin-top: 8px;
   width: 168px;
+}
+
+.matthieu-oger {
+  height: 39px;
+  letter-spacing: -0.57px;
+  line-height: 39px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.dsi-adjoint {
+  height: 24px;
+  letter-spacing: -0.3px;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 81px;
 }
 
 .footer-2 {
@@ -773,14 +787,14 @@ export default {
   text-align: center;
 }
 
-.footer_button {
+.footer_button-1 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 312px;
 }
 
-.overlap-group-24 {
+.overlap-group-14 {
   height: 72px;
   position: relative;
   width: 310px;

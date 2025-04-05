@@ -1,15 +1,15 @@
 <template>
-  <div class="home_section_5-4">
-    <p class="les-principes-qui-gu-4 inferi-trial-regular-normal-midnight-blue-47px">
+  <div class="home_section_5-1">
+    <p class="les-principes-qui-gu-1 inferi-regular-normal-midnight-blue-47px">
       Les principes qui guident mon quotidien en tant que Product
     </p>
-    <div class="home_principles-4">
-      <div class="principle-12">
+    <div class="home_principles-1">
+      <div class="principle-4">
         <principle1 />
         <principle2 :surname="principle21Props.surname" />
         <principle3 />
       </div>
-      <div class="principle-12">
+      <div class="principle-4">
         <principle2 :surname="principle22Props.surname" />
         <principle5 />
       </div>
@@ -35,9 +35,7 @@ export default {
 </script>
 
 <style>
-.home_section_5-4,
-.home_section_5-5,
-.home_section_5-6 {
+.home_section_5-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -48,9 +46,7 @@ export default {
   width: 100%;
 }
 
-.les-principes-qui-gu-4,
-.les-principes-qui-gu-5,
-.les-principes-qui-gu-6 {
+.les-principes-qui-gu-1 {
   letter-spacing: 0;
   line-height: normal;
   margin-top: -1px;
@@ -58,9 +54,7 @@ export default {
   text-align: center;
 }
 
-.home_principles-4,
-.home_principles-5,
-.home_principles-6 {
+.home_principles-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -71,9 +65,7 @@ export default {
   width: 100%;
 }
 
-.principle-12,
-.principle-13,
-.principle-14 {
+.principle-4 {
   align-items: center;
   align-self: stretch;
   display: flex;

@@ -2,7 +2,7 @@
   <div class="section_3">
     <div class="frame-11">
       <div class="product-ops-6 inferi-regular-normal-midnight-blue-47px">Product Ops</div>
-      <p class="une-approche-varie inferi-trial-regular-normal-shark-32px">
+      <p class="une-approche-varie">
         Une approche variée et multiple pour créer une culture de recherche d’excellence et d’entraide
       </p>
     </div>
@@ -10,9 +10,9 @@
       <group9 :animerDesSessions="group91Props.animerDesSessions" :x2XParMois="group91Props.x2XParMois" />
       <group9 :animerDesSessions="group92Props.animerDesSessions" :x2XParMois="group92Props.x2XParMois" />
       <div class="group-11">
-        <div class="overlap-group2-10">
-          <div class="rectangle-31-8"></div>
-          <div class="rectangle-30-39"></div>
+        <div class="overlap-group2-5">
+          <div class="rectangle-31-9"></div>
+          <div class="rectangle-30-20"></div>
           <p class="mettre-en-place-des-1 rubik-light-red-damask-16px">{{ mettreEnPlaceDes }}</p>
           <div class="en-continue rubik-normal-red-damask-28px">EN CONTINUE</div>
         </div>
@@ -33,8 +33,7 @@ export default {
 </script>
 
 <style>
-.section_3,
-.section_3-1 {
+.section_3 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -45,8 +44,7 @@ export default {
   width: 100%;
 }
 
-.frame-11,
-.frame-11-1 {
+.frame-11 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -57,8 +55,7 @@ export default {
   width: 100%;
 }
 
-.product-ops-6,
-.product-ops-7 {
+.product-ops-6 {
   align-self: stretch;
   letter-spacing: 0;
   line-height: normal;
@@ -67,17 +64,19 @@ export default {
   text-align: center;
 }
 
-.une-approche-varie,
-.une-approche-varie-1 {
+.une-approche-varie {
   align-self: stretch;
+  color: var(--shark);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 32px;
+  font-weight: 400;
   letter-spacing: -0.7px;
   line-height: 48px;
   position: relative;
   text-align: center;
 }
 
-.frame-12,
-.frame-12-1 {
+.frame-12 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -90,21 +89,18 @@ export default {
   width: 100%;
 }
 
-.group-11,
-.group-11-1 {
+.group-11 {
   height: 237.56px;
   position: relative;
   width: 296.35px;
 }
 
-.overlap-group2-10,
-.overlap-group2-11 {
+.overlap-group2-5 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-8,
 .rectangle-31-9 {
   background-color: var(--macaroni-and-cheese);
   height: 226px;
@@ -114,8 +110,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-39,
-.rectangle-30-40 {
+.rectangle-30-20 {
   background-color: var(--negroni);
   height: 226px;
   left: 0;
@@ -124,8 +119,7 @@ export default {
   width: 284px;
 }
 
-.mettre-en-place-des-1,
-.mettre-en-place-des-2 {
+.mettre-en-place-des-1 {
   left: 28px;
   letter-spacing: -0.18px;
   line-height: 24px;
@@ -134,8 +128,7 @@ export default {
   width: 237px;
 }
 
-.en-continue,
-.en-continue-1 {
+.en-continue {
   left: 52px;
   letter-spacing: 0;
   line-height: normal;

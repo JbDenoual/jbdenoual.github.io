@@ -4,9 +4,9 @@
       <div class="pm_section_1">
         <div class="header-8">
           <div class="header-9">
-            <router-link to="/home"><img class="logo-15" :src="logo" alt="Logo" /></router-link>
+            <router-link to="/index"><img class="logo-8" :src="logo" alt="Logo" /></router-link>
             <div class="menu-4">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link-4 rubik-normal-white-16px">{{ accueil1 }}</div>
               </router-link>
               <div class="product-management-1 rubik-normal-white-16px">{{ productManagement1 }}</div>
@@ -25,10 +25,10 @@
             class="product-manager-au-quotidien inferi-trial-regular-normal-white-47px"
             v-html="productManagerAuQuotidien"
           ></h1>
-          <p class="surname-8 rubik-light-white-22px">{{ surname1 }}</p>
+          <p class="surname-3 rubik-light-white-22px">{{ surname1 }}</p>
           <router-link to="/contact">
             <div class="pm_section_1_button-1">
-              <div class="overlap-group-32">
+              <div class="overlap-group-22">
                 <div class="rectangle-10-14"></div>
                 <div class="rectangle-9-14"></div>
                 <p class="jemmne-mon-produit rubik-normal-midnight-blue-18px">{{ jemmneMonProduit }}</p>
@@ -43,9 +43,9 @@
         </div>
         <div class="pm_section_2_squares">
           <div class="pm_square">
-            <div class="overlap-group-29">
+            <div class="overlap-group-19">
               <div class="rectangle-31-4"></div>
-              <div class="rectangle-30-35"></div>
+              <div class="rectangle-30-15"></div>
               <p class="crer-une-vision-ins inter-medium-midnight-blue-16px">{{ crerUneVisionIns }}</p>
             </div>
           </div>
@@ -56,9 +56,9 @@
           <pm-square2 :comprendreVotreMt="pmSquare22Props.comprendreVotreMt" :className="pmSquare22Props.className" />
           <pm-square :construireUneStrat="pmSquare4Props.construireUneStrat" :className="pmSquare4Props.className" />
           <div class="pm_square">
-            <div class="overlap-group-29">
+            <div class="overlap-group-19">
               <div class="rectangle-31-4"></div>
-              <div class="rectangle-30-35"></div>
+              <div class="rectangle-30-15"></div>
               <p class="travailler-au-quotid inter-medium-midnight-blue-16px">{{ travaillerAuQuotid }}</p>
             </div>
           </div>
@@ -73,16 +73,12 @@
         </div>
         <div class="pm_section_3_detail">
           <div class="pm_section_3_detail_1">
-            <div class="overlap-group-33">
+            <div class="overlap-group-23">
               <div class="rectangle-31-5"></div>
-              <div class="rectangle-30-36"></div>
+              <div class="rectangle-30-16"></div>
               <div class="pm_section_3_1">
                 <div class="pm_section_3_1_5">
-                  <img
-                    class="checkbox"
-                    src="https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e80fd1e86bdee6f8bb7528/img/checkbox.svg"
-                    alt="checkbox"
-                  />
+                  <img class="checkbox" :src="checkbox" alt="checkbox" />
                   <p class="vous-tes-intresss-par-mon-profil rubik-light-shark-32px">
                     {{ vousTesIntresssParMonProfil }}
                   </p>
@@ -97,7 +93,7 @@
                 </div>
                 <div class="pm_section_3_1_2">
                   <checkbox :className="checkbox2Props.className" />
-                  <p class="surname-9 rubik-light-shark-32px">{{ surname2 }}</p>
+                  <p class="surname-4 rubik-light-shark-32px">{{ surname2 }}</p>
                 </div>
                 <div class="pm_section_3_1_1">
                   <checkbox :className="checkbox3Props.className" />
@@ -109,7 +105,7 @@
         </div>
         <router-link to="/contact">
           <div class="pm_section_3_button">
-            <div class="overlap-group1-22">
+            <div class="overlap-group1-12">
               <div class="rectangle-10-15"></div>
               <div class="rectangle-9-15"></div>
               <div class="apprenons-nous-connaitre rubik-normal-midnight-blue-18px">{{ apprenonsNousConnaitre }}</div>
@@ -124,8 +120,8 @@
         <div class="pm_section_4_details">
           <a href="https://jbdenoual.com/files/Commencer%20dans%20une%20nouvelle%20entreprise.pdf" target="_blank">
             <div class="pm_section_4_offer_1">
-              <div class="overlap-group1-23">
-                <div class="overlap-group-34">
+              <div class="overlap-group1-13">
+                <div class="overlap-group-24">
                   <div class="rectangle-10-16"></div>
                   <div class="rectangle-9-16"></div>
                   <p class="commencer-dans-une-nouvelle-entreprise rubik-normal-red-damask-35px">
@@ -136,8 +132,8 @@
               </div></div></a
           ><a href="files/Pratiquer la phase de Discovery.pdf" target="_blank">
             <div class="pm_section_4_offer">
-              <div class="overlap-group-30">
-                <div class="overlap-group-31">
+              <div class="overlap-group-20">
+                <div class="overlap-group-21">
                   <div class="rectangle-10-13"></div>
                   <div class="rectangle-9-13"></div>
                   <div class="pratiquer-le-discovery rubik-normal-red-damask-35px">{{ pratiquerLeDiscovery }}</div>
@@ -146,8 +142,8 @@
               </div></div></a
           ><a href="files/Pratiquer la phase de Delivery.pdf" target="_blank">
             <div class="pm_section_4_offer">
-              <div class="overlap-group-30">
-                <div class="overlap-group-31">
+              <div class="overlap-group-20">
+                <div class="overlap-group-21">
                   <div class="rectangle-10-13"></div>
                   <div class="rectangle-9-13"></div>
                   <div class="pratiquer-le-delivery rubik-normal-red-damask-35px">{{ pratiquerLeDelivery }}</div>
@@ -161,8 +157,8 @@
         <div class="footer_contact-3">
           <p class="dfinissez-rigoureus inferi-regular-normal-white-47px">{{ dfinissezRigoureus }}</p>
           <router-link to="/contact">
-            <div class="footer_button-1">
-              <div class="overlap-group-35">
+            <div class="footer_button-2">
+              <div class="overlap-group-25">
                 <div class="rectangle-10-17"></div>
                 <div class="rectangle-9-17"></div>
                 <div class="allons-y-ensemble-3 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
@@ -172,9 +168,9 @@
         </div>
         <div class="footer_links-4">
           <div class="footer_links_1-4">
-            <router-link to="/home"><img class="logo-15" :src="logo_2" alt="logo_2" /></router-link>
+            <router-link to="/index"><img class="logo-8" :src="logo_2" alt="logo_2" /></router-link>
             <div class="menu-4">
-              <router-link to="/home">
+              <router-link to="/index">
                 <div class="link-4 rubik-normal-white-16px">{{ accueil2 }}</div>
               </router-link>
               <div class="product-management-1 rubik-normal-white-16px">{{ productManagement2 }}</div>
@@ -220,6 +216,7 @@ export default {
     "crerUneVisionIns",
     "travaillerAuQuotid",
     "sommesNousCompatibles",
+    "checkbox",
     "vousTesIntresssParMonProfil",
     "vousTesFavorable",
     "vousAvezUneCultur",
@@ -309,7 +306,7 @@ export default {
   position: relative;
 }
 
-.logo-15 {
+.logo-8 {
   cursor: pointer;
   position: relative;
   width: 63.13px;
@@ -369,7 +366,7 @@ export default {
   text-align: center;
 }
 
-.surname-8 {
+.surname-3 {
   letter-spacing: -0.24px;
   line-height: 33px;
   position: relative;
@@ -383,7 +380,7 @@ export default {
   width: 483px;
 }
 
-.overlap-group-32 {
+.overlap-group-22 {
   height: 72px;
   position: relative;
   width: 481px;
@@ -467,7 +464,7 @@ export default {
   width: 294.35px;
 }
 
-.overlap-group-29 {
+.overlap-group-19 {
   height: 238px;
   position: relative;
   width: 292px;
@@ -482,7 +479,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-35 {
+.rectangle-30-15 {
   background-color: var(--negroni);
   height: 226px;
   left: 0;
@@ -540,7 +537,7 @@ export default {
   width: 100%;
 }
 
-.overlap-group-33 {
+.overlap-group-23 {
   height: 657px;
   position: relative;
   width: 840px;
@@ -555,7 +552,7 @@ export default {
   width: 831px;
 }
 
-.rectangle-30-36 {
+.rectangle-30-16 {
   background-color: var(--link-water);
   height: 640px;
   left: 0;
@@ -565,11 +562,10 @@ export default {
 }
 
 .pm_section_3_1 {
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
+  height: 549px;
   left: 35px;
-  min-height: 549px;
   position: absolute;
   top: 49px;
   width: 795px;
@@ -577,9 +573,12 @@ export default {
 
 .pm_section_3_1_5 {
   align-items: center;
+  align-self: center;
   display: flex;
   gap: 28px;
-  min-width: 797px;
+  height: 52.65px;
+  margin-left: 2px;
+  min-width: 797.45px;
 }
 
 .checkbox {
@@ -600,12 +599,13 @@ export default {
 
 .pm_section_3_1_4 {
   align-items: flex-start;
+  align-self: center;
   display: flex;
   gap: 28px;
   height: 114px;
-  margin-left: 0;
-  margin-top: 52px;
-  min-width: 765px;
+  margin-left: -30.8px;
+  margin-top: 51.8px;
+  min-width: 764.68px;
   position: relative;
 }
 
@@ -620,9 +620,9 @@ export default {
   align-items: center;
   display: flex;
   gap: 28px;
-  height: 53px;
-  margin-top: 48px;
-  min-width: 765px;
+  height: 52.65px;
+  margin-top: 47.6px;
+  min-width: 764.68px;
   position: relative;
 }
 
@@ -636,15 +636,17 @@ export default {
 
 .pm_section_3_1_2 {
   align-items: center;
+  align-self: center;
   display: flex;
   gap: 28px;
   height: 76px;
-  margin-top: 48px;
-  min-width: 765px;
+  margin-left: -30.8px;
+  margin-top: 47.8px;
+  min-width: 764.68px;
   position: relative;
 }
 
-.surname-9 {
+.surname-4 {
   letter-spacing: 0;
   line-height: normal;
   min-height: 76px;
@@ -655,9 +657,9 @@ export default {
   align-items: center;
   display: flex;
   gap: 28px;
-  height: 53px;
-  margin-top: 54px;
-  min-width: 768px;
+  height: 52.65px;
+  margin-top: 53.6px;
+  min-width: 768.04px;
   position: relative;
 }
 
@@ -676,7 +678,7 @@ export default {
   width: 334.24px;
 }
 
-.overlap-group1-22 {
+.overlap-group1-12 {
   height: 72px;
   position: relative;
   width: 332px;
@@ -729,13 +731,13 @@ export default {
   width: 501px;
 }
 
-.overlap-group1-23 {
+.overlap-group1-13 {
   height: 273px;
   position: relative;
   width: 503px;
 }
 
-.overlap-group-34 {
+.overlap-group-24 {
   height: 251px;
   left: 0;
   position: absolute;
@@ -779,13 +781,13 @@ export default {
   width: 501px;
 }
 
-.overlap-group-30 {
+.overlap-group-20 {
   height: 232px;
   position: relative;
   width: 503px;
 }
 
-.overlap-group-31 {
+.overlap-group-21 {
   height: 210px;
   left: 0;
   position: absolute;
@@ -847,14 +849,14 @@ export default {
   text-align: center;
 }
 
-.footer_button-1 {
+.footer_button-2 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 312px;
 }
 
-.overlap-group-35 {
+.overlap-group-25 {
   height: 72px;
   position: relative;
   width: 310px;

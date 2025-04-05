@@ -1,8 +1,8 @@
 <template>
   <div class="group">
-    <div class="overlap-group-42">
+    <div class="overlap-group-32">
       <div class="rectangle-31-10"></div>
-      <div class="rectangle-30-41"></div>
+      <div class="rectangle-30-21"></div>
       <p class="animer-des-sessions rubik-light-red-damask-16px">{{ animerDesSessions }}</p>
       <div class="x-par-mois rubik-normal-red-damask-28px">{{ x2XParMois }}</div>
     </div>
@@ -17,22 +17,19 @@ export default {
 </script>
 
 <style>
-.group,
-.group-1 {
+.group {
   height: 237.56px;
   position: relative;
   width: 296.35px;
 }
 
-.overlap-group-42,
-.overlap-group-43 {
+.overlap-group-32 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-10,
-.rectangle-31-11 {
+.rectangle-31-10 {
   background-color: var(--macaroni-and-cheese);
   height: 226px;
   left: 8px;
@@ -41,8 +38,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-41,
-.rectangle-30-42 {
+.rectangle-30-21 {
   background-color: var(--negroni);
   height: 226px;
   left: 0;
@@ -52,9 +48,7 @@ export default {
 }
 
 .animer-des-sessions,
-.raliser-un-talk-sur,
-.animer-des-sessions-1,
-.raliser-un-talk-sur-1 {
+.raliser-un-talk-sur {
   left: 28px;
   letter-spacing: -0.18px;
   line-height: 24px;
@@ -63,8 +57,7 @@ export default {
   width: 237px;
 }
 
-.x-par-mois,
-.x-par-mois-1 {
+.x-par-mois {
   left: 55px;
   letter-spacing: 0;
   line-height: normal;

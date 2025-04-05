@@ -1,15 +1,15 @@
 <template>
-  <div class="index-u40700u41 screen"><global-home3 v-bind="globalHome3Props" /></div>
+  <div class="index-u40700u41 screen"><global-home v-bind="globalHomeProps" /></div>
 </template>
 
 <script>
-import GlobalHome3 from "./GlobalHome3";
+import GlobalHome from "./GlobalHome";
 export default {
   name: "Index700",
   components: {
-    GlobalHome3,
+    GlobalHome,
   },
-  props: ["globalHome3Props"],
+  props: ["globalHomeProps"],
 };
 </script>
 

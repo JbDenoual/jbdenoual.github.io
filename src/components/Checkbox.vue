@@ -11,7 +11,7 @@ export default {
 
 <style>
 .checkbox-2 {
-  background-image: url(https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e80fd1e86bdee6f8bb7528/img/checkbox-1.svg);
+  background-image: url(https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67f0fe4f74e6d4840876cfaa/img/checkbox-1@2x.png);
   background-size: 100% 100%;
   height: 53px;
   margin-top: 3.59px;
