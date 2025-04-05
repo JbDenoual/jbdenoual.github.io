@@ -1,8 +1,8 @@
 <template>
   <div :class="[`pm_square-4`, className || ``]">
-    <div class="overlap-group-24">
-      <div class="rectangle-31-3"></div>
-      <div class="rectangle-30-23"></div>
+    <div class="overlap-group-37">
+      <div class="rectangle-31-7"></div>
+      <div class="rectangle-30-38"></div>
       <p class="comprendre-votre-mt inter-medium-midnight-blue-16px">{{ comprendreVotreMt }}</p>
     </div>
   </div>
@@ -22,13 +22,13 @@ export default {
   width: 294.35px;
 }
 
-.overlap-group-24 {
+.overlap-group-37 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-3 {
+.rectangle-31-7 {
   background-color: var(--macaroni-and-cheese);
   height: 226px;
   left: 8px;
@@ -37,7 +37,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-23 {
+.rectangle-30-38 {
   background-color: var(--negroni);
   height: 226px;
   left: 0;

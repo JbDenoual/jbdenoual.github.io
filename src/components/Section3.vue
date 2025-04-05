@@ -10,9 +10,9 @@
       <group9 :animerDesSessions="group91Props.animerDesSessions" :x2XParMois="group91Props.x2XParMois" />
       <group9 :animerDesSessions="group92Props.animerDesSessions" :x2XParMois="group92Props.x2XParMois" />
       <div class="group-11">
-        <div class="overlap-group2-7">
-          <div class="rectangle-31-4"></div>
-          <div class="rectangle-30-24"></div>
+        <div class="overlap-group2-10">
+          <div class="rectangle-31-8"></div>
+          <div class="rectangle-30-39"></div>
           <p class="mettre-en-place-des-1 rubik-light-red-damask-16px">{{ mettreEnPlaceDes }}</p>
           <div class="en-continue rubik-normal-red-damask-28px">EN CONTINUE</div>
         </div>
@@ -97,15 +97,15 @@ export default {
   width: 296.35px;
 }
 
-.overlap-group2-7,
-.overlap-group2-8 {
+.overlap-group2-10,
+.overlap-group2-11 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-4,
-.rectangle-31-5 {
+.rectangle-31-8,
+.rectangle-31-9 {
   background-color: var(--macaroni-and-cheese);
   height: 226px;
   left: 8px;
@@ -114,8 +114,8 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-24,
-.rectangle-30-25 {
+.rectangle-30-39,
+.rectangle-30-40 {
   background-color: var(--negroni);
   height: 226px;
   left: 0;

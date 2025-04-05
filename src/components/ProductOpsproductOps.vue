@@ -1,21 +1,21 @@
 <template>
   <div class="product-opsu47product-ops screen">
-    <div class="global-6">
+    <div class="global-4">
       <div class="section_1-2">
-        <div class="header-18">
-          <div class="header-19">
-            <router-link to="/index-1"><img class="logo-11" :src="logo" alt="Logo" /></router-link>
-            <div class="menu-9">
-              <router-link to="/index-1">
-                <div class="link-9 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
+        <div class="header-24">
+          <div class="header-25">
+            <router-link to="/home"><img class="logo-20" :src="logo" alt="Logo" /></router-link>
+            <div class="menu-12">
+              <router-link to="/home">
+                <div class="link-11 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-9 rubik-normal-white-16px">{{ productManagement1 }}</div>
+                <div class="link-11 rubik-normal-white-16px">{{ productManagement1 }}</div>
               </router-link>
-              <div class="product-ops-14 rubik-normal-white-16px">{{ productOps1 }}</div>
+              <div class="product-ops-20 rubik-normal-white-16px">{{ productOps1 }}</div>
               <router-link to="/experiences">
-                <div class="link-9 rubik-normal-white-16px">{{ expriences1 }}</div> </router-link
+                <div class="link-11 rubik-normal-white-16px">{{ expriences1 }}</div> </router-link
               ><router-link to="/contact">
-                <div class="link-9 rubik-normal-white-16px">{{ place1 }}</div>
+                <div class="link-11 rubik-normal-white-16px">{{ place1 }}</div>
               </router-link>
             </div>
           </div>
@@ -27,9 +27,9 @@
           <p class="les-meilleures-quip-1 rubik-light-white-22px">{{ lesMeilleuresQuip }}</p>
           <router-link to="/contact">
             <div class="button-1-2">
-              <div class="overlap-group-51">
-                <div class="rectangle-10-36"></div>
-                <div class="rectangle-9-36"></div>
+              <div class="overlap-group-68">
+                <div class="rectangle-10-51"></div>
+                <div class="rectangle-9-51"></div>
                 <p class="je-fais-grandir-mon-equipe-1 rubik-normal-midnight-blue-18px">{{ jeFaisGrandirMonEquipe }}</p>
               </div>
             </div></router-link
@@ -68,41 +68,41 @@
           <router-link to="/contact">
             <div class="button-3-1">
               <div class="overlap-group9-1">
-                <div class="rectangle-10-37"></div>
-                <div class="rectangle-9-37"></div>
+                <div class="rectangle-10-52"></div>
+                <div class="rectangle-9-52"></div>
                 <div class="en-savoir-plus-1 rubik-normal-midnight-blue-18px">{{ enSavoirPlus }}</div>
               </div>
             </div></router-link
           >
         </div>
       </div>
-      <footer class="footer-9">
-        <div class="footer_contact-8">
+      <footer class="footer-12">
+        <div class="footer_contact-11">
           <p class="ne-vous-contentez-pa-1 inferi-regular-normal-white-47px">{{ neVousContentezPa }}</p>
           <router-link to="/contact">
             <div class="footer_button-3">
-              <div class="overlap-group-52">
-                <div class="rectangle-10-38"></div>
-                <div class="rectangle-9-38"></div>
-                <div class="allons-y-ensemble-8 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
+              <div class="overlap-group-69">
+                <div class="rectangle-10-53"></div>
+                <div class="rectangle-9-53"></div>
+                <div class="allons-y-ensemble-11 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
               </div>
             </div></router-link
           >
         </div>
-        <div class="footer_links-9">
-          <div class="footer_links_1-9">
-            <router-link to="/index-1"><img class="logo-11" :src="logo_2" alt="logo_2" /></router-link>
-            <div class="menu-9">
-              <router-link to="/index-1">
-                <div class="link-9 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
+        <div class="footer_links-12">
+          <div class="footer_links_1-12">
+            <router-link to="/home"><img class="logo-20" :src="logo_2" alt="logo_2" /></router-link>
+            <div class="menu-12">
+              <router-link to="/home">
+                <div class="link-11 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-9 rubik-normal-white-16px">{{ productManagement2 }}</div>
+                <div class="link-11 rubik-normal-white-16px">{{ productManagement2 }}</div>
               </router-link>
-              <div class="product-ops-14 rubik-normal-white-16px">{{ productOps2 }}</div>
+              <div class="product-ops-20 rubik-normal-white-16px">{{ productOps2 }}</div>
               <router-link to="/experiences">
-                <div class="link-9 rubik-normal-white-16px">{{ expriences2 }}</div> </router-link
+                <div class="link-11 rubik-normal-white-16px">{{ expriences2 }}</div> </router-link
               ><router-link to="/contact">
-                <div class="link-9 rubik-normal-white-16px">{{ place2 }}</div>
+                <div class="link-11 rubik-normal-white-16px">{{ place2 }}</div>
               </router-link>
             </div>
           </div>
@@ -174,7 +174,7 @@ export default {
   position: relative;
 }
 
-.global-6 {
+.global-4 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -198,7 +198,7 @@ export default {
   width: 100%;
 }
 
-.header-18 {
+.header-24 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -208,8 +208,8 @@ export default {
   width: 100%;
 }
 
-.header-19,
-.footer_links_1-9 {
+.header-25,
+.footer_links_1-12 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -221,13 +221,13 @@ export default {
   position: relative;
 }
 
-.logo-11 {
+.logo-20 {
   cursor: pointer;
   position: relative;
   width: 63.13px;
 }
 
-.menu-9 {
+.menu-12 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -240,7 +240,7 @@ export default {
   position: relative;
 }
 
-.link-9 {
+.link-11 {
   cursor: pointer;
   letter-spacing: 0;
   line-height: normal;
@@ -250,7 +250,7 @@ export default {
   width: fit-content;
 }
 
-.product-ops-14 {
+.product-ops-20 {
   letter-spacing: 0;
   line-height: normal;
   position: relative;
@@ -295,13 +295,13 @@ export default {
   width: 483px;
 }
 
-.overlap-group-51 {
+.overlap-group-68 {
   height: 72px;
   position: relative;
   width: 481px;
 }
 
-.rectangle-10-36 {
+.rectangle-10-51 {
   background-color: var(--hippie-blue);
   height: 64px;
   left: 8px;
@@ -310,7 +310,7 @@ export default {
   width: 473px;
 }
 
-.rectangle-9-36 {
+.rectangle-9-51 {
   background-color: var(--link-water);
   height: 65px;
   left: 0;
@@ -450,7 +450,7 @@ export default {
   width: 259px;
 }
 
-.rectangle-10-37 {
+.rectangle-10-52 {
   background-color: var(--macaroni-and-cheese);
   height: 64px;
   left: 4px;
@@ -459,7 +459,7 @@ export default {
   width: 255px;
 }
 
-.rectangle-9-37 {
+.rectangle-9-52 {
   background-color: var(--negroni);
   height: 65px;
   left: 0;
@@ -478,7 +478,7 @@ export default {
   width: 250px;
 }
 
-.footer-9 {
+.footer-12 {
   align-items: center;
   align-self: stretch;
   background-color: var(--midnight-blue);
@@ -493,7 +493,7 @@ export default {
   width: 100%;
 }
 
-.footer_contact-8 {
+.footer_contact-11 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -520,13 +520,13 @@ export default {
   width: 312px;
 }
 
-.overlap-group-52 {
+.overlap-group-69 {
   height: 72px;
   position: relative;
   width: 310px;
 }
 
-.rectangle-10-38 {
+.rectangle-10-53 {
   background-color: var(--hippie-blue-2);
   height: 64px;
   left: 5px;
@@ -535,7 +535,7 @@ export default {
   width: 305px;
 }
 
-.rectangle-9-38 {
+.rectangle-9-53 {
   background-color: var(--link-water-2);
   height: 65px;
   left: 0;
@@ -544,7 +544,7 @@ export default {
   width: 305px;
 }
 
-.allons-y-ensemble-8 {
+.allons-y-ensemble-11 {
   left: 2px;
   letter-spacing: 0;
   line-height: normal;
@@ -554,7 +554,7 @@ export default {
   width: 299px;
 }
 
-.footer_links-9 {
+.footer_links-12 {
   align-items: center;
   align-self: stretch;
   display: flex;

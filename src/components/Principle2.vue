@@ -1,7 +1,7 @@
 <template>
-  <div class="principle-4">
-    <div class="overlap-group-8">
-      <div class="rectangle-30-5"></div>
+  <div class="principle-1">
+    <div class="overlap-group-12">
+      <div class="rectangle-30-8"></div>
       <p class="surname rubik-normal-orange-20px">{{ surname }}</p>
     </div>
   </div>
@@ -15,6 +15,9 @@ export default {
 </script>
 
 <style>
+.principle-1,
+.principle-2,
+.principle-3,
 .principle-4,
 .principle-5,
 .principle-6,
@@ -25,21 +28,27 @@ export default {
   width: 357.13px;
 }
 
-.overlap-group-8,
-.overlap-group-9,
-.overlap-group-10,
-.overlap-group-11,
-.overlap-group-12 {
+.overlap-group-12,
+.overlap-group-13,
+.overlap-group-14,
+.overlap-group-15,
+.overlap-group-16,
+.overlap-group-17,
+.overlap-group-18,
+.overlap-group-19 {
   height: 355px;
   position: relative;
   width: 355px;
 }
 
-.rectangle-30-5,
-.rectangle-30-6,
-.rectangle-30-7,
 .rectangle-30-8,
-.rectangle-30-9 {
+.rectangle-30-9,
+.rectangle-30-10,
+.rectangle-30-11,
+.rectangle-30-12,
+.rectangle-30-13,
+.rectangle-30-14,
+.rectangle-30-15 {
   background-color: var(--negroni);
   height: 251px;
   left: 52px;
@@ -58,7 +67,13 @@ export default {
 .surname-3,
 .bien-comprendre-le-p-3,
 .surname-4,
-.bien-comprendre-le-p-4 {
+.bien-comprendre-le-p-4,
+.surname-5,
+.bien-comprendre-le-p-5,
+.surname-6,
+.bien-comprendre-le-p-6,
+.surname-7,
+.bien-comprendre-le-p-7 {
   left: 53px;
   letter-spacing: -0.22px;
   line-height: 30px;

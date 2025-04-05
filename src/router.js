@@ -1,24 +1,30 @@
 import Vue from "vue";
 import Router from "vue-router";
-import Index from "./components/Index";
-import Index2 from "./components/Index2";
 import Contact from "./components/Contact";
-import ProductManagement from "./components/ProductManagement";
-import ProductOps from "./components/ProductOps";
-import Index3 from "./components/Index3";
+import Home700 from "./components/Home700";
 import Experiences from "./components/Experiences";
 import Home from "./components/Home";
+import ProductManagement from "./components/ProductManagement";
+import ProductOps from "./components/ProductOps";
+import Index700 from "./components/Index700";
+import Index from "./components/Index";
+import Index478 from "./components/Index478";
+import Index2 from "./components/Index2";
+import Index3 from "./components/Index3";
 import Home478 from "./components/Home478";
 import ProductOpsproductOps from "./components/ProductOpsproductOps";
 import {
-  indexData,
-  index2Data,
   contactData,
-  productManagementData,
-  productOpsData,
-  index3Data,
+  home700Data,
   experiencesData,
   homeData,
+  productManagementData,
+  productOpsData,
+  index700Data,
+  indexData,
+  index478Data,
+  index2Data,
+  index3Data,
   home478Data,
   productOpsproductOpsData,
 } from "./data";
@@ -29,19 +35,24 @@ export default new Router({
   mode: "history",
   routes: [
     {
-      path: "/index-1",
-      component: Index,
-      props: { globalHomeProps: indexData.globalHomeProps },
-    },
-    {
-      path: "/index-2",
-      component: Index2,
-      props: { globalHome2Props: index2Data.globalHome2Props },
-    },
-    {
       path: "/contact",
       component: Contact,
       props: { ...contactData },
+    },
+    {
+      path: "/home-u40700u41",
+      component: Home700,
+      props: { globalHomeProps: home700Data.globalHomeProps },
+    },
+    {
+      path: "/experiences",
+      component: Experiences,
+      props: { ...experiencesData },
+    },
+    {
+      path: "/home",
+      component: Home,
+      props: { globalHome2Props: homeData.globalHome2Props },
     },
     {
       path: "/product-management",
@@ -54,14 +65,24 @@ export default new Router({
       props: { ...productOpsData },
     },
     {
-      path: "/index",
-      component: Index3,
-      props: { ...index3Data },
+      path: "/index-u40700u41",
+      component: Index700,
+      props: { globalHome3Props: index700Data.globalHome3Props },
     },
     {
-      path: "/experiences",
-      component: Experiences,
-      props: { ...experiencesData },
+      path: "/index",
+      component: Index,
+      props: { globalHome4Props: indexData.globalHome4Props },
+    },
+    {
+      path: "/index-u40478u41",
+      component: Index478,
+      props: { globalHome3Props: index478Data.globalHome3Props },
+    },
+    {
+      path: "/index-2",
+      component: Index3,
+      props: { globalHome5Props: index3Data.globalHome5Props },
     },
     {
       path: "/home-u40478u41",
@@ -75,8 +96,8 @@ export default new Router({
     },
     {
       path: "*",
-      component: Home,
-      props: { ...homeData },
+      component: Index2,
+      props: { globalHome4Props: index2Data.globalHome4Props },
     },
   ],
 });

@@ -1,5 +1,5 @@
 <template>
-  <div class="left"><h1 class="title inferi-trial-regular-normal-red-damask-64px">Laissez moi deviner...</h1></div>
+  <div class="left-1"><h1 class="title inferi-trial-regular-normal-red-damask-64px">Laissez moi deviner...</h1></div>
 </template>
 
 <script>
@@ -9,8 +9,8 @@ export default {
 </script>
 
 <style>
-.left,
-.left-1 {
+.left-1,
+.left-2 {
   align-items: center;
   align-self: stretch;
   display: flex;

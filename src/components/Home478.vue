@@ -1,44 +1,44 @@
 <template>
   <div class="home-u40478u41 screen">
-    <div class="global-5">
-      <div class="home_section_1-4">
-        <div class="header-16">
-          <div class="header-17">
-            <img class="logo-10" :src="logo" alt="Logo" />
-            <div class="menu-8">
-              <div class="accueil-4 rubik-normal-white-16px">{{ accueil1 }}</div>
+    <div class="global-3">
+      <div class="home_section_1-7">
+        <div class="header-22">
+          <div class="header-23">
+            <img class="logo-19" :src="logo" alt="Logo" />
+            <div class="menu-11">
+              <div class="accueil-6 rubik-normal-white-16px">{{ accueil1 }}</div>
               <router-link to="/product-management">
-                <div class="link-8 rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
+                <div class="link-10 rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
               ><router-link to="/product-ops">
-                <div class="link-8 rubik-normal-white-16px">{{ productOps1 }}</div> </router-link
+                <div class="link-10 rubik-normal-white-16px">{{ productOps1 }}</div> </router-link
               ><router-link to="/experiences">
-                <div class="link-8 rubik-normal-white-16px">{{ expriences1 }}</div> </router-link
+                <div class="link-10 rubik-normal-white-16px">{{ expriences1 }}</div> </router-link
               ><router-link to="/contact">
-                <div class="link-8 rubik-normal-white-16px">{{ place1 }}</div>
+                <div class="link-10 rubik-normal-white-16px">{{ place1 }}</div>
               </router-link>
             </div>
           </div>
         </div>
-        <div class="home_section_1_details-4">
-          <div class="home_section_1_details_1-4">
-            <img class="me-4" :src="me" alt="me" />
-            <div class="home_section_1_text-4">
+        <div class="home_section_1_details-7">
+          <div class="home_section_1_details_1-7">
+            <img class="me-7" :src="me" alt="me" />
+            <div class="home_section_1_text-7">
               <caroussel2 />
-              <div class="home_section_1_buttons-4">
+              <div class="home_section_1_buttons-7">
                 <router-link to="/product-management">
-                  <div class="home_button_1-4">
-                    <div class="overlap-group-50">
-                      <div class="rectangle-10-32"></div>
-                      <div class="rectangle-9-32"></div>
-                      <div class="product-manager-8 rubik-light-midnight-blue-18px">{{ productManager1 }}</div>
+                  <div class="home_button_1-7">
+                    <div class="overlap-group-67">
+                      <div class="rectangle-10-47"></div>
+                      <div class="rectangle-9-47"></div>
+                      <div class="product-manager-14 rubik-light-midnight-blue-18px">{{ productManager1 }}</div>
                     </div>
                   </div></router-link
                 ><router-link to="/product-ops">
-                  <div class="home_button_2-4">
-                    <div class="overlap-group1-22">
-                      <div class="rectangle-10-33"></div>
-                      <div class="rectangle-9-33"></div>
-                      <div class="product-ops-12 rubik-light-midnight-blue-18px">{{ productOps2 }}</div>
+                  <div class="home_button_2-7">
+                    <div class="overlap-group1-34">
+                      <div class="rectangle-10-48"></div>
+                      <div class="rectangle-9-48"></div>
+                      <div class="product-ops-18 rubik-light-midnight-blue-18px">{{ productOps2 }}</div>
                     </div>
                   </div></router-link
                 >
@@ -47,46 +47,46 @@
           </div>
         </div>
       </div>
-      <div class="home_section_2-4">
-        <div class="home_section_2_1-4">
-          <home2-left />
+      <div class="home_section_2-7">
+        <div class="home_section_2_1-7">
+          <home2-left :className="home2LeftProps.className" />
           <home2-right />
         </div>
       </div>
-      <div class="home_section_3-4">
-        <p class="je-suis-la-recherche-dun-4 inferi-regular-normal-shark-47px">{{ jeSuisLaRechercheDun }}</p>
-        <div class="home_3_offers-4">
-          <div class="home_3_offers_1-4">
-            <div class="home_offer-4">
-              <div class="overlap-group1-23">
-                <div class="overlap-group-48">
-                  <div class="rectangle-10-34"></div>
-                  <div class="rectangle-9-34"></div>
-                  <div class="product-manager-9 rubik-normal-red-damask-35px">{{ productManager2 }}</div>
-                  <p class="pour-des-missions-de-8 rubik-light-black-22px" v-html="pourDesMissionsDe1"></p>
+      <div class="home_section_3-7">
+        <p class="je-suis-la-recherche-dun-7 inferi-regular-normal-shark-47px">{{ jeSuisLaRechercheDun }}</p>
+        <div class="home_3_offers-7">
+          <div class="home_3_offers_1-7">
+            <div class="home_offer-5">
+              <div class="overlap-group1-35">
+                <div class="overlap-group-65">
+                  <div class="rectangle-10-49"></div>
+                  <div class="rectangle-9-49"></div>
+                  <div class="product-manager-15 rubik-normal-red-damask-35px">{{ productManager2 }}</div>
+                  <p class="pour-des-missions-de-14 rubik-light-black-22px" v-html="pourDesMissionsDe1"></p>
                 </div>
                 <router-link to="/product-management">
-                  <div class="home_offer_1_1-4">
+                  <div class="home_offer_1_1-7">
                     <img
-                      class="x-11"
+                      class="x-17"
                       src="https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e80fd1e86bdee6f8bb7528/img/----3.svg"
                       alt="--&gt;"
                     /></div
                 ></router-link>
               </div>
             </div>
-            <div class="home_offer-4">
-              <div class="overlap-group2-11">
-                <div class="overlap-group-48">
-                  <div class="rectangle-10-35"></div>
-                  <div class="rectangle-9-35"></div>
-                  <div class="product-ops-13 rubik-normal-midnight-blue-35px">{{ productOps3 }}</div>
-                  <p class="pour-des-missions-de-9 rubik-light-black-20px" v-html="pourDesMissionsDe2"></p>
+            <div class="home_offer-5">
+              <div class="overlap-group2-17">
+                <div class="overlap-group-65">
+                  <div class="rectangle-10-50"></div>
+                  <div class="rectangle-9-50"></div>
+                  <div class="product-ops-19 rubik-normal-midnight-blue-35px">{{ productOps3 }}</div>
+                  <p class="pour-des-missions-de-15 rubik-light-black-20px" v-html="pourDesMissionsDe2"></p>
                 </div>
                 <router-link to="/product-ops">
-                  <div class="home_offer_2_1-4">
+                  <div class="home_offer_2_1-7">
                     <img
-                      class="x-12"
+                      class="x-18"
                       src="https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e80fd1e86bdee6f8bb7528/img/----4.svg"
                       alt="--&gt;"
                     /></div
@@ -96,64 +96,64 @@
           </div>
         </div>
       </div>
-      <div class="home_section_4-4">
-        <div class="about-4">
-          <div class="propos-de-moi-4 inferi-regular-normal-shark-47px">{{ proposDeMoi }}</div>
-          <p class="mes-clients-me-dcri-4 rubik-light-shark-19px" v-html="mesClientsMeDcri"></p>
+      <div class="home_section_4-7">
+        <div class="about-7">
+          <div class="propos-de-moi-7 inferi-regular-normal-shark-47px">{{ proposDeMoi }}</div>
+          <p class="mes-clients-me-dcri-7 rubik-light-shark-19px" v-html="mesClientsMeDcri"></p>
           <router-link to="/experiences">
-            <div class="_button-4">
-              <div class="overlap-group-49">
-                <div class="rectangle-10-31"></div>
-                <div class="rectangle-9-31"></div>
-                <div class="consulter-mes-experiences-4 rubik-normal-midnight-blue-18px">
+            <div class="_button-7">
+              <div class="overlap-group-66">
+                <div class="rectangle-10-46"></div>
+                <div class="rectangle-9-46"></div>
+                <div class="consulter-mes-experiences-7 rubik-normal-midnight-blue-18px">
                   {{ consulterMesExperiences }}
                 </div>
               </div>
             </div></router-link
           >
         </div>
-        <about-picture :src="aboutPictureProps.src" />
+        <about-picture :src="aboutPictureProps.src" :className="aboutPictureProps.className" />
       </div>
-      <div class="home_section_5-4">
-        <p class="les-principes-qui-gu-4 inferi-trial-regular-normal-midnight-blue-47px">{{ lesPrincipesQuiGu }}</p>
-        <div class="home_principles-4">
-          <div class="principle-9">
+      <div class="home_section_5-7">
+        <p class="les-principes-qui-gu-7 inferi-trial-regular-normal-midnight-blue-47px">{{ lesPrincipesQuiGu }}</p>
+        <div class="home_principles-7">
+          <div class="principle-15">
             <principle1 />
             <principle2 :surname="principle21Props.surname" />
             <principle3 />
           </div>
-          <div class="principle-9">
+          <div class="principle-15">
             <principle2 :surname="principle22Props.surname" />
             <principle5 />
           </div>
         </div>
       </div>
-      <footer class="footer-8">
-        <div class="footer_contact-7">
-          <p class="plutt-que-dadmirer-4 inferi-regular-normal-white-47px">{{ pluttQueDadmirer }}</p>
+      <footer class="footer-11">
+        <div class="footer_contact-10">
+          <p class="plutt-que-dadmirer-7 inferi-regular-normal-white-47px">{{ pluttQueDadmirer }}</p>
           <router-link to="/contact">
-            <div class="_button-4">
-              <div class="overlap-group-49">
-                <div class="rectangle-10-31"></div>
-                <div class="rectangle-9-31"></div>
-                <div class="allons-y-ensemble-7 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
+            <div class="_button-7">
+              <div class="overlap-group-66">
+                <div class="rectangle-10-46"></div>
+                <div class="rectangle-9-46"></div>
+                <div class="allons-y-ensemble-10 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
               </div>
             </div></router-link
           >
         </div>
-        <div class="footer_links-8">
-          <div class="footer_links_1-8">
-            <img class="logo-10" :src="logo_2" alt="logo_2" />
-            <div class="menu-8">
-              <div class="accueil-4 rubik-normal-white-16px">{{ accueil2 }}</div>
+        <div class="footer_links-11">
+          <div class="footer_links_1-11">
+            <img class="logo-19" :src="logo_2" alt="logo_2" />
+            <div class="menu-11">
+              <div class="accueil-6 rubik-normal-white-16px">{{ accueil2 }}</div>
               <router-link to="/product-management">
-                <div class="link-8 rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
+                <div class="link-10 rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
               ><router-link to="/product-ops">
-                <div class="link-8 rubik-normal-white-16px">{{ productOps4 }}</div> </router-link
+                <div class="link-10 rubik-normal-white-16px">{{ productOps4 }}</div> </router-link
               ><router-link to="/experiences">
-                <div class="link-8 rubik-normal-white-16px">{{ expriences2 }}</div> </router-link
+                <div class="link-10 rubik-normal-white-16px">{{ expriences2 }}</div> </router-link
               ><router-link to="/contact">
-                <div class="link-8 rubik-normal-white-16px">{{ place2 }}</div>
+                <div class="link-10 rubik-normal-white-16px">{{ place2 }}</div>
               </router-link>
             </div>
           </div>
@@ -211,6 +211,7 @@ export default {
     "productOps4",
     "expriences2",
     "place2",
+    "home2LeftProps",
     "aboutPictureProps",
     "principle21Props",
     "principle22Props",
@@ -227,7 +228,7 @@ export default {
   position: relative;
 }
 
-.global-5 {
+.global-3 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -238,7 +239,7 @@ export default {
   width: 100%;
 }
 
-.home_section_1-4 {
+.home_section_1-7 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--midnight-blue);
@@ -250,7 +251,7 @@ export default {
   width: 100%;
 }
 
-.header-16 {
+.header-22 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -260,8 +261,8 @@ export default {
   width: 100%;
 }
 
-.header-17,
-.footer_links_1-8 {
+.header-23,
+.footer_links_1-11 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -273,12 +274,12 @@ export default {
   position: relative;
 }
 
-.logo-10 {
+.logo-19 {
   position: relative;
   width: 63.13px;
 }
 
-.menu-8 {
+.menu-11 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -291,7 +292,7 @@ export default {
   position: relative;
 }
 
-.accueil-4 {
+.accueil-6 {
   letter-spacing: 0;
   line-height: normal;
   position: relative;
@@ -300,7 +301,7 @@ export default {
   width: fit-content;
 }
 
-.link-8 {
+.link-10 {
   cursor: pointer;
   letter-spacing: 0;
   line-height: normal;
@@ -310,7 +311,7 @@ export default {
   width: fit-content;
 }
 
-.home_section_1_details-4 {
+.home_section_1_details-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -322,7 +323,7 @@ export default {
   width: 100%;
 }
 
-.home_section_1_details_1-4 {
+.home_section_1_details_1-7 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -338,13 +339,13 @@ export default {
   position: relative;
 }
 
-.me-4 {
+.me-7 {
   height: 371px;
   position: relative;
   width: 371px;
 }
 
-.home_section_1_text-4 {
+.home_section_1_text-7 {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -355,7 +356,7 @@ export default {
   width: 600px;
 }
 
-.home_section_1_buttons-4 {
+.home_section_1_buttons-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -366,20 +367,20 @@ export default {
   width: 100%;
 }
 
-.home_button_1-4 {
+.home_button_1-7 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 253px;
 }
 
-.overlap-group-50 {
+.overlap-group-67 {
   height: 72px;
   position: relative;
   width: 251px;
 }
 
-.rectangle-10-32 {
+.rectangle-10-47 {
   background-color: var(--macaroni-and-cheese);
   height: 64px;
   left: 4px;
@@ -388,7 +389,7 @@ export default {
   width: 247px;
 }
 
-.rectangle-9-32 {
+.rectangle-9-47 {
   background-color: var(--negroni);
   height: 65px;
   left: 0;
@@ -397,7 +398,7 @@ export default {
   width: 247px;
 }
 
-.product-manager-8 {
+.product-manager-14 {
   left: 2px;
   letter-spacing: 0;
   line-height: normal;
@@ -407,20 +408,20 @@ export default {
   width: 242px;
 }
 
-.home_button_2-4 {
+.home_button_2-7 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 210px;
 }
 
-.overlap-group1-22 {
+.overlap-group1-34 {
   height: 72px;
   position: relative;
   width: 208px;
 }
 
-.rectangle-10-33 {
+.rectangle-10-48 {
   background-color: var(--hippie-blue-2);
   height: 64px;
   left: 3px;
@@ -429,7 +430,7 @@ export default {
   width: 205px;
 }
 
-.rectangle-9-33 {
+.rectangle-9-48 {
   background-color: var(--link-water-2);
   height: 65px;
   left: 0;
@@ -438,7 +439,7 @@ export default {
   width: 205px;
 }
 
-.product-ops-12 {
+.product-ops-18 {
   left: 2px;
   letter-spacing: 0;
   line-height: normal;
@@ -448,7 +449,7 @@ export default {
   width: 201px;
 }
 
-.home_section_2-4 {
+.home_section_2-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -460,7 +461,7 @@ export default {
   width: 100%;
 }
 
-.home_section_2_1-4 {
+.home_section_2_1-7 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -471,7 +472,7 @@ export default {
   position: relative;
 }
 
-.home_section_3-4 {
+.home_section_3-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -482,7 +483,7 @@ export default {
   width: 100%;
 }
 
-.je-suis-la-recherche-dun-4 {
+.je-suis-la-recherche-dun-7 {
   letter-spacing: 0;
   line-height: normal;
   margin-top: -1px;
@@ -490,7 +491,7 @@ export default {
   width: fit-content;
 }
 
-.home_3_offers-4 {
+.home_3_offers-7 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -501,7 +502,7 @@ export default {
   width: 100%;
 }
 
-.home_3_offers_1-4 {
+.home_3_offers_1-7 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -512,19 +513,19 @@ export default {
   position: relative;
 }
 
-.home_offer-4 {
+.home_offer-5 {
   height: 508px;
   position: relative;
   width: 501px;
 }
 
-.overlap-group1-23 {
+.overlap-group1-35 {
   height: 471px;
   position: relative;
   width: 505px;
 }
 
-.overlap-group-48 {
+.overlap-group-65 {
   height: 444px;
   left: 0;
   position: absolute;
@@ -532,7 +533,7 @@ export default {
   width: 501px;
 }
 
-.rectangle-10-34 {
+.rectangle-10-49 {
   background-color: var(--red-damask);
   height: 431px;
   left: 10px;
@@ -541,7 +542,7 @@ export default {
   width: 491px;
 }
 
-.rectangle-9-34 {
+.rectangle-9-49 {
   background-color: var(--negroni);
   height: 433px;
   left: 0;
@@ -550,7 +551,7 @@ export default {
   width: 492px;
 }
 
-.product-manager-9 {
+.product-manager-15 {
   left: 47px;
   letter-spacing: 0;
   line-height: normal;
@@ -559,7 +560,7 @@ export default {
   width: 343px;
 }
 
-.pour-des-missions-de-8 {
+.pour-des-missions-de-14 {
   left: 47px;
   letter-spacing: -0.42px;
   line-height: 33px;
@@ -568,7 +569,7 @@ export default {
   width: 430px;
 }
 
-.home_offer_1_1-4 {
+.home_offer_1_1-7 {
   align-items: flex-end;
   background-color: var(--red-damask);
   border-radius: 100px;
@@ -583,19 +584,19 @@ export default {
   top: 407px;
 }
 
-.x-11,
-.x-12 {
+.x-17,
+.x-18 {
   height: 27px;
   width: 45px;
 }
 
-.overlap-group2-11 {
+.overlap-group2-17 {
   height: 469px;
   position: relative;
   width: 505px;
 }
 
-.rectangle-10-35 {
+.rectangle-10-50 {
   background-color: var(--hippie-blue);
   height: 424px;
   left: 9px;
@@ -604,7 +605,7 @@ export default {
   width: 492px;
 }
 
-.rectangle-9-35 {
+.rectangle-9-50 {
   background-color: var(--link-water);
   height: 433px;
   left: 0;
@@ -613,7 +614,7 @@ export default {
   width: 491px;
 }
 
-.product-ops-13 {
+.product-ops-19 {
   left: 46px;
   letter-spacing: 0;
   line-height: normal;
@@ -622,7 +623,7 @@ export default {
   width: 373px;
 }
 
-.pour-des-missions-de-9 {
+.pour-des-missions-de-15 {
   left: 46px;
   letter-spacing: -0.22px;
   line-height: 30px;
@@ -631,7 +632,7 @@ export default {
   width: 430px;
 }
 
-.home_offer_2_1-4 {
+.home_offer_2_1-7 {
   align-items: flex-end;
   background-color: var(--hippie-blue);
   border-radius: 100px;
@@ -646,7 +647,7 @@ export default {
   top: 405px;
 }
 
-.home_section_4-4 {
+.home_section_4-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -658,7 +659,7 @@ export default {
   width: 100%;
 }
 
-.about-4 {
+.about-7 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -668,7 +669,7 @@ export default {
   position: relative;
 }
 
-.propos-de-moi-4 {
+.propos-de-moi-7 {
   letter-spacing: 0;
   line-height: normal;
   margin-top: -1px;
@@ -676,27 +677,27 @@ export default {
   width: 358px;
 }
 
-.mes-clients-me-dcri-4 {
+.mes-clients-me-dcri-7 {
   letter-spacing: 0;
   line-height: 35px;
   position: relative;
   width: 653px;
 }
 
-._button-4 {
+._button-7 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 312px;
 }
 
-.overlap-group-49 {
+.overlap-group-66 {
   height: 72px;
   position: relative;
   width: 310px;
 }
 
-.rectangle-10-31 {
+.rectangle-10-46 {
   background-color: var(--hippie-blue-2);
   height: 64px;
   left: 5px;
@@ -705,7 +706,7 @@ export default {
   width: 305px;
 }
 
-.rectangle-9-31 {
+.rectangle-9-46 {
   background-color: var(--link-water-2);
   height: 65px;
   left: 0;
@@ -714,8 +715,8 @@ export default {
   width: 305px;
 }
 
-.consulter-mes-experiences-4,
-.allons-y-ensemble-7 {
+.consulter-mes-experiences-7,
+.allons-y-ensemble-10 {
   left: 2px;
   letter-spacing: 0;
   line-height: normal;
@@ -725,7 +726,7 @@ export default {
   width: 299px;
 }
 
-.home_section_5-4 {
+.home_section_5-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -736,8 +737,8 @@ export default {
   width: 100%;
 }
 
-.les-principes-qui-gu-4,
-.plutt-que-dadmirer-4 {
+.les-principes-qui-gu-7,
+.plutt-que-dadmirer-7 {
   letter-spacing: 0;
   line-height: normal;
   margin-top: -1px;
@@ -745,7 +746,7 @@ export default {
   text-align: center;
 }
 
-.home_principles-4 {
+.home_principles-7 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -756,7 +757,7 @@ export default {
   width: 100%;
 }
 
-.principle-9 {
+.principle-15 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -768,7 +769,7 @@ export default {
   width: 100%;
 }
 
-.footer-8 {
+.footer-11 {
   align-items: center;
   align-self: stretch;
   background-color: var(--midnight-blue);
@@ -784,7 +785,7 @@ export default {
   width: 100%;
 }
 
-.footer_contact-7 {
+.footer_contact-10 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -795,7 +796,7 @@ export default {
   width: 100%;
 }
 
-.footer_links-8 {
+.footer_links-11 {
   align-items: center;
   align-self: stretch;
   display: flex;

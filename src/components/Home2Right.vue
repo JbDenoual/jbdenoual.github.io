@@ -1,6 +1,6 @@
 <template>
-  <div class="home_2_right">
-    <p class="indispensables-pour rubik-light-eerie-black-19px">
+  <div class="home_2_right-2">
+    <p class="indispensables-pour-2 rubik-light-eerie-black-19px">
       Indispensables pour naviguer le monde complexe dans lequel nous vivons, les hard skills du PM existent et sont
       l’aboutissement de décennies d’innovation dans le développement logiciel et dans la gestion de projet.<br /><br />Comprendre
       les fondements de l’agilité, les techniques de recherche utilisateurs, comment faire émerger les bonnes idées,
@@ -17,11 +17,12 @@ export default {
 </script>
 
 <style>
-.home_2_right,
-.home_2_right-1,
 .home_2_right-2,
 .home_2_right-3,
-.home_2_right-4 {
+.home_2_right-4,
+.home_2_right-5,
+.home_2_right-6,
+.home_2_right-7 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -30,11 +31,12 @@ export default {
   position: relative;
 }
 
-.indispensables-pour,
-.indispensables-pour-1,
 .indispensables-pour-2,
 .indispensables-pour-3,
-.indispensables-pour-4 {
+.indispensables-pour-4,
+.indispensables-pour-5,
+.indispensables-pour-6,
+.indispensables-pour-7 {
   letter-spacing: -0.21px;
   line-height: 28.5px;
   margin-top: -1px;

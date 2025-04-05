@@ -1,21 +1,21 @@
 <template>
   <div class="product-ops-5 screen">
-    <div class="global-1">
+    <div class="global-2">
       <div class="section_1-1">
-        <div class="header-8">
-          <div class="header-9">
-            <router-link to="/index-1"><img class="logo-6" :src="logo" alt="Logo" /></router-link>
-            <div class="menu-4">
-              <router-link to="/index-1">
-                <div class="link-4 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
+        <div class="header-10">
+          <div class="header-11">
+            <router-link to="/home"><img class="logo-16" :src="logo" alt="Logo" /></router-link>
+            <div class="menu-5">
+              <router-link to="/home">
+                <div class="link-5 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-4 rubik-normal-white-16px">{{ productManagement1 }}</div>
+                <div class="link-5 rubik-normal-white-16px">{{ productManagement1 }}</div>
               </router-link>
               <div class="product-ops-4 rubik-normal-white-16px">{{ productOps1 }}</div>
               <router-link to="/experiences">
-                <div class="link-4 rubik-normal-white-16px">{{ expriences1 }}</div> </router-link
+                <div class="link-5 rubik-normal-white-16px">{{ expriences1 }}</div> </router-link
               ><router-link to="/contact">
-                <div class="link-4 rubik-normal-white-16px">{{ place1 }}</div>
+                <div class="link-5 rubik-normal-white-16px">{{ place1 }}</div>
               </router-link>
             </div>
           </div>
@@ -26,10 +26,10 @@
           </div>
           <p class="les-meilleures-quip rubik-light-white-22px">{{ lesMeilleuresQuip }}</p>
           <router-link to="/contact">
-            <div class="button-1">
-              <div class="overlap-group-25">
-                <div class="rectangle-10-15"></div>
-                <div class="rectangle-9-15"></div>
+            <div class="button-1-1">
+              <div class="overlap-group-38">
+                <div class="rectangle-10-18"></div>
+                <div class="rectangle-9-18"></div>
                 <p class="je-fais-grandir-mon-equipe rubik-normal-midnight-blue-18px">{{ jeFaisGrandirMonEquipe }}</p>
               </div>
             </div></router-link
@@ -39,7 +39,7 @@
       <div class="section_2-1">
         <left />
         <div class="frame-13">
-          <div class="frame-14">
+          <div class="frame-14-1">
             <line :votreQuipeProduit="line1Props.votreQuipeProduit" />
             <line2 :votreQuotidienNeV="line21Props.votreQuotidienNeV" />
             <line :votreQuipeProduit="line2Props.votreQuipeProduit" :className="line2Props.className" />
@@ -65,41 +65,41 @@
           <router-link to="/contact">
             <div class="button-3">
               <div class="overlap-group9">
-                <div class="rectangle-10-16"></div>
-                <div class="rectangle-9-16"></div>
+                <div class="rectangle-10-19"></div>
+                <div class="rectangle-9-19"></div>
                 <div class="en-savoir-plus rubik-normal-midnight-blue-18px">{{ enSavoirPlus }}</div>
               </div>
             </div></router-link
           >
         </div>
       </div>
-      <footer class="footer-4">
-        <div class="footer_contact-3">
+      <footer class="footer-5">
+        <div class="footer_contact-4">
           <p class="ne-vous-contentez-pa inferi-regular-normal-white-47px">{{ neVousContentezPa }}</p>
           <router-link to="/contact">
-            <div class="footer_button-1">
-              <div class="overlap-group-26">
-                <div class="rectangle-10-17"></div>
-                <div class="rectangle-9-17"></div>
-                <div class="allons-y-ensemble-3 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
+            <div class="footer_button-2">
+              <div class="overlap-group-39">
+                <div class="rectangle-10-20"></div>
+                <div class="rectangle-9-20"></div>
+                <div class="allons-y-ensemble-4 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
               </div>
             </div></router-link
           >
         </div>
-        <div class="footer_links-4">
-          <div class="footer_links_1-4">
-            <router-link to="/index-1"><img class="logo-6" :src="logo_2" alt="logo_2" /></router-link>
-            <div class="menu-4">
-              <router-link to="/index-1">
-                <div class="link-4 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
+        <div class="footer_links-5">
+          <div class="footer_links_1-5">
+            <router-link to="/home"><img class="logo-16" :src="logo_2" alt="logo_2" /></router-link>
+            <div class="menu-5">
+              <router-link to="/home">
+                <div class="link-5 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-4 rubik-normal-white-16px">{{ productManagement2 }}</div>
+                <div class="link-5 rubik-normal-white-16px">{{ productManagement2 }}</div>
               </router-link>
               <div class="product-ops-4 rubik-normal-white-16px">{{ productOps2 }}</div>
               <router-link to="/experiences">
-                <div class="link-4 rubik-normal-white-16px">{{ expriences2 }}</div> </router-link
+                <div class="link-5 rubik-normal-white-16px">{{ expriences2 }}</div> </router-link
               ><router-link to="/contact">
-                <div class="link-4 rubik-normal-white-16px">{{ place2 }}</div>
+                <div class="link-5 rubik-normal-white-16px">{{ place2 }}</div>
               </router-link>
             </div>
           </div>
@@ -169,7 +169,7 @@ export default {
   position: relative;
 }
 
-.global-1 {
+.global-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -193,7 +193,7 @@ export default {
   width: 100%;
 }
 
-.header-8 {
+.header-10 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -203,8 +203,8 @@ export default {
   width: 100%;
 }
 
-.header-9,
-.footer_links_1-4 {
+.header-11,
+.footer_links_1-5 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -216,13 +216,13 @@ export default {
   position: relative;
 }
 
-.logo-6 {
+.logo-16 {
   cursor: pointer;
   position: relative;
   width: 63.13px;
 }
 
-.menu-4 {
+.menu-5 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -235,7 +235,7 @@ export default {
   position: relative;
 }
 
-.link-4 {
+.link-5 {
   cursor: pointer;
   letter-spacing: 0;
   line-height: normal;
@@ -283,20 +283,20 @@ export default {
   width: 703px;
 }
 
-.button-1 {
+.button-1-1 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 483px;
 }
 
-.overlap-group-25 {
+.overlap-group-38 {
   height: 72px;
   position: relative;
   width: 481px;
 }
 
-.rectangle-10-15 {
+.rectangle-10-18 {
   background-color: var(--hippie-blue);
   height: 64px;
   left: 8px;
@@ -305,7 +305,7 @@ export default {
   width: 473px;
 }
 
-.rectangle-9-15 {
+.rectangle-9-18 {
   background-color: var(--link-water);
   height: 65px;
   left: 0;
@@ -346,7 +346,7 @@ export default {
   width: 100%;
 }
 
-.frame-14 {
+.frame-14-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -432,7 +432,7 @@ export default {
   width: 259px;
 }
 
-.rectangle-10-16 {
+.rectangle-10-19 {
   background-color: var(--macaroni-and-cheese);
   height: 64px;
   left: 4px;
@@ -441,7 +441,7 @@ export default {
   width: 255px;
 }
 
-.rectangle-9-16 {
+.rectangle-9-19 {
   background-color: var(--negroni);
   height: 65px;
   left: 0;
@@ -460,7 +460,7 @@ export default {
   width: 250px;
 }
 
-.footer-4 {
+.footer-5 {
   align-items: center;
   align-self: stretch;
   background-color: var(--midnight-blue);
@@ -475,7 +475,7 @@ export default {
   width: 100%;
 }
 
-.footer_contact-3 {
+.footer_contact-4 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -495,20 +495,20 @@ export default {
   text-align: center;
 }
 
-.footer_button-1 {
+.footer_button-2 {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 312px;
 }
 
-.overlap-group-26 {
+.overlap-group-39 {
   height: 72px;
   position: relative;
   width: 310px;
 }
 
-.rectangle-10-17 {
+.rectangle-10-20 {
   background-color: var(--hippie-blue-2);
   height: 64px;
   left: 5px;
@@ -517,7 +517,7 @@ export default {
   width: 305px;
 }
 
-.rectangle-9-17 {
+.rectangle-9-20 {
   background-color: var(--link-water-2);
   height: 65px;
   left: 0;
@@ -526,7 +526,7 @@ export default {
   width: 305px;
 }
 
-.allons-y-ensemble-3 {
+.allons-y-ensemble-4 {
   left: 2px;
   letter-spacing: 0;
   line-height: normal;
@@ -536,7 +536,7 @@ export default {
   width: 299px;
 }
 
-.footer_links-4 {
+.footer_links-5 {
   align-items: center;
   align-self: stretch;
   display: flex;

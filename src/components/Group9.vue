@@ -1,8 +1,8 @@
 <template>
   <div class="group">
-    <div class="overlap-group-29">
-      <div class="rectangle-31-6"></div>
-      <div class="rectangle-30-26"></div>
+    <div class="overlap-group-42">
+      <div class="rectangle-31-10"></div>
+      <div class="rectangle-30-41"></div>
       <p class="animer-des-sessions rubik-light-red-damask-16px">{{ animerDesSessions }}</p>
       <div class="x-par-mois rubik-normal-red-damask-28px">{{ x2XParMois }}</div>
     </div>
@@ -24,15 +24,15 @@ export default {
   width: 296.35px;
 }
 
-.overlap-group-29,
-.overlap-group-30 {
+.overlap-group-42,
+.overlap-group-43 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-6,
-.rectangle-31-7 {
+.rectangle-31-10,
+.rectangle-31-11 {
   background-color: var(--macaroni-and-cheese);
   height: 226px;
   left: 8px;
@@ -41,8 +41,8 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-26,
-.rectangle-30-27 {
+.rectangle-30-41,
+.rectangle-30-42 {
   background-color: var(--negroni);
   height: 226px;
   left: 0;

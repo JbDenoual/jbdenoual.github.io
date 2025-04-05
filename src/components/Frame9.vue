@@ -2,9 +2,9 @@
   <div class="frame-9 inter-medium-midnight-blue-16px">
     <group92 :passerDunMindset="group921Props.passerDunMindset" />
     <div class="group-1-1">
-      <div class="overlap-group-31">
-        <div class="rectangle-31-8"></div>
-        <div class="rectangle-30-28"></div>
+      <div class="overlap-group-44">
+        <div class="rectangle-31-12"></div>
+        <div class="rectangle-30-43"></div>
         <p class="developper-les-pilie" v-html="developperLesPilie"></p>
       </div>
     </div>
@@ -12,9 +12,9 @@
     <group11 :apprendrePrioriserSelonLaValeur="group111Props.apprendrePrioriserSelonLaValeur" />
     <group92 :passerDunMindset="group923Props.passerDunMindset" :className="group923Props.className" />
     <div class="group-1-1">
-      <div class="overlap-group-31">
-        <div class="rectangle-31-8"></div>
-        <div class="rectangle-30-28"></div>
+      <div class="overlap-group-44">
+        <div class="rectangle-31-12"></div>
+        <div class="rectangle-30-43"></div>
         <p class="identifier-les-probl">{{ identifierLesProbl }}</p>
       </div>
     </div>
@@ -68,15 +68,15 @@ export default {
   width: 294.35px;
 }
 
-.overlap-group-31,
-.overlap-group-32 {
+.overlap-group-44,
+.overlap-group-45 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-8,
-.rectangle-31-9 {
+.rectangle-31-12,
+.rectangle-31-13 {
   background-color: var(--hippie-blue);
   height: 226px;
   left: 8px;
@@ -85,8 +85,8 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-28,
-.rectangle-30-29 {
+.rectangle-30-43,
+.rectangle-30-44 {
   background-color: var(--link-water);
   height: 226px;
   left: 0;

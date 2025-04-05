@@ -2,18 +2,18 @@
   <div class="contact screen">
     <div class="global">
       <div class="section_1">
-        <div class="header-4">
-          <div class="header-5">
-            <router-link to="/index-1"><img class="logo-4" :src="logo" alt="Logo" /></router-link>
-            <div class="menu-2">
-              <router-link to="/index-1">
-                <div class="link-2 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
+        <div class="header">
+          <div class="header-1">
+            <router-link to="/home"><img class="logo" :src="logo" alt="Logo" /></router-link>
+            <div class="menu">
+              <router-link to="/home">
+                <div class="link rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-2 rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
+                <div class="link rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
               ><router-link to="/product-ops">
-                <div class="link-2 rubik-normal-white-16px">{{ productOps1 }}</div> </router-link
+                <div class="link rubik-normal-white-16px">{{ productOps1 }}</div> </router-link
               ><router-link to="/experiences">
-                <div class="link-2 rubik-normal-white-16px">{{ expriences1 }}</div>
+                <div class="link rubik-normal-white-16px">{{ expriences1 }}</div>
               </router-link>
               <div class="place rubik-normal-white-16px">{{ place1 }}</div>
             </div>
@@ -49,19 +49,19 @@
           >
         </div>
       </div>
-      <footer class="footer-2">
-        <div class="footer_links-2">
-          <div class="footer_links_1-2">
-            <router-link to="/index-1"><img class="logo-4" :src="logo_2" alt="logo_2" /></router-link>
-            <div class="menu-2">
-              <router-link to="/index-1">
-                <div class="link-2 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
+      <footer class="footer">
+        <div class="footer_links">
+          <div class="footer_links_1">
+            <router-link to="/home"><img class="logo" :src="logo_2" alt="logo_2" /></router-link>
+            <div class="menu">
+              <router-link to="/home">
+                <div class="link rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-2 rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
+                <div class="link rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
               ><router-link to="/product-ops">
-                <div class="link-2 rubik-normal-white-16px">{{ productOps2 }}</div> </router-link
+                <div class="link rubik-normal-white-16px">{{ productOps2 }}</div> </router-link
               ><router-link to="/experiences">
-                <div class="link-2 rubik-normal-white-16px">{{ expriences2 }}</div>
+                <div class="link rubik-normal-white-16px">{{ expriences2 }}</div>
               </router-link>
               <div class="place rubik-normal-white-16px">{{ place3 }}</div>
             </div>
@@ -134,7 +134,7 @@ export default {
   width: 100%;
 }
 
-.header-4 {
+.header {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -144,8 +144,8 @@ export default {
   width: 100%;
 }
 
-.header-5,
-.footer_links_1-2 {
+.header-1,
+.footer_links_1 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -157,13 +157,13 @@ export default {
   position: relative;
 }
 
-.logo-4 {
+.logo {
   cursor: pointer;
   position: relative;
   width: 63.13px;
 }
 
-.menu-2 {
+.menu {
   align-items: center;
   display: flex;
   flex: 1;
@@ -176,7 +176,7 @@ export default {
   position: relative;
 }
 
-.link-2 {
+.link {
   cursor: pointer;
   letter-spacing: 0;
   line-height: normal;
@@ -323,7 +323,7 @@ export default {
   width: 94px;
 }
 
-.footer-2 {
+.footer {
   align-items: center;
   align-self: stretch;
   background-color: var(--midnight-blue);
@@ -337,7 +337,7 @@ export default {
   width: 100%;
 }
 
-.footer_links-2 {
+.footer_links {
   align-items: center;
   align-self: stretch;
   display: flex;

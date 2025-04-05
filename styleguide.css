@@ -35,14 +35,6 @@
   font-weight: 400;
 }
 
-.inter-medium-midnight-blue-16px {
-  color: var(--midnight-blue);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 500;
-}
-
 .rubik-normal-orange-20px {
   color: var(--orange);
   font-family: var(--font-family-rubik);
@@ -59,20 +51,20 @@
   font-weight: 400;
 }
 
+.inter-medium-midnight-blue-16px {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
 .inferi-regular-normal-shark-47px {
   color: var(--shark);
   font-family: var(--font-family-inferi-regular);
   font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 400;
-}
-
-.rubik-light-shark-24px {
-  color: var(--shark);
-  font-family: var(--font-family-rubik);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 300;
 }
 
 .inferi-regular-normal-midnight-blue-47px {
@@ -107,34 +99,18 @@
   font-weight: 300;
 }
 
-.rubik-normal-red-damask-35px {
-  color: var(--red-damask);
+.rubik-light-shark-24px {
+  color: var(--shark);
   font-family: var(--font-family-rubik);
-  font-size: 35px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inferi-trial-regular-normal-midnight-blue-47px {
-  color: var(--midnight-blue);
-  font-family: var(--font-family-inferi-trial-regular);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.rubik-light-red-damask-16px {
-  color: var(--red-damask);
-  font-family: var(--font-family-rubik);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 300;
 }
 
-.rubik-normal-red-damask-28px {
+.rubik-normal-red-damask-35px {
   color: var(--red-damask);
   font-family: var(--font-family-rubik);
-  font-size: var(--font-size-xxxl);
+  font-size: 35px;
   font-style: normal;
   font-weight: 400;
 }
@@ -195,18 +171,42 @@
   font-weight: 300;
 }
 
-.rubik-light-shark-32px {
-  color: var(--shark);
+.inferi-trial-regular-normal-midnight-blue-47px {
+  color: var(--midnight-blue);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubik-light-red-damask-16px {
+  color: var(--red-damask);
   font-family: var(--font-family-rubik);
-  font-size: 32px;
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 300;
+}
+
+.rubik-normal-red-damask-28px {
+  color: var(--red-damask);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .rubik-light-shark-28px {
   color: var(--shark);
   font-family: var(--font-family-rubik);
   font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.rubik-light-shark-32px {
+  color: var(--shark);
+  font-family: var(--font-family-rubik);
+  font-size: 32px;
   font-style: normal;
   font-weight: 300;
 }
@@ -243,22 +243,6 @@
   font-weight: 400;
 }
 
-.inferi-trial-regular-normal-red-damask-64px {
-  color: var(--red-damask);
-  font-family: var(--font-family-inferi-trial-regular);
-  font-size: 64px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inferi-regular-normal-shark-28px {
-  color: var(--shark);
-  font-family: var(--font-family-inferi-regular);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .rubik-light-shark-16px {
   color: var(--shark);
   font-family: var(--font-family-rubik);
@@ -279,6 +263,22 @@
   color: var(--shark);
   font-family: var(--font-family-inferi-trial-regular);
   font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inferi-trial-regular-normal-red-damask-64px {
+  color: var(--red-damask);
+  font-family: var(--font-family-inferi-trial-regular);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inferi-regular-normal-shark-28px {
+  color: var(--shark);
+  font-family: var(--font-family-inferi-regular);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }

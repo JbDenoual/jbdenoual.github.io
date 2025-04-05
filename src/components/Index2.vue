@@ -1,20 +1,26 @@
 <template>
-  <div class="index-2 screen"><global-home2 v-bind="globalHome2Props" /></div>
+  <div class="index-1 screen">
+    <global-home4
+      :homeSection2Props="globalHome4Props.homeSection2Props"
+      :aboutPictureProps="globalHome4Props.aboutPictureProps"
+      :homeSection5Props="globalHome4Props.homeSection5Props"
+    />
+  </div>
 </template>
 
 <script>
-import GlobalHome2 from "./GlobalHome2";
+import GlobalHome4 from "./GlobalHome4";
 export default {
   name: "Index2",
   components: {
-    GlobalHome2,
+    GlobalHome4,
   },
-  props: ["globalHome2Props"],
+  props: ["globalHome4Props"],
 };
 </script>
 
 <style>
-.index-2 {
+.index-1 {
   align-items: center;
   background-color: var(--white);
   display: flex;

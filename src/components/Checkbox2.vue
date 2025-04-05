@@ -1,6 +1,6 @@
 <template>
   <div class="checkbox-4">
-    <div class="overlap-group-27">
+    <div class="overlap-group-40">
       <div class="rectangle-33"></div>
       <div class="rectangle-32"></div>
     </div>
@@ -21,8 +21,8 @@ export default {
   width: 53px;
 }
 
-.overlap-group-27,
-.overlap-group-28 {
+.overlap-group-40,
+.overlap-group-41 {
   height: 54px;
   position: relative;
 }

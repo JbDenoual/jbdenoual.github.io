@@ -1,5 +1,10 @@
+export const logo1Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual@2x.png",
+};
+
 export const aboutPicture1Data = {
-    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me2-2@2x.png",
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/me2.png",
 };
 
 export const principle21Data = {
@@ -10,21 +15,25 @@ export const principle22Data = {
     surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
 };
 
-export const homeSection51Data = {
-    principle21Props: principle21Data,
-    principle22Props: principle22Data,
+export const logo2Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea617e98caa0bd1212493/img/jb-3@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67f0fbb2451992eb73b30f36/img/denoual-1@2x.png",
 };
 
 export const globalHomeData = {
-    logo: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e457f15401f68fc04be158/img/logo@2x.png",
     accueil1: "Accueil",
     productManagement1: "Product Management",
     productOps1: "Product Ops",
     expriences1: "Expériences",
     place1: "Contact",
-    me: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me-2@2x.png",
+    me: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67f0fbb2451992eb73b30f36/img/me@2x.png",
+    librezLePotentiel: "Libérez le potentiel de votre <br />produit grâce à une expertise Delivery et Discovery",
+    jePrendsEnCharge: "Je prends en charge votre produit et accompagne vos équipes de développement et de design pour que, tous ensemble, nous atteignons vos objectifs.",
     productManager1: "PRODUCT MANAGER",
     productOps2: "PRODUCT OPS",
+    uneApprocheCentre: "Une approche centrée sur les Hard Skills du PM",
+    siJaiPuVoirPl: "« Si j’ai pu voir plus loin, c’est en me tenant sur les épaules de géants. » -- Isaac Newton",
+    indispensablesPour: "Indispensables pour naviguer le monde complexe dans lequel nous vivons, les hard skills du PM existent et sont l’aboutissement de décennies d’innovation dans le développement logiciel et dans la gestion de projet.<br /><br />Comprendre les fondements de l’agilité, les techniques de recherche utilisateurs, comment faire émerger les bonnes idées, poser une vision, créer une stratégie produit. C’est tout cela qui fera la différence entre les produits qui échoueront et ceux qui feront notre quotidien de demain !",
     jeSuisLaRechercheDun: "“Je suis à la recherche d’un...“",
     productManager2: "PRODUCT MANAGER",
     pourDesMissionsDe1: "Pour des missions de longue durée. <br /><br />En tant que Product Manager Expert, <br />Je pilote votre produit digital en prenant en main vos process de Discovery et de Delivery, <br />Afin d’atteindre vos objectifs business.",
@@ -33,29 +42,28 @@ export const globalHomeData = {
     proposDeMoi: "À propos de moi",
     mesClientsMeDcri: "Mes clients me décrivent comme étant déterminé, curieux et fiable, certains disent aussi que je ressemble à un pirate.<br /><br />J’ai travaillé sur +20 produits digitaux différents, app mobile et SaaS, dans le B2B et le B2C, pour des grands comptes, startups, agences et indépendants.<br /><br />Avant de devenir un Expert en Product Management, j’ai été développeur, designer et entrepreneur. Créer des produits digitaux est un art complexe qui regroupent des domaines très différents et j’aime apporter de la synergie et de l’entraide pour libérer le potentiel des équipes.<br /><br />Je viens de Rennes, en Bretagne, j’ai vécu en Asie et en Australie et je vis actuellement à Paris. Quand je ne fais pas de PM, je prends ma planche de surf et je pars dans le sud ouest de la France pour attraper quelques vagues, j’aime aussi prendre des photos, grimper des falaises, méditer et partager ce que j’apprends autour de moi.",
     consulterMesExperiences: "CONSULTER MES EXPERIENCES",
+    lesPrincipesQuiGu: "Les principes qui guident mon quotidien en tant que Product",
     pluttQueDadmirer: "Plutôt que d’admirer les autres, devenez une source d’inspiration pour eux",
     allonsYEnsemble: "ALLONS-Y ENSEMBLE",
-    logo_2: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e801427988368e651c01fa/img/logo-2-3.png",
     accueil2: "Accueil",
     productManagement2: "Product Management",
     productOps4: "Product Ops",
     expriences2: "Expériences",
     place2: "Contact",
+    logo1Props: logo1Data,
     aboutPictureProps: aboutPicture1Data,
-    homeSection5Props: homeSection51Data,
+    principle21Props: principle21Data,
+    principle22Props: principle22Data,
+    logo2Props: logo2Data,
 };
 
-export const indexData = {
+export const home700Data = {
     globalHomeProps: globalHomeData,
 };
 
-export const logo1Data = {
-    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb@2x.png",
-    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual@2x.png",
-};
-
 export const aboutPicture2Data = {
-    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me2-2@2x.png",
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/me2.png",
+    className: "about_picture-1",
 };
 
 export const principle23Data = {
@@ -66,25 +74,19 @@ export const principle24Data = {
     surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
 };
 
-export const homeSection52Data = {
-    principle21Props: principle23Data,
-    principle22Props: principle24Data,
-};
-
-export const logo2Data = {
-    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb-1@2x.png",
-    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual-1@2x.png",
-};
-
 export const globalHome2Data = {
+    logo: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e457f15401f68fc04be158/img/logo@2x.png",
     accueil1: "Accueil",
     productManagement1: "Product Management",
     productOps1: "Product Ops",
     expriences1: "Expériences",
     place1: "Contact",
-    me: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me-2@2x.png",
+    me: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67f0fbb2451992eb73b30f36/img/me-1@2x.png",
+    librezLePotentiel: "Libérez le potentiel de votre <br />produit grâce à une expertise Delivery et Discovery",
+    jePrendsEnCharge: "Je prends en charge votre produit et accompagne vos équipes de développement et de design pour que, tous ensemble, nous atteignons vos objectifs.",
     productManager1: "PRODUCT MANAGER",
     productOps2: "PRODUCT OPS",
+    indispensablesPour: "Indispensables pour naviguer le monde complexe dans lequel nous vivons, les hard skills du PM existent et sont l’aboutissement de décennies d’innovation dans le développement logiciel et dans la gestion de projet.<br /><br />Comprendre les fondements de l’agilité, les techniques de recherche utilisateurs, comment faire émerger les bonnes idées, poser une vision, créer une stratégie produit. C’est tout cela qui fera la différence entre les produits qui échoueront et ceux qui feront notre quotidien de demain !",
     jeSuisLaRechercheDun: "“Je suis à la recherche d’un...“",
     productManager2: "PRODUCT MANAGER",
     pourDesMissionsDe1: "Pour des missions de longue durée. <br /><br />En tant que Product Manager Expert, <br />Je pilote votre produit digital en prenant en main vos process de Discovery et de Delivery, <br />Afin d’atteindre vos objectifs business.",
@@ -93,20 +95,21 @@ export const globalHome2Data = {
     proposDeMoi: "À propos de moi",
     mesClientsMeDcri: "Mes clients me décrivent comme étant déterminé, curieux et fiable, certains disent aussi que je ressemble à un pirate.<br /><br />J’ai travaillé sur +20 produits digitaux différents, app mobile et SaaS, dans le B2B et le B2C, pour des grands comptes, startups, agences et indépendants.<br /><br />Avant de devenir un Expert en Product Management, j’ai été développeur, designer et entrepreneur. Créer des produits digitaux est un art complexe qui regroupent des domaines très différents et j’aime apporter de la synergie et de l’entraide pour libérer le potentiel des équipes.<br /><br />Je viens de Rennes, en Bretagne, j’ai vécu en Asie et en Australie et je vis actuellement à Paris. Quand je ne fais pas de PM, je prends ma planche de surf et je pars dans le sud ouest de la France pour attraper quelques vagues, j’aime aussi prendre des photos, grimper des falaises, méditer et partager ce que j’apprends autour de moi.",
     consulterMesExperiences: "CONSULTER MES EXPERIENCES",
+    lesPrincipesQuiGu: "Les principes qui guident mon quotidien en tant que Product",
     pluttQueDadmirer: "Plutôt que d’admirer les autres, devenez une source d’inspiration pour eux",
     allonsYEnsemble: "ALLONS-Y ENSEMBLE",
+    logo_2: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e457f15401f68fc04be158/img/logo-1.png",
     accueil2: "Accueil",
     productManagement2: "Product Management",
     productOps4: "Product Ops",
     expriences2: "Expériences",
     place2: "Contact",
-    logo1Props: logo1Data,
     aboutPictureProps: aboutPicture2Data,
-    homeSection5Props: homeSection52Data,
-    logo2Props: logo2Data,
+    principle21Props: principle23Data,
+    principle22Props: principle24Data,
 };
 
-export const index2Data = {
+export const homeData = {
     globalHome2Props: globalHome2Data,
 };
 
@@ -155,11 +158,11 @@ export const checkbox4Data = {
     className: "checkbox-1",
 };
 
-export const pmB12Data = {
+export const homeOffer112Data = {
     className: "pm_b",
 };
 
-export const pmB13Data = {
+export const homeOffer113Data = {
     className: "pm_b",
 };
 
@@ -205,8 +208,8 @@ export const productManagementData = {
     checkbox1Props: checkbox2Data,
     checkbox2Props: checkbox3Data,
     checkbox3Props: checkbox4Data,
-    pmB11Props: pmB12Data,
-    pmB12Props: pmB13Data,
+    homeOffer111Props: homeOffer112Data,
+    homeOffer112Props: homeOffer113Data,
 };
 
 export const line1Data = {
@@ -325,8 +328,18 @@ export const productOpsData = {
     frame9Props: frame91Data,
 };
 
+export const logo3Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual@2x.png",
+};
+
+export const home2Left2Data = {
+    className: "home_2_left-2",
+};
+
 export const aboutPicture3Data = {
-    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me2-2@2x.png",
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/me2.png",
+    className: "about_picture-2",
 };
 
 export const principle25Data = {
@@ -337,43 +350,43 @@ export const principle26Data = {
     surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
 };
 
-export const homeSection53Data = {
-    principle21Props: principle25Data,
-    principle22Props: principle26Data,
+export const logo4Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea617e98caa0bd1212493/img/jb-3@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea617e98caa0bd1212493/img/denoual-3@2x.png",
 };
 
-export const index3Data = {
-    logo: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e457f15401f68fc04be158/img/logo@2x.png",
+export const globalHome31Data = {
     accueil1: "Accueil",
-    productManagement1: "Product Management",
-    productOps1: "Product Ops",
-    expriences1: "Expériences",
     place1: "Contact",
-    me: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me-2@2x.png",
-    productManager1: "PRODUCT MANAGER",
-    productOps2: "PRODUCT OPS",
+    me: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea617e98caa0bd1212493/img/me-2@2x.png",
     jeSuisLaRechercheDun: "“Je suis à la recherche d’un...“",
-    productManager2: "PRODUCT MANAGER",
-    pourDesMissionsDe1: "Pour des missions de longue durée. <br /><br />En tant que Product Manager Expert, <br />Je pilote votre produit digital en prenant en main vos process de Discovery et de Delivery, <br />Afin d’atteindre vos objectifs business.",
-    productOps3: "PRODUCT OPS",
-    pourDesMissionsDe2: "Pour des missions de courte ou moyenne durée.<br /><br />Je transmets à vos équipes des méthodes qui leur permettent de garder le cap et de viser juste à répétition. Je les accompagne au quotidien pour les aider à résoudre leurs problématiques opérationnelles, tout en devenant plus efficace dans leur quotidien.",
-    proposDeMoi: "À propos de moi",
-    mesClientsMeDcri: "Mes clients me décrivent comme étant déterminé, curieux et fiable, certains disent aussi que je ressemble à un pirate.<br /><br />J’ai travaillé sur +20 produits digitaux différents, app mobile et SaaS, dans le B2B et le B2C, pour des grands comptes, startups, agences et indépendants.<br /><br />Avant de devenir un Expert en Product Management, j’ai été développeur, designer et entrepreneur. Créer des produits digitaux est un art complexe qui regroupent des domaines très différents et j’aime apporter de la synergie et de l’entraide pour libérer le potentiel des équipes.<br /><br />Je viens de Rennes, en Bretagne, j’ai vécu en Asie et en Australie et je vis actuellement à Paris. Quand je ne fais pas de PM, je prends ma planche de surf et je pars dans le sud ouest de la France pour attraper quelques vagues, j’aime aussi prendre des photos, grimper des falaises, méditer et partager ce que j’apprends autour de moi.",
-    consulterMesExperiences: "CONSULTER MES EXPERIENCES",
+    lesPrincipesQuiGu: "Les principes qui guident mon quotidien en tant que Product",
     pluttQueDadmirer: "Plutôt que d’admirer les autres, devenez une source d’inspiration pour eux",
     allonsYEnsemble: "ALLONS-Y ENSEMBLE",
-    logo_2: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e801427988368e651c01fa/img/logo-2-3.png",
-    accueil2: "Accueil",
-    productManagement2: "Product Management",
-    productOps4: "Product Ops",
     expriences2: "Expériences",
-    place2: "Contact",
+    logo1Props: logo3Data,
+    home2LeftProps: home2Left2Data,
     aboutPictureProps: aboutPicture3Data,
-    homeSection5Props: homeSection53Data,
+    principle21Props: principle25Data,
+    principle22Props: principle26Data,
+    logo2Props: logo4Data,
+};
+
+export const index700Data = {
+    globalHome3Props: globalHome31Data,
+};
+
+export const home2Left3Data = {
+    className: "home_2_left-3",
+};
+
+export const homeSection21Data = {
+    home2LeftProps: home2Left3Data,
 };
 
 export const aboutPicture4Data = {
-    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me2-2@2x.png",
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/me2.png",
+    className: "about_picture-3",
 };
 
 export const principle27Data = {
@@ -384,13 +397,143 @@ export const principle28Data = {
     surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
 };
 
-export const homeSection54Data = {
+export const homeSection51Data = {
     principle21Props: principle27Data,
     principle22Props: principle28Data,
 };
 
-export const homeData = {
-    logo: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e457f15401f68fc04be158/img/logo@2x.png",
+export const globalHome41Data = {
+    homeSection2Props: homeSection21Data,
+    aboutPictureProps: aboutPicture4Data,
+    homeSection5Props: homeSection51Data,
+};
+
+export const indexData = {
+    globalHome4Props: globalHome41Data,
+};
+
+export const logo5Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual@2x.png",
+};
+
+export const home2Left4Data = {
+    className: "home_2_left-4",
+};
+
+export const aboutPicture5Data = {
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/me2.png",
+    className: "about_picture-4",
+};
+
+export const principle29Data = {
+    surname: "LE PRODUIT EST LE RESULTAT DU FONCTIONNEMENT DE L’EQUIPE",
+};
+
+export const principle210Data = {
+    surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
+};
+
+export const logo6Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/jb-1@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/denoual-1@2x.png",
+};
+
+export const globalHome32Data = {
+    expriences2: "Contact",
+    accueil1: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/----1.svg",
+    jeSuisLaRechercheDun: "Les principes qui guident mon quotidien en tant que Product",
+    lesPrincipesQuiGu: "Plutôt que d’admirer les autres, devenez une source d’inspiration pour eux",
+    pluttQueDadmirer: "ALLONS-Y ENSEMBLE",
+    allonsYEnsemble: "Accueil",
+    me: "Product Management",
+    place1: "Expériences",
+    className: "global_home-3",
+    logo1Props: logo5Data,
+    home2LeftProps: home2Left4Data,
+    aboutPictureProps: aboutPicture5Data,
+    principle21Props: principle29Data,
+    principle22Props: principle210Data,
+    logo2Props: logo6Data,
+};
+
+export const index478Data = {
+    globalHome3Props: globalHome32Data,
+};
+
+export const home2Left5Data = {
+    className: "home_2_left-5",
+};
+
+export const homeSection22Data = {
+    home2LeftProps: home2Left5Data,
+};
+
+export const aboutPicture6Data = {
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me2-2@2x.png",
+    className: "about_picture-5",
+};
+
+export const principle211Data = {
+    surname: "LE PRODUIT EST LE RESULTAT DU FONCTIONNEMENT DE L’EQUIPE",
+};
+
+export const principle212Data = {
+    surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
+};
+
+export const homeSection52Data = {
+    principle21Props: principle211Data,
+    principle22Props: principle212Data,
+};
+
+export const globalHome42Data = {
+    homeSection2Props: homeSection22Data,
+    aboutPictureProps: aboutPicture6Data,
+    homeSection5Props: homeSection52Data,
+};
+
+export const index2Data = {
+    globalHome4Props: globalHome42Data,
+};
+
+export const logo7Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual@2x.png",
+};
+
+export const home2Left6Data = {
+    className: "home_2_left-6",
+};
+
+export const homeSection23Data = {
+    home2LeftProps: home2Left6Data,
+};
+
+export const aboutPicture7Data = {
+    src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/me2-2@2x.png",
+    className: "about_picture-6",
+};
+
+export const principle213Data = {
+    surname: "LE PRODUIT EST LE RESULTAT DU FONCTIONNEMENT DE L’EQUIPE",
+};
+
+export const principle214Data = {
+    surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
+};
+
+export const homeSection53Data = {
+    principle21Props: principle213Data,
+    principle22Props: principle214Data,
+};
+
+export const logo8Data = {
+    jb: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/jb-1@2x.png",
+    denoual: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea419e98caa0bd1212482/img/denoual-1@2x.png",
+};
+
+export const globalHome5Data = {
     accueil1: "Accueil",
     productManagement1: "Product Management",
     productOps1: "Product Ops",
@@ -409,25 +552,36 @@ export const homeData = {
     consulterMesExperiences: "CONSULTER MES EXPERIENCES",
     pluttQueDadmirer: "Plutôt que d’admirer les autres, devenez une source d’inspiration pour eux",
     allonsYEnsemble: "ALLONS-Y ENSEMBLE",
-    logo_2: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e801427988368e651c01fa/img/logo-2-3.png",
     accueil2: "Accueil",
     productManagement2: "Product Management",
     productOps4: "Product Ops",
     expriences2: "Expériences",
     place2: "Contact",
-    aboutPictureProps: aboutPicture4Data,
-    homeSection5Props: homeSection54Data,
+    logo1Props: logo7Data,
+    homeSection2Props: homeSection23Data,
+    aboutPictureProps: aboutPicture7Data,
+    homeSection5Props: homeSection53Data,
+    logo2Props: logo8Data,
 };
 
-export const aboutPicture5Data = {
+export const index3Data = {
+    globalHome5Props: globalHome5Data,
+};
+
+export const home2Left7Data = {
+    className: "home_2_left-7",
+};
+
+export const aboutPicture8Data = {
     src: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67ee8f823c025c3a6b4c037c/img/me2@2x.png",
+    className: "about_picture-7",
 };
 
-export const principle29Data = {
+export const principle215Data = {
     surname: "LE PRODUIT EST LE RESULTAT DU FONCTIONNEMENT DE L’EQUIPE",
 };
 
-export const principle210Data = {
+export const principle216Data = {
     surname: "BIEN COMPRENDRE LE PROBLEME ET LA SOLUTION VIENDRA D’ELLE MÊME",
 };
 
@@ -458,9 +612,10 @@ export const home478Data = {
     productOps4: "Product Ops",
     expriences2: "Expériences",
     place2: "Contact",
-    aboutPictureProps: aboutPicture5Data,
-    principle21Props: principle29Data,
-    principle22Props: principle210Data,
+    home2LeftProps: home2Left7Data,
+    aboutPictureProps: aboutPicture8Data,
+    principle21Props: principle215Data,
+    principle22Props: principle216Data,
 };
 
 export const line4Data = {

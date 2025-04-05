@@ -1,33 +1,33 @@
 <template>
   <div class="experiences screen">
-    <div class="global-3">
+    <div class="global-1">
       <div class="xp_section_1">
-        <div class="header-12">
-          <div class="header-13">
-            <router-link to="/index-1"><img class="logo-8" :src="logo" alt="Logo" /></router-link>
-            <div class="menu-6">
-              <router-link to="/index-1">
-                <div class="link-6 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
+        <div class="header-4">
+          <div class="header-5">
+            <router-link to="/home"><img class="logo-13" :src="logo" alt="Logo" /></router-link>
+            <div class="menu-2">
+              <router-link to="/home">
+                <div class="link-2 rubik-normal-white-16px">{{ accueil1 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-6 rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
+                <div class="link-2 rubik-normal-white-16px">{{ productManagement1 }}</div> </router-link
               ><router-link to="/product-ops">
-                <div class="link-6 rubik-normal-white-16px">{{ productOps1 }}</div>
+                <div class="link-2 rubik-normal-white-16px">{{ productOps1 }}</div>
               </router-link>
               <div class="expriences rubik-normal-white-16px">{{ expriences1 }}</div>
               <router-link to="/contact">
-                <div class="link-6 rubik-normal-white-16px">{{ place1 }}</div>
+                <div class="link-2 rubik-normal-white-16px">{{ place1 }}</div>
               </router-link>
             </div>
           </div>
         </div>
-        <div class="pm_section_1_details-1">
+        <div class="pm_section_1_details">
           <h1 class="expriences-1 inferi-regular-normal-white-47px">{{ expriences2 }}</h1>
           <p class="fort-de-plus-de-10-a rubik-light-white-22px">{{ fortDePlusDe10A }}</p>
           <router-link to="/contact">
-            <div class="pm_section_1_button-1">
-              <div class="overlap-group-40">
-                <div class="rectangle-10-23"></div>
-                <div class="rectangle-9-23"></div>
+            <div class="pm_section_1_button">
+              <div class="overlap-group-20">
+                <div class="rectangle-10-5"></div>
+                <div class="rectangle-9-5"></div>
                 <p class="discutons-le-temps-dun-cafe rubik-normal-midnight-blue-18px">{{ discutonsLeTempsDunCafe }}</p>
               </div>
             </div></router-link
@@ -35,17 +35,17 @@
         </div>
       </div>
       <div class="section-2">
-        <div class="left-2">
+        <div class="left">
           <p class="mon-profil-en-quelques-mots inferi-trial-regular-normal-shark-47px">
             {{ monProfilEnQuelquesMots }}
           </p>
         </div>
         <div class="frame-25">
-          <div class="frame-14-1">
+          <div class="frame-14">
             <div class="group-25">
-              <div class="overlap-group-41 rubik-light-shark-28px">
-                <div class="rectangle-31-14"></div>
-                <div class="rectangle-30-34"></div>
+              <div class="overlap-group-21 rubik-light-shark-28px">
+                <div class="rectangle-31"></div>
+                <div class="rectangle-30-32"></div>
                 <p class="ancien-directeur-d">{{ ancienDirecteurD }}</p>
                 <p class="radio-france-oui">{{ radioFranceOui }}</p>
                 <p class="crateur-dapplica">{{ crateurDapplica }}</p>
@@ -55,10 +55,10 @@
             </div>
           </div>
           <a href="https://www.linkedin.com/in/jean-baptiste-denoual-3a4b4232/" target="_blank">
-            <div class="button-1-1">
+            <div class="button-1">
               <div class="overlap-group1-18">
-                <div class="rectangle-10-24"></div>
-                <div class="rectangle-9-24"></div>
+                <div class="rectangle-10-6"></div>
+                <div class="rectangle-9-6"></div>
                 <p class="voir-mes-experiences rubik-normal-midnight-blue-18px">{{ voirMesExperiences }}</p>
               </div>
             </div></a
@@ -70,8 +70,8 @@
         <a href="files/CV Compétences Jean-Baptiste Denoual 2025.pdf" target="_blank">
           <div class="frame-26">
             <div class="group-9">
-              <div class="overlap-group-42">
-                <div class="rectangle-31-15"></div>
+              <div class="overlap-group-22">
+                <div class="rectangle-31-1"></div>
                 <img class="cv_screenshot" :src="cv_Screenshot" alt="cv_screenshot" />
               </div>
             </div></div
@@ -81,9 +81,9 @@
         <p class="ce-quils-disent-de-moi inferi-regular-normal-shark-47px">{{ ceQuilsDisentDeMoi }}</p>
         <div class="frame-20">
           <div class="group-17">
-            <div class="overlap-group-43">
-              <div class="rectangle-31-16"></div>
-              <div class="rectangle-30-35"></div>
+            <div class="overlap-group-23">
+              <div class="rectangle-31-2"></div>
+              <div class="rectangle-30-33"></div>
               <p class="jai-eu-l rubik-light-shark-16px" v-html="jAiEuLePlaisirD"></p>
               <div class="group-19">
                 <img class="kevin" :src="kevin" alt="kevin" />
@@ -98,8 +98,8 @@
           </div>
           <div class="group-18-1">
             <div class="overlap-group1-19">
-              <div class="rectangle-31-17"></div>
-              <div class="rectangle-30-36"></div>
+              <div class="rectangle-31-3"></div>
+              <div class="rectangle-30-34"></div>
               <p class="jai-eu-l rubik-light-shark-16px" v-html="jAiEuLOccasionD"></p>
               <div class="group-19-1">
                 <img class="matthieu" :src="matthieu" alt="matthieu" />
@@ -112,33 +112,33 @@
           </div>
         </div>
       </div>
-      <footer class="footer-6">
-        <div class="footer_contact-5">
+      <footer class="footer-2">
+        <div class="footer_contact-1">
           <p class="crer-un-produit-est inferi-regular-normal-white-47px">{{ crerUnProduitEst }}</p>
           <router-link to="/contact">
-            <div class="footer_button-2">
-              <div class="overlap-group-44">
-                <div class="rectangle-10-25"></div>
-                <div class="rectangle-9-25"></div>
-                <div class="allons-y-ensemble-5 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
+            <div class="footer_button">
+              <div class="overlap-group-24">
+                <div class="rectangle-10-7"></div>
+                <div class="rectangle-9-7"></div>
+                <div class="allons-y-ensemble-1 rubik-normal-midnight-blue-18px">{{ allonsYEnsemble }}</div>
               </div>
             </div></router-link
           >
         </div>
-        <div class="footer_links-6">
-          <div class="footer_links_1-6">
-            <router-link to="/index-1"><img class="logo-8" :src="logo_2" alt="logo_2" /></router-link>
-            <div class="menu-6">
-              <router-link to="/index-1">
-                <div class="link-6 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
+        <div class="footer_links-2">
+          <div class="footer_links_1-2">
+            <router-link to="/home"><img class="logo-13" :src="logo_2" alt="logo_2" /></router-link>
+            <div class="menu-2">
+              <router-link to="/home">
+                <div class="link-2 rubik-normal-white-16px">{{ accueil2 }}</div> </router-link
               ><router-link to="/product-management">
-                <div class="link-6 rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
+                <div class="link-2 rubik-normal-white-16px">{{ productManagement2 }}</div> </router-link
               ><router-link to="/product-ops">
-                <div class="link-6 rubik-normal-white-16px">{{ productOps2 }}</div>
+                <div class="link-2 rubik-normal-white-16px">{{ productOps2 }}</div>
               </router-link>
               <div class="expriences rubik-normal-white-16px">{{ expriences3 }}</div>
               <router-link to="/contact">
-                <div class="link-6 rubik-normal-white-16px">{{ place2 }}</div>
+                <div class="link-2 rubik-normal-white-16px">{{ place2 }}</div>
               </router-link>
             </div>
           </div>
@@ -200,7 +200,7 @@ export default {
   position: relative;
 }
 
-.global-3 {
+.global-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -224,7 +224,7 @@ export default {
   width: 100%;
 }
 
-.header-12 {
+.header-4 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -234,8 +234,8 @@ export default {
   width: 100%;
 }
 
-.header-13,
-.footer_links_1-6 {
+.header-5,
+.footer_links_1-2 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -247,13 +247,13 @@ export default {
   position: relative;
 }
 
-.logo-8 {
+.logo-13 {
   cursor: pointer;
   position: relative;
   width: 63.13px;
 }
 
-.menu-6 {
+.menu-2 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -266,7 +266,7 @@ export default {
   position: relative;
 }
 
-.link-6 {
+.link-2 {
   cursor: pointer;
   letter-spacing: 0;
   line-height: normal;
@@ -285,7 +285,7 @@ export default {
   width: fit-content;
 }
 
-.pm_section_1_details-1 {
+.pm_section_1_details {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -315,20 +315,20 @@ export default {
   text-align: center;
 }
 
-.pm_section_1_button-1 {
+.pm_section_1_button {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 483px;
 }
 
-.overlap-group-40 {
+.overlap-group-20 {
   height: 72px;
   position: relative;
   width: 481px;
 }
 
-.rectangle-10-23 {
+.rectangle-10-5 {
   background-color: var(--macaroni-and-cheese);
   height: 64px;
   left: 8px;
@@ -337,7 +337,7 @@ export default {
   width: 473px;
 }
 
-.rectangle-9-23 {
+.rectangle-9-5 {
   background-color: var(--negroni);
   height: 65px;
   left: 0;
@@ -367,7 +367,7 @@ export default {
   width: 100%;
 }
 
-.left-2 {
+.left {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -400,7 +400,7 @@ export default {
   width: 100%;
 }
 
-.frame-14-1 {
+.frame-14 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -420,13 +420,13 @@ export default {
   width: 100%;
 }
 
-.overlap-group-41 {
+.overlap-group-21 {
   height: 504px;
   position: relative;
   width: 880px;
 }
 
-.rectangle-31-14 {
+.rectangle-31 {
   background-color: var(--hippie-blue);
   height: 492px;
   left: 9px;
@@ -435,7 +435,7 @@ export default {
   width: 871px;
 }
 
-.rectangle-30-34 {
+.rectangle-30-32 {
   background-color: var(--link-water);
   height: 491px;
   left: 0;
@@ -489,7 +489,7 @@ export default {
   width: 739px;
 }
 
-.button-1-1 {
+.button-1 {
   cursor: pointer;
   height: 72px;
   position: relative;
@@ -502,7 +502,7 @@ export default {
   width: 527px;
 }
 
-.rectangle-10-24 {
+.rectangle-10-6 {
   background-color: var(--macaroni-and-cheese);
   height: 64px;
   left: 8px;
@@ -511,7 +511,7 @@ export default {
   width: 519px;
 }
 
-.rectangle-9-24 {
+.rectangle-9-6 {
   background-color: var(--negroni);
   height: 65px;
   left: 0;
@@ -561,13 +561,13 @@ export default {
   width: 100%;
 }
 
-.overlap-group-42 {
+.overlap-group-22 {
   height: 939px;
   position: relative;
   width: 660px;
 }
 
-.rectangle-31-15 {
+.rectangle-31-1 {
   background-color: var(--hippie-blue);
   height: 933px;
   left: 0;
@@ -615,13 +615,13 @@ export default {
   width: 492px;
 }
 
-.overlap-group-43 {
+.overlap-group-23 {
   height: 503px;
   position: relative;
   width: 490px;
 }
 
-.rectangle-31-16 {
+.rectangle-31-2 {
   background-color: var(--macaroni-and-cheese);
   height: 492px;
   left: 9px;
@@ -630,7 +630,7 @@ export default {
   width: 481px;
 }
 
-.rectangle-30-35 {
+.rectangle-30-33 {
   background-color: var(--negroni);
   height: 491px;
   left: 0;
@@ -700,7 +700,7 @@ export default {
   width: 490px;
 }
 
-.rectangle-31-17 {
+.rectangle-31-3 {
   background-color: var(--macaroni-and-cheese);
   height: 629px;
   left: 9px;
@@ -709,7 +709,7 @@ export default {
   width: 481px;
 }
 
-.rectangle-30-36 {
+.rectangle-30-34 {
   background-color: var(--negroni);
   height: 628px;
   left: 0;
@@ -738,7 +738,7 @@ export default {
   width: 168px;
 }
 
-.footer-6 {
+.footer-2 {
   align-items: center;
   align-self: stretch;
   background-color: var(--midnight-blue);
@@ -753,7 +753,7 @@ export default {
   width: 100%;
 }
 
-.footer_contact-5 {
+.footer_contact-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -773,20 +773,20 @@ export default {
   text-align: center;
 }
 
-.footer_button-2 {
+.footer_button {
   cursor: pointer;
   height: 72px;
   position: relative;
   width: 312px;
 }
 
-.overlap-group-44 {
+.overlap-group-24 {
   height: 72px;
   position: relative;
   width: 310px;
 }
 
-.rectangle-10-25 {
+.rectangle-10-7 {
   background-color: var(--hippie-blue-2);
   height: 64px;
   left: 5px;
@@ -795,7 +795,7 @@ export default {
   width: 305px;
 }
 
-.rectangle-9-25 {
+.rectangle-9-7 {
   background-color: var(--link-water-2);
   height: 65px;
   left: 0;
@@ -804,7 +804,7 @@ export default {
   width: 305px;
 }
 
-.allons-y-ensemble-5 {
+.allons-y-ensemble-1 {
   left: 2px;
   letter-spacing: 0;
   line-height: normal;
@@ -814,7 +814,7 @@ export default {
   width: 299px;
 }
 
-.footer_links-6 {
+.footer_links-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
