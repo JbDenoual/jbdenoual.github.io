@@ -1,16 +1,16 @@
 <template>
   <div :class="[`line-2`, className || ``]">
-    <checkbox22 />
+    <checkbox />
     <p class="votre rubik-light-shark-24px">{{ votreQuotidienNeV }}</p>
   </div>
 </template>
 
 <script>
-import Checkbox22 from "./Checkbox22";
+import Checkbox from "./Checkbox";
 export default {
   name: "Line2",
   components: {
-    Checkbox22,
+    Checkbox,
   },
   props: ["votreQuotidienNeV", "className"],
 };

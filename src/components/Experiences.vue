@@ -36,9 +36,7 @@
       </div>
       <div class="section-2">
         <div class="left">
-          <p class="mon-profil-en-quelques-mots inferi-trial-regular-normal-shark-47px">
-            {{ monProfilEnQuelquesMots }}
-          </p>
+          <p class="mon-profil-en-quelques-mots inferi-regular-normal-shark-47px">{{ monProfilEnQuelquesMots }}</p>
         </div>
         <div class="frame-25">
           <div class="frame-14">
@@ -116,7 +114,7 @@
         <div class="footer_contact-1">
           <p class="crer-un-produit-est inferi-regular-normal-white-47px">{{ crerUnProduitEst }}</p>
           <router-link to="/contact">
-            <div class="footer_button-1">
+            <div class="footer_button">
               <div class="overlap-group-14">
                 <div class="rectangle-10-7"></div>
                 <div class="rectangle-9-7"></div>
@@ -261,7 +259,7 @@ export default {
   flex-wrap: wrap;
   gap: 30px 30px;
   justify-content: flex-end;
-  margin-left: 0px;
+  margin-left: -3.81e-6px;
   min-height: 62px;
   position: relative;
 }
@@ -787,7 +785,7 @@ export default {
   text-align: center;
 }
 
-.footer_button-1 {
+.footer_button {
   cursor: pointer;
   height: 72px;
   position: relative;

@@ -1,8 +1,8 @@
 <template>
   <div class="group-1-1">
-    <div class="overlap-group-34">
-      <div class="rectangle-31-12"></div>
-      <div class="rectangle-30-23"></div>
+    <div class="overlap-group-25">
+      <div class="rectangle-31-8"></div>
+      <div class="rectangle-30-19"></div>
       <p class="apprendre-prioriser-selon-la-valeur">{{ apprendrePrioriserSelonLaValeur }}</p>
     </div>
   </div>
@@ -22,13 +22,13 @@ export default {
   width: 294.35px;
 }
 
-.overlap-group-34 {
+.overlap-group-25 {
   height: 238px;
   position: relative;
   width: 292px;
 }
 
-.rectangle-31-12 {
+.rectangle-31-8 {
   background-color: var(--hippie-blue);
   height: 226px;
   left: 8px;
@@ -37,7 +37,7 @@ export default {
   width: 284px;
 }
 
-.rectangle-30-23 {
+.rectangle-30-19 {
   background-color: var(--link-water);
   height: 226px;
   left: 0;

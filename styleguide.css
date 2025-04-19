@@ -131,14 +131,6 @@
   font-weight: 300;
 }
 
-.inferi-trial-regular-normal-white-47px {
-  color: var(--white);
-  font-family: var(--font-family-inferi-trial-regular);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .inferi-regular-normal-shark-40px {
   color: var(--shark);
   font-family: var(--font-family-inferi-regular);
@@ -219,14 +211,6 @@
   font-weight: 400;
 }
 
-.inferi-trial-regular-normal-shark-47px {
-  color: var(--shark);
-  font-family: var(--font-family-inferi-trial-regular);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .rubik-light-shark-16px {
   color: var(--shark);
   font-family: var(--font-family-rubik);
@@ -247,14 +231,6 @@
   color: var(--shark);
   font-family: var(--font-family-inferi-trial-regular);
   font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inferi-trial-regular-normal-midnight-blue-47px {
-  color: var(--midnight-blue);
-  font-family: var(--font-family-inferi-trial-regular);
-  font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 400;
 }

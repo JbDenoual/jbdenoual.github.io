@@ -46,7 +46,7 @@
     </div>
     <div class="logo-2">
       <div class="logo-3">
-        <img class="jb" :src="jb" alt="JB" /><img class="denoual" :src="denoual" alt="Denoual" />
+        <img class="jb" :src="jb" alt="JB" /><img class="denoual-1" :src="denoual" alt="Denoual" />
       </div>
     </div>
   </div>
@@ -165,13 +165,17 @@ export default {
   width: 61.17px;
 }
 
-.denoual {
+.denoual-1 {
   height: 10.78px;
   width: 59.82px;
 }
 
 .logo-1-1.logo-1 .jb {
   height: 34.2px;
+}
+
+.logo-1-1.logo-1 .denoual-1 {
+  height: 10.78px;
 }
 
 .logo-1-1.logo-4-1 .logo-3,
@@ -189,8 +193,8 @@ export default {
   width: 61px;
 }
 
-.logo-1-1.logo-4-1 .denoual,
-.logo-1-1.logo-4 .denoual {
+.logo-1-1.logo-4-1 .denoual-1,
+.logo-1-1.logo-4 .denoual-1 {
   height: 11px;
   width: 60px;
 }

@@ -22,7 +22,7 @@
         <div class="home_section_1_details_1-1">
           <img class="me-1" :src="me" alt="me" />
           <div class="home_section_1_text-1">
-            <caroussel2 />
+            <caroussel2 :carousselProps="caroussel2Props.carousselProps" />
             <div class="home_section_1_buttons-1">
               <router-link to="/product-management">
                 <div class="home_button_1-1">
@@ -46,7 +46,12 @@
         </div>
       </div>
     </div>
-    <home-section2 />
+    <div class="home_section_2-1">
+      <div class="home_section_2_1-1">
+        <home2-left />
+        <home2-right />
+      </div>
+    </div>
     <div class="home_section_3-1">
       <p class="je-suis-la-recherche-dun-1 inferi-regular-normal-shark-47px">{{ jeSuisLaRechercheDun }}</p>
       <div class="home_3_offers-1">
@@ -60,7 +65,7 @@
                 <p class="pour-des-missions-de-2 rubik-light-black-22px" v-html="pourDesMissionsDe1"></p>
               </div>
               <router-link to="/product-management">
-                <div class="home_offer_1_1-1"><img class="x-2" :src="x551837" alt="--&gt;" /></div
+                <div class="home_offer_1_1-1"><img class="x-2" :src="x643637" alt="--&gt;" /></div
               ></router-link>
             </div>
           </div>
@@ -85,7 +90,7 @@
         <div class="propos-de-moi-1 inferi-regular-normal-shark-47px">{{ proposDeMoi }}</div>
         <p class="mes-clients-me-dcri-1 rubik-light-shark-19px" v-html="mesClientsMeDcri"></p>
         <router-link to="/experiences">
-          <div class="_button">
+          <div class="_button-1">
             <div class="overlap-group-15">
               <div class="rectangle-10-8"></div>
               <div class="rectangle-9-8"></div>
@@ -96,17 +101,27 @@
           </div></router-link
         >
       </div>
-      <about-picture :src="aboutPictureProps.src" />
+      <about-picture />
     </div>
-    <home-section5
-      :principle21Props="homeSection5Props.principle21Props"
-      :principle22Props="homeSection5Props.principle22Props"
-    />
+    <div class="home_section_5-1">
+      <p class="les-principes-qui-gu-1 inferi-regular-normal-midnight-blue-47px">{{ lesPrincipesQuiGu }}</p>
+      <div class="home_principles-1">
+        <div class="principle-4">
+          <principle1 />
+          <principle2 :surname="principle21Props.surname" />
+          <principle3 />
+        </div>
+        <div class="principle-4">
+          <principle2 :surname="principle22Props.surname" />
+          <principle5 />
+        </div>
+      </div>
+    </div>
     <footer class="footer-3">
       <div class="footer_contact-2">
         <p class="plutt-que-dadmirer-1 inferi-regular-normal-white-47px">{{ pluttQueDadmirer }}</p>
         <router-link to="/contact">
-          <div class="_button">
+          <div class="_button-1">
             <div class="overlap-group-15">
               <div class="rectangle-10-8"></div>
               <div class="rectangle-9-8"></div>
@@ -138,16 +153,24 @@
 
 <script>
 import Caroussel2 from "./Caroussel2";
-import HomeSection2 from "./HomeSection2";
+import Home2Left from "./Home2Left";
+import Home2Right from "./Home2Right";
 import AboutPicture from "./AboutPicture";
-import HomeSection5 from "./HomeSection5";
+import Principle1 from "./Principle1";
+import Principle2 from "./Principle2";
+import Principle3 from "./Principle3";
+import Principle5 from "./Principle5";
 export default {
   name: "GlobalHome2",
   components: {
     Caroussel2,
-    HomeSection2,
+    Home2Left,
+    Home2Right,
     AboutPicture,
-    HomeSection5,
+    Principle1,
+    Principle2,
+    Principle3,
+    Principle5,
   },
   props: [
     "logo",
@@ -162,13 +185,14 @@ export default {
     "jeSuisLaRechercheDun",
     "productManager2",
     "pourDesMissionsDe1",
-    "x551837",
+    "x643637",
     "productOps3",
     "pourDesMissionsDe2",
     "x551838",
     "proposDeMoi",
     "mesClientsMeDcri",
     "consulterMesExperiences",
+    "lesPrincipesQuiGu",
     "pluttQueDadmirer",
     "allonsYEnsemble",
     "logo_2",
@@ -177,8 +201,9 @@ export default {
     "productOps4",
     "expriences2",
     "place2",
-    "aboutPictureProps",
-    "homeSection5Props",
+    "caroussel2Props",
+    "principle21Props",
+    "principle22Props",
   ],
 };
 </script>
@@ -308,7 +333,7 @@ export default {
   flex-grow: 1;
   gap: 30px;
   justify-content: center;
-  max-width: 600px;
+  max-width: 620px;
   min-width: 350px;
   position: relative;
 }
@@ -405,6 +430,29 @@ export default {
   text-align: center;
   top: 22px;
   width: 201px;
+}
+
+.home_section_2-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 53px 53px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.home_section_2_1-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 53px 53px;
+  justify-content: center;
+  position: relative;
 }
 
 .home_section_3-1 {
@@ -607,7 +655,7 @@ export default {
 }
 
 .about-1 {
-  align-items: center;
+  align-items: flex-start;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -615,6 +663,7 @@ export default {
   gap: 50px;
   justify-content: center;
   max-width: 650px;
+  min-width: 350px;
   position: relative;
 }
 
@@ -633,7 +682,7 @@ export default {
   position: relative;
 }
 
-._button {
+._button-1 {
   cursor: pointer;
   height: 72px;
   position: relative;
@@ -675,6 +724,49 @@ export default {
   width: 299px;
 }
 
+.home_section_5-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 75px;
+  position: relative;
+  width: 100%;
+}
+
+.les-principes-qui-gu-1,
+.plutt-que-dadmirer-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.home_principles-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.principle-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
 .footer-3 {
   align-items: center;
   align-self: stretch;
@@ -700,14 +792,6 @@ export default {
   max-width: 1100px;
   position: relative;
   width: 100%;
-}
-
-.plutt-que-dadmirer-1 {
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1px;
-  position: relative;
-  text-align: center;
 }
 
 .footer_links-3 {

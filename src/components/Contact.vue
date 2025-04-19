@@ -20,7 +20,7 @@
           </div>
         </div>
         <div class="frame-5">
-          <h1 class="place-1 inferi-trial-regular-normal-white-47px">{{ place2 }}</h1>
+          <h1 class="place-1 inferi-regular-normal-white-47px">{{ place2 }}</h1>
         </div>
       </div>
       <div class="section_2">
@@ -171,7 +171,7 @@ export default {
   flex-wrap: wrap;
   gap: 30px 30px;
   justify-content: flex-end;
-  margin-left: 0px;
+  margin-left: -3.81e-6px;
   min-height: 62px;
   position: relative;
 }

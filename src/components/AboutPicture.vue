@@ -2,7 +2,11 @@
   <div class="about_picture">
     <div class="overlap-group1-2">
       <div class="x2024-06-14_113758_x-t2_9053-2"></div>
-      <img class="me2" :src="src" alt="me2" />
+      <img
+        class="me2"
+        src="https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67eea5c1de3a1be8d11fb760/img/me2.png"
+        alt="me2"
+      />
     </div>
   </div>
 </template>
@@ -10,7 +14,6 @@
 <script>
 export default {
   name: "AboutPicture",
-  props: ["src"],
 };
 </script>
 
