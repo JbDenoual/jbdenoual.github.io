@@ -59,4 +59,7 @@ export default new Router({
       props: { globalHome2Props: indexData.globalHome2Props },
     },
   ],
+  scrollBehavior () {
+    return { x: 0, y: 0 };
+  }
 });
