@@ -7,6 +7,7 @@ import Index from "./components/Index";
 import ProductManagement from "./components/ProductManagement";
 import ProductOps from "./components/ProductOps";
 import Index478 from "./components/Index478";
+
 import {
   contactData,
   index700Data,
@@ -20,7 +21,7 @@ import {
 Vue.use(Router);
 
 export default new Router({
-  mode: "history",
+  mode: "hash",
   routes: [
     {
       path: "/contact",
