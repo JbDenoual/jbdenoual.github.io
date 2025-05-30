@@ -441,7 +441,7 @@ export const experiencesData = {
     x10AnsDexprien: "🚦  +10 ans d’expérience sur des produits à très fort trafic, B2C et B2B",
     voirMesExperiences: "VOIR MES EXPERIENCES EN DETAIL (LINKEDIN)",
     tlchargerMonCvDtaill: "Télécharger mon CV détaillé",
-    cv_Screenshot: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/68036d2734945049ce8cbacd/img/cv-screenshot.png",
+    cv_Screenshot: "https://github.com/JbDenoual/jbdenoual.github.io/blob/master/img/cv-screenshot.png?raw=true",
     ceQuilsDisentDeMoi: "Ce qu’ils disent de moi",
     jAiEuLePlaisirD: "J'ai eu le plaisir de collaborer avec Jean-Baptiste en tant que Product Manager pour un client grand compte commun, et je ne peux que recommander son travail. <br /><br />Jean-Baptiste a géré avec talent le développement du produit, en combinant à la fois une vision claire et une exécution efficace. <br />Il se démarque par son esprit d’équipe, sa capacité à résoudre des problèmes complexes et son leadership motivant. Si vous avez besoin d'un Product Manager talentueux et impliqué, Jean-Baptiste est la personne idéale.",
     kevin: "https://cdn.animaapp.com/projects/67de7d97a31d67f6e9fd3da5/releases/67e808922ff18dbfb1113119/img/kevin-1.png",
